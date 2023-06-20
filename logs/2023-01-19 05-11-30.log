@@ -1,0 +1,160 @@
+[INFO ] 2023-01-19 05:11:31.149 [timesheets.TG_4290_TimesheetCreation] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2023-01-19 05:11:36.000 [timesheets.TG_4290_TimesheetCreation] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-19 05:11:36.654 [timesheets.TG_4290_TimesheetCreation] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-19 05:11:36.655 [timesheets.TG_4290_TimesheetCreation] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-19 05:11:36.844 [timesheets.TG_4290_TimesheetCreation] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-19 05:11:36.848 [timesheets.TG_4290_TimesheetCreation] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-19 05:11:37.353 [timesheets.TG_4290_TimesheetCreation] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-19 05:11:37.354 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Clicking on New Order Button
+[INFO ] 2023-01-19 05:11:50.829 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - New Order Button clicked successfully
+[INFO ] 2023-01-19 05:11:50.831 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Entering EstDailyHours
+[INFO ] 2023-01-19 05:12:00.026 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2023-01-19 05:12:00.027 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Entering StartDate
+[INFO ] 2023-01-19 05:12:05.697 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - StartDate entered successfully
+[INFO ] 2023-01-19 05:12:05.698 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Entering EndDate
+[INFO ] 2023-01-19 05:12:17.073 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - EndDate entered successfully
+[INFO ] 2023-01-19 05:12:17.077 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Entering StartTime
+[INFO ] 2023-01-19 05:12:18.120 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - StartTime entered successfully
+[INFO ] 2023-01-19 05:12:18.121 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Entering Availability
+[INFO ] 2023-01-19 05:12:18.360 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Availabilit entered successfully
+[INFO ] 2023-01-19 05:12:18.360 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Entering JobSite
+[INFO ] 2023-01-19 05:12:24.575 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - JobSite entered successfully
+[INFO ] 2023-01-19 05:12:24.576 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Entering JobTitle
+[INFO ] 2023-01-19 05:12:33.822 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - JobTitle entered successfully
+[INFO ] 2023-01-19 05:12:33.829 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Entering No Of Workers
+[INFO ] 2023-01-19 05:12:39.030 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2023-01-19 05:12:39.035 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Entering ESignature
+[INFO ] 2023-01-19 05:12:42.204 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - ESignature entered successfully
+[INFO ] 2023-01-19 05:12:42.205 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - clickAgreeContract
+[INFO ] 2023-01-19 05:12:42.362 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - clickAgreeContract successfully
+[INFO ] 2023-01-19 05:12:42.362 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - clickSaveButton
+[INFO ] 2023-01-19 05:12:42.604 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2023-01-19 05:12:50.977 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Job order link present on the home page clicked
+[INFO ] 2023-01-19 05:12:59.186 [timesheets.TG_4290_TimesheetCreation] [newOrderHiring] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-01-19 05:13:10.637 [timesheets.TG_4290_TimesheetCreation] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow CreateEmployeeFromStaffing
+[INFO ] 2023-01-19 05:13:19.442 [timesheets.TG_4290_TimesheetCreation] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-19 05:13:19.561 [timesheets.TG_4290_TimesheetCreation] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-19 05:13:19.561 [timesheets.TG_4290_TimesheetCreation] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-19 05:13:19.638 [timesheets.TG_4290_TimesheetCreation] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-19 05:13:19.638 [timesheets.TG_4290_TimesheetCreation] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-19 05:13:19.743 [timesheets.TG_4290_TimesheetCreation] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-19 05:13:56.030 [timesheets.TG_4290_TimesheetCreation] [clickAddNewEployeeButton] - Clicking on Add New Employee Button
+[INFO ] 2023-01-19 05:13:56.760 [timesheets.TG_4290_TimesheetCreation] [clickAddNewEployeeButton] - Employee button clicked successfully
+[INFO ] 2023-01-19 05:14:01.780 [timesheets.TG_4290_TimesheetCreation] [enterCompanyName] - Entering Company Name
+[INFO ] 2023-01-19 05:14:02.241 [timesheets.TG_4290_TimesheetCreation] [enterCompanyName] - Company Name entered successfully
+[INFO ] 2023-01-19 05:14:04.248 [timesheets.TG_4290_TimesheetCreation] [enterFirstName] - Entering First Name
+[INFO ] 2023-01-19 05:14:04.360 [timesheets.TG_4290_TimesheetCreation] [enterFirstName] - First Name entered successfully
+[INFO ] 2023-01-19 05:14:06.366 [timesheets.TG_4290_TimesheetCreation] [enterLastName] - Entering Last Name
+[INFO ] 2023-01-19 05:14:06.471 [timesheets.TG_4290_TimesheetCreation] [enterLastName] - Last Name entered successfully
+[INFO ] 2023-01-19 05:14:08.478 [timesheets.TG_4290_TimesheetCreation] [enterDateOfBirthField] - Entering date of birth
+[INFO ] 2023-01-19 05:14:09.677 [timesheets.TG_4290_TimesheetCreation] [enterDateOfBirthField] - Date of birth entered successfully
+[INFO ] 2023-01-19 05:14:11.686 [timesheets.TG_4290_TimesheetCreation] [enterEmail] - Entering email
+[INFO ] 2023-01-19 05:14:11.958 [timesheets.TG_4290_TimesheetCreation] [enterEmail] - Email entered successfully
+[INFO ] 2023-01-19 05:14:13.964 [timesheets.TG_4290_TimesheetCreation] [selectSearchOnMapsCheckbox] - Selecting search on Maps checkbox
+[INFO ] 2023-01-19 05:14:16.163 [timesheets.TG_4290_TimesheetCreation] [selectSearchOnMapsCheckbox] - Search on maps checkbox selected
+[INFO ] 2023-01-19 05:14:18.171 [timesheets.TG_4290_TimesheetCreation] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2023-01-19 05:14:19.466 [timesheets.TG_4290_TimesheetCreation] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2023-01-19 05:14:21.472 [timesheets.TG_4290_TimesheetCreation] [clickSaveButton] - Clicking Save button
+[INFO ] 2023-01-19 05:14:21.714 [timesheets.TG_4290_TimesheetCreation] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-01-19 05:15:01.732 [timesheets.TG_4290_TimesheetCreation] [getEmployeeIdFromEmaployeeDetailsPage] - Fetching employee id
+[INFO ] 2023-01-19 05:15:01.950 [timesheets.TG_4290_TimesheetCreation] [getEmployeeIdFromEmaployeeDetailsPage] - Employee id fetched successfully
+[INFO ] 2023-01-19 05:15:02.195 [timesheets.TG_4290_TimesheetCreation] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow ClaimFromStaffing
+[INFO ] 2023-01-19 05:15:02.195 [timesheets.TG_4290_TimesheetCreation] [ClaimOrderForStaffing] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-01-19 05:15:18.194 [timesheets.TG_4290_TimesheetCreation] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-01-19 05:15:28.375 [timesheets.TG_4290_TimesheetCreation] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-01-19 05:15:28.377 [timesheets.TG_4290_TimesheetCreation] [ClaimOrderForStaffing] - Clicking on Claim order Button
+[INFO ] 2023-01-19 05:15:41.201 [timesheets.TG_4290_TimesheetCreation] [ClaimOrderForStaffing] - Claim order button clicked successfully
+[INFO ] 2023-01-19 05:15:41.203 [timesheets.TG_4290_TimesheetCreation] [ClaimOrderForStaffing] - Entering the No. of Employees Claim
+[INFO ] 2023-01-19 05:15:46.480 [timesheets.TG_4290_TimesheetCreation] [ClaimOrderForStaffing] - No. of Employees Claim entered successfully
+[INFO ] 2023-01-19 05:15:51.504 [timesheets.TG_4290_TimesheetCreation] [ClaimOrderForStaffing] - Entering the E-Signature
+[INFO ] 2023-01-19 05:15:53.771 [timesheets.TG_4290_TimesheetCreation] [ClaimOrderForStaffing] - E-Signature entered successfully
+[INFO ] 2023-01-19 05:15:53.773 [timesheets.TG_4290_TimesheetCreation] [ClaimOrderForStaffing] - Clicking on Agree to Contract Button
+[INFO ] 2023-01-19 05:15:55.978 [timesheets.TG_4290_TimesheetCreation] [ClaimOrderForStaffing] - Agree to Contract Button clicked successfully
+[INFO ] 2023-01-19 05:15:55.979 [timesheets.TG_4290_TimesheetCreation] [ClaimOrderForStaffing] - Clicking on Submit Claim Button
+[INFO ] 2023-01-19 05:16:03.177 [timesheets.TG_4290_TimesheetCreation] [ClaimOrderForStaffing] - Submit Claim Button clicked successfully
+[INFO ] 2023-01-19 05:16:46.283 [timesheets.TG_4290_TimesheetCreation] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow ApproveHiring
+[INFO ] 2023-01-19 05:16:54.093 [timesheets.TG_4290_TimesheetCreation] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-19 05:16:54.192 [timesheets.TG_4290_TimesheetCreation] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-19 05:16:54.192 [timesheets.TG_4290_TimesheetCreation] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-19 05:16:54.298 [timesheets.TG_4290_TimesheetCreation] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-19 05:16:54.298 [timesheets.TG_4290_TimesheetCreation] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-19 05:16:54.407 [timesheets.TG_4290_TimesheetCreation] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-19 05:16:54.408 [timesheets.TG_4290_TimesheetCreation] [ApproveClaimFromHiring] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-01-19 05:17:04.211 [timesheets.TG_4290_TimesheetCreation] [ApproveClaimFromHiring] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-01-19 05:17:04.213 [timesheets.TG_4290_TimesheetCreation] [ApproveClaimFromHiring] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-01-19 05:17:18.421 [timesheets.TG_4290_TimesheetCreation] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form 
+[INFO ] 2023-01-19 05:17:21.546 [timesheets.TG_4290_TimesheetCreation] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form successfully
+[INFO ] 2023-01-19 05:17:21.547 [timesheets.TG_4290_TimesheetCreation] [ApproveClaimFromHiring] - Clicking the select head count button on the claim order form
+[INFO ] 2023-01-19 05:17:22.314 [timesheets.TG_4290_TimesheetCreation] [ApproveClaimFromHiring] - Clicked the select head count button on the claim order form successfully
+[INFO ] 2023-01-19 05:17:22.315 [timesheets.TG_4290_TimesheetCreation] [ApproveClaimFromHiring] - Entering Approve count should not be greater than Workerscount
+[INFO ] 2023-01-19 05:17:28.941 [timesheets.TG_4290_TimesheetCreation] [ApproveClaimFromHiring] - Approve count is not more than the workers count
+[INFO ] 2023-01-19 05:17:28.947 [timesheets.TG_4290_TimesheetCreation] [ApproveClaimFromHiring] - Clicking on modal submit Button
+[INFO ] 2023-01-19 05:17:34.086 [timesheets.TG_4290_TimesheetCreation] [ApproveClaimFromHiring] - Modal submit button clicked successfully
+[INFO ] 2023-01-19 05:17:45.967 [timesheets.TG_4290_TimesheetCreation] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow AssignEmployee
+[INFO ] 2023-01-19 05:17:52.070 [timesheets.TG_4290_TimesheetCreation] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-19 05:17:52.141 [timesheets.TG_4290_TimesheetCreation] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-19 05:17:52.142 [timesheets.TG_4290_TimesheetCreation] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-19 05:17:52.337 [timesheets.TG_4290_TimesheetCreation] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-19 05:17:52.338 [timesheets.TG_4290_TimesheetCreation] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-19 05:17:52.419 [timesheets.TG_4290_TimesheetCreation] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-19 05:17:52.419 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-01-19 05:18:06.832 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-01-19 05:18:06.836 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-01-19 05:18:10.539 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - All orders menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-01-19 05:18:17.547 [timesheets.TG_4290_TimesheetCreation] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-01-19 05:18:27.707 [timesheets.TG_4290_TimesheetCreation] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-01-19 05:18:27.708 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Clicking Assign employees under the related section
+[INFO ] 2023-01-19 05:18:37.092 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Clicked assign employees on job order form successfully
+[INFO ] 2023-01-19 05:18:37.098 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Entering Distance radius in new Assign Employee form 
+[INFO ] 2023-01-19 05:18:37.214 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Distance radius in new Assign Employee form entered successfully
+[INFO ] 2023-01-19 05:18:37.215 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Clicking CheckBox ShowAllEmployees
+[INFO ] 2023-01-19 05:18:39.346 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] -  ShowAllEmployees CheckBox clicked successfully
+[INFO ] 2023-01-19 05:18:39.347 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Clicking AddRow in new Assign Employee form 
+[INFO ] 2023-01-19 05:18:46.557 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - AddRow button in new Assign Employee form clicked successfully
+[INFO ] 2023-01-19 05:18:46.558 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Clicking edit button on the form under the EmployeeDetails
+[INFO ] 2023-01-19 05:18:46.747 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Clicked edit button on the form under the EmployeeDetails successfully
+[INFO ] 2023-01-19 05:18:46.968 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - employeeId in new Assign Employee form entered successfully
+[INFO ] 2023-01-19 05:18:46.969 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Clicking Dropdown arrow in the modal
+[INFO ] 2023-01-19 05:18:47.130 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Clicked Dropdown arrow in the modal successfully
+[INFO ] 2023-01-19 05:18:49.136 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - Clicking save new Assign Employee form
+[INFO ] 2023-01-19 05:18:53.260 [timesheets.TG_4290_TimesheetCreation] [AssignEmployee] - save button in new Assign Employee form clicked successfully
+[INFO ] 2023-01-19 05:20:39.839 [timesheets.TG_4290_TimesheetCreation] [Tag_VerifyHiringAdminAbleToViewEmployeesHaveBeenAssignedPleaseSubmitTheirTimesheets] - Started==Verifying Hiring Admin Able To View Employees Have Been Assigned Please Submit Their Timesheets
+[INFO ] 2023-01-19 05:20:46.047 [timesheets.TG_4290_TimesheetCreation] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-19 05:20:46.141 [timesheets.TG_4290_TimesheetCreation] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-19 05:20:46.142 [timesheets.TG_4290_TimesheetCreation] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-19 05:20:46.241 [timesheets.TG_4290_TimesheetCreation] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-19 05:20:46.241 [timesheets.TG_4290_TimesheetCreation] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-19 05:20:46.379 [timesheets.TG_4290_TimesheetCreation] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-19 05:20:49.385 [timesheets.TG_4290_TimesheetCreation] [clickOrderOption] - Clicking on  order Button
+[INFO ] 2023-01-19 05:20:56.583 [timesheets.TG_4290_TimesheetCreation] [clickOrderOption] -  Order Button clicked successfully
+[INFO ] 2023-01-19 05:21:14.836 [timesheets.TG_4290_TimesheetCreation] [verifyPleaseReviewTimesheetMessage] - Check for 'submit their timesheets' message Displayed
+[INFO ] 2023-01-19 05:21:14.926 [timesheets.TG_4290_TimesheetCreation] [verifyPleaseReviewTimesheetMessage] - Message displayed successfully
+[INFO ] 2023-01-19 05:21:14.940 [timesheets.TG_4290_TimesheetCreation] [Tag_VerifyHiringAdminAbleToViewEmployeesHaveBeenAssignedPleaseSubmitTheirTimesheets] - Started==Verifying Add Edit Timesheet Button Visible On Clicking On Timesheet
+[INFO ] 2023-01-19 05:21:14.940 [timesheets.TG_4290_TimesheetCreation] [ClickingOnTimesheet] - Verifying Add Edit Timesheet Button Visible On Clicking On Timesheet
+[INFO ] 2023-01-19 05:21:20.008 [timesheets.TG_4290_TimesheetCreation] [clickaddEditButton] - Clicking on addEditButton 
+[INFO ] 2023-01-19 05:21:22.142 [timesheets.TG_4290_TimesheetCreation] [clickaddEditButton] - AddEditButton Clicked Successfully 
+[INFO ] 2023-01-19 05:21:22.146 [timesheets.TG_4290_TimesheetCreation] [Tag_VerifyHiringAdminAbleToViewEmployeesHaveBeenAssignedPleaseSubmitTheirTimesheets] - Started==Verifying Navigated To Add Timesheet Form By Clicking On Add Edit Timesheet Button On Clicking On Timesheet
+[INFO ] 2023-01-19 05:21:22.146 [timesheets.TG_4290_TimesheetCreation] [verifyNavigatedToAddTimesheetFormByClickingOnAddEditTimesheetButtonOnClickingOnTimesheet] - Verifying Navigated To Add Timesheet Form By Clicking On Add Edit Timesheet Button On Clicking On Timesheet
+[INFO ] 2023-01-19 05:21:25.211 [timesheets.TG_4290_TimesheetCreation] [verifyNavigatedToAddTimesheetFormByClickingOnAddEditTimesheetButtonOnClickingOnTimesheet] - Verify Navigated To Add Timesheet Form By Clicking On Add Edit Timesheet Button On Clicking On Timesheet successfully
+[INFO ] 2023-01-19 05:21:28.222 [timesheets.TG_4290_TimesheetCreation] [Tag_VerifyHiringAdminAbleToViewEmployeesHaveBeenAssignedPleaseSubmitTheirTimesheets] - Started==Verifying Timesheet Detail Should Get Auto-Fetched
+[INFO ] 2023-01-19 05:21:28.226 [timesheets.TG_4290_TimesheetCreation] [verifyTimesheetDetailShouldGetAutoFetched] - Verifying Timesheet Detail Should Get Auto-Fetched
+[INFO ] 2023-01-19 05:21:31.324 [timesheets.TG_4290_TimesheetCreation] [verifyTimesheetDetailShouldGetAutoFetched] - Verify Timesheet Detail Should Get Auto-Fetched successfully
+[INFO ] 2023-01-19 05:21:31.378 [timesheets.TG_4290_TimesheetCreation] [Tag_VerifyHiringRoleShouldNotAbleToSelectFutureDateAndGetsPopup] - Started==Verifying Hiring Role Should Not Able To Select Future Date And Gets Popup
+[INFO ] 2023-01-19 05:21:34.385 [timesheets.TG_4290_TimesheetCreation] [enterDate] - Verify Future date 
+[INFO ] 2023-01-19 05:21:40.133 [timesheets.TG_4290_TimesheetCreation] [enterDate] - Verify Future date successfully
+[INFO ] 2023-01-19 05:21:43.138 [timesheets.TG_4290_TimesheetCreation] [verifyHiringRoleShouldNotAbleToSelectFutureDateAndGetsPopup] - Verifying Hiring Role Should Not Able To Select Future Date And Gets Popup
+[INFO ] 2023-01-19 05:21:43.216 [timesheets.TG_4290_TimesheetCreation] [verifyHiringRoleShouldNotAbleToSelectFutureDateAndGetsPopup] - Verify Hiring Role Should Not Able To Select Future Date And Gets Popup successfully 
+[INFO ] 2023-01-19 05:21:48.235 [timesheets.TG_4290_TimesheetCreation] [closeBlankMandatoryFieldDialogBox] - closing Future Date DialogBox
+[INFO ] 2023-01-19 05:21:48.488 [timesheets.TG_4290_TimesheetCreation] [closeBlankMandatoryFieldDialogBox] - Future Date DialogBox close Successfully
+[INFO ] 2023-01-19 05:21:48.488 [timesheets.TG_4290_TimesheetCreation] [Tag_VerifyHiringRoleShouldNotAbleToSelectFutureDateAndGetsPopup] - Started==Verifying Hiring Role Should Able To Select Date As Current Day
+[INFO ] 2023-01-19 05:21:48.489 [timesheets.TG_4290_TimesheetCreation] [verifyHiringRoleShouldAbleToSelectDateAsCurrentDay] - Entering current date in Timesheet
+[INFO ] 2023-01-19 05:21:55.752 [timesheets.TG_4290_TimesheetCreation] [verifyHiringRoleShouldAbleToSelectDateAsCurrentDay] - Entered current date in Timesheet successfully
+[INFO ] 2023-01-19 05:21:58.767 [timesheets.TG_4290_TimesheetCreation] [enterStartTime] - Verify Start Time 
+[INFO ] 2023-01-19 05:22:06.166 [timesheets.TG_4290_TimesheetCreation] [enterStartTime] - Verify Start Time Field successfully
+[INFO ] 2023-01-19 05:22:09.171 [timesheets.TG_4290_TimesheetCreation] [enterEndTime] - Verify End Time 
+[INFO ] 2023-01-19 05:22:16.528 [timesheets.TG_4290_TimesheetCreation] [enterEndTime] - Verify End Time Field successfully
+[INFO ] 2023-01-19 05:22:16.530 [timesheets.TG_4290_TimesheetCreation] [Tag_VerifyHiringRoleShouldNotAbleToSelectFutureDateAndGetsPopup] - Started==Verifying User Should Able To Select From Time And To Time Successfully And Total Hours Should Get Calculate
+[INFO ] 2023-01-19 05:22:18.536 [timesheets.TG_4290_TimesheetCreation] [verifyUserShouldAbleToSelectFromTimeAndToTimeSuccessfullyAndTotalHoursShouldGetCalculate] - Verify User Should Able To Select From Time And To Time Successfully And Total Hours Should Get Calculate
+[INFO ] 2023-01-19 05:22:21.643 [timesheets.TG_4290_TimesheetCreation] [verifyUserShouldAbleToSelectFromTimeAndToTimeSuccessfullyAndTotalHoursShouldGetCalculate] - Verify User Should Able To Select From Time And To Time Successfully And Total Hours Should Get Calculate successfully
+[INFO ] 2023-01-19 05:22:21.645 [timesheets.TG_4290_TimesheetCreation] [Tag_VerifyHiringRoleShouldNotAbleToSelectFutureDateAndGetsPopup] - Started==Verifying Selecting Valid Date Employees Details Should Get Fetched Automatically
+[INFO ] 2023-01-19 05:22:24.650 [timesheets.TG_4290_TimesheetCreation] [verifyEmployeesDetailsShouldGetFetchedAutomatically] - Verify Employees Details Should Get Fetched Automatically

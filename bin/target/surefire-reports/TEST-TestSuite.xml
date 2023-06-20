@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="3.82" tests="296" errors="0" skipped="260" failures="36">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="17.0.3.1+2-LTS-6"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-17.0.3.1.jdk/Contents/Home/lib"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/amandeep.singh/tag-qa-automation"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/amandeep.singh/tag-qa-automation"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="17.0.3.1+2-LTS-6"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/ts/xtylfbpn5pq5bj3c405sskh40000gq/T/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/Users/amandeep.singh/eclipse-workspace/eclipse-workspace 2/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf15033469177413009960.tmp"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/amandeep.singh/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="13.2.1"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/amandeep.singh"/>
+    <property name="user.timezone" value="America/Toronto"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="user.name" value="amandeep.singh"/>
+    <property name="java.class.path" value="/Users/amandeep.singh/.p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.1.20211011-2139/jars/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-17.0.3.1.jdk/Contents/Home"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="17.0.3.1"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Users/amandeep.singh/tag-qa-automation/EMBEDDED"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2022-04-22"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+  </properties>
+  <testcase name="setUp" classname="company.TG_3634_NewCompanyCreationFromStaffing" time="1.966">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Automation report is generated at location: /Users/amandeep.singh/tag-qa-automation/Reports/LatestReport
+Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_VerifyCompanyTypeAndCompanyNameAreAMandatoryFieldsStaffing" classname="company.TG_3634_NewCompanyCreationFromStaffing" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_3634_NewCompanyCreationFromStaffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_3634_NewCompanyCreationFromStaffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_AddNewCompanyStaffing" classname="company.TG_3634_NewCompanyCreationFromStaffing" time="0">
+    <skipped message="Method TG_3634_NewCompanyCreationFromStaffing.Tag_AddNewCompanyStaffing(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_3634_NewCompanyCreationFromStaffing@14dd9eb7] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="verifyStaffingCompanyIsListedOnListingPage" classname="company.TG_3634_NewCompanyCreationFromStaffing" time="0">
+    <skipped message="Method TG_3634_NewCompanyCreationFromStaffing.verifyStaffingCompanyIsListedOnListingPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_3634_NewCompanyCreationFromStaffing@14dd9eb7] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="company.TG_3634_NewCompanyCreationHiring" time="0.006">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_VerifyCompanyTypeAndCompanyNameAreAMandatoryFieldsHiring" classname="company.TG_3634_NewCompanyCreationHiring" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_3634_NewCompanyCreationHiring" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_3634_NewCompanyCreationHiring" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_AddNewCompanyHiring" classname="company.TG_3634_NewCompanyCreationHiring" time="0">
+    <skipped message="Method TG_3634_NewCompanyCreationHiring.Tag_AddNewCompanyHiring(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_3634_NewCompanyCreationHiring@5e0826e7] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="verifyHiringCompanyIsListedOnListingPage" classname="company.TG_3634_NewCompanyCreationHiring" time="0">
+    <skipped message="Method TG_3634_NewCompanyCreationHiring.verifyHiringCompanyIsListedOnListingPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_3634_NewCompanyCreationHiring@5e0826e7] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="users.AddNewUserHiring" time="0.004">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="VerifyMandatoryFields" classname="users.AddNewUserHiring" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="users.AddNewUserHiring" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="users.AddNewUserHiring" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="verifyCreateNewUser" classname="users.AddNewUserHiring" time="0">
+    <skipped message="Method AddNewUserHiring.verifyCreateNewUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:users.AddNewUserHiring@6e20b53a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="verifyNewlyCreatedUserIsListedOnlistingPage" classname="users.AddNewUserHiring" time="0">
+    <skipped message="Method AddNewUserHiring.verifyNewlyCreatedUserIsListedOnlistingPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:users.AddNewUserHiring@6e20b53a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_234_PasswordSetup" classname="users.AddNewUserHiring" time="0">
+    <skipped message="Method AddNewUserHiring.TG_234_PasswordSetup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:users.AddNewUserHiring@6e20b53a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="users.AddNewUserStaffing" time="0.003">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="VerifyMandatoryFields" classname="users.AddNewUserStaffing" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="users.AddNewUserStaffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="users.AddNewUserStaffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="verifyCreateNewUser" classname="users.AddNewUserStaffing" time="0">
+    <skipped message="Method AddNewUserStaffing.verifyCreateNewUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:users.AddNewUserStaffing@71809907] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="verifyNewlyCreatedUserIsListedOnlistingPage" classname="users.AddNewUserStaffing" time="0">
+    <skipped message="Method AddNewUserStaffing.verifyNewlyCreatedUserIsListedOnlistingPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:users.AddNewUserStaffing@71809907] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_234_PasswordSetup" classname="users.AddNewUserStaffing" time="0">
+    <skipped message="Method AddNewUserStaffing.TG_234_PasswordSetup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:users.AddNewUserStaffing@71809907] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="users.AddNewUserTAG" time="0.002">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="VerifyMandatoryFields" classname="users.AddNewUserTAG" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="users.AddNewUserTAG" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="users.AddNewUserTAG" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="verifyCreateNewUser" classname="users.AddNewUserTAG" time="0">
+    <skipped message="Method AddNewUserTAG.verifyCreateNewUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:users.AddNewUserTAG@3ce1e309] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="verifyNewlyCreatedUserIsListedOnlistingPage" classname="users.AddNewUserTAG" time="0">
+    <skipped message="Method AddNewUserTAG.verifyNewlyCreatedUserIsListedOnlistingPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:users.AddNewUserTAG@3ce1e309] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_234_PasswordSetup" classname="users.AddNewUserTAG" time="0">
+    <skipped message="Method AddNewUserTAG.TG_234_PasswordSetup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:users.AddNewUserTAG@3ce1e309] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="employees.TG_3963_AddNewEmployee" time="0.002">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="VerifyCreateNewEmployee" classname="employees.TG_3963_AddNewEmployee" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="employees.TG_3963_AddNewEmployee" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="employees.TG_3963_AddNewEmployee" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="verifyDiscardAddNewForm" classname="employees.TG_3963_AddNewEmployee" time="0">
+    <skipped message="Method TG_3963_AddNewEmployee.verifyDiscardAddNewForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:employees.TG_3963_AddNewEmployee@6aba2b86] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="verifyMandatoryFields" classname="employees.TG_3963_AddNewEmployee" time="0">
+    <skipped message="Method TG_3963_AddNewEmployee.verifyMandatoryFields(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:employees.TG_3963_AddNewEmployee@6aba2b86] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0.005">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_VerifyJobOrdersFieldShouldVisibleOnHomepageOfStaffingUnderShortcuts" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_VerifyAddOrderButtonShouldVisibleOnHomepage" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyAddOrderButtonShouldVisibleOnHomepage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyPopupIfClickOnSaveWithoutEnteringMandatoryFields" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyPopupIfClickOnSaveWithoutEnteringMandatoryFields(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyCompanyFieldShouldVisible" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyCompanyFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyCategoryFieldShouldVisible" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyCategoryFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyAvailabilityFieldShouldDropdownField" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyAvailabilityFieldShouldDropdownField(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyStartDateFieldShouldVisible" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyStartDateFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyEndDateFieldShouldVisible" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyEndDateFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyStartTimeFieldShouldVisible" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyStartTimeFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyJobSiteFieldShouldVisible" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyJobSiteFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyEstimatedDailyHoursFieldShouldVisible" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyEstimatedDailyHoursFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyEstimateDailyHoursFieldShouldNotAcceptHoursMoreThan24" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyEstimateDailyHoursFieldShouldNotAcceptHoursMoreThan24(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyNoOfWorkersFieldShouldVisible" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyNoOfWorkersFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyAgreeToContractFieldCheckboxShouldVisible" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyAgreeToContractFieldCheckboxShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyPopupForConfirmJobOrderDetails" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyPopupForConfirmJobOrderDetails(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyConfirmationPopupShouldHaveConfirmAndCancelButtons" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyConfirmationPopupShouldHaveConfirmAndCancelButtons(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyClickingCancelNothingShouldSave" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyClickingCancelNothingShouldSave(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyClickingOnSaveButtonPopupShouldCreateJobOrderSuccessfullyAndJobOrderIdShouldCreated" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyClickingOnSaveButtonPopupShouldCreateJobOrderSuccessfullyAndJobOrderIdShouldCreated(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyPopupEmailSentSucessfully" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyPopupEmailSentSucessfully(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyClaimHasBeenApprovedPleaseAssignEmployees" classname="jobOrderStaffing.TG_3848_NewOrderStaffing" time="0">
+    <skipped message="Method TG_3848_NewOrderStaffing.Tag_VerifyClaimHasBeenApprovedPleaseAssignEmployees(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrderStaffing.TG_3848_NewOrderStaffing@158da8e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0.002">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_VerifyNewOrderbuttonOnHomepage" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_VerifyPopupIfClickOnSaveWithoutEnteringMandatoryFields" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyPopupIfClickOnSaveWithoutEnteringMandatoryFields(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyCompanyFieldShouldVisible" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyCompanyFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyCategoryFieldShouldVisible" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyCategoryFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyAvailabilityFieldShouldDropdownField" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyAvailabilityFieldShouldDropdownField(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyStartDateFieldShouldVisible" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyStartDateFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyEndDateFieldShouldVisible" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyEndDateFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyStartTimeFieldShouldVisible" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyStartTimeFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyJobSiteFieldShouldVisible" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyJobSiteFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyEstimatedDailyHoursFieldShouldVisible" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyEstimatedDailyHoursFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyEstimateDailyHoursFieldShouldNotAcceptHoursMoreThan24" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyEstimateDailyHoursFieldShouldNotAcceptHoursMoreThan24(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyNoOfWorkersFieldShouldVisible" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyNoOfWorkersFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyAgreeToContractFieldCheckboxShouldVisible" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyAgreeToContractFieldCheckboxShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyPopupForConfirmJobOrderDetails" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyPopupForConfirmJobOrderDetails(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyConfirmationPopupShouldHaveSaveAndCancelButtons" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyConfirmationPopupShouldHaveSaveAndCancelButtons(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyClickingCancelNothingShouldSave" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyClickingCancelNothingShouldSave(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyClickingOnSaveButtonPopupShouldCreateJobOrderSuccessfullyAndJobOrderIdShouldCreated" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyClickingOnSaveButtonPopupShouldCreateJobOrderSuccessfullyAndJobOrderIdShouldCreated(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyPopupEmailSentSucessfully" classname="exclusiveJobOrder.TG_3847_ExclusiveNewOrder" time="0">
+    <skipped message="Method TG_3847_ExclusiveNewOrder.Tag_VerifyPopupEmailSentSucessfully(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:exclusiveJobOrder.TG_3847_ExclusiveNewOrder@74e52303] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="exclusiveJobOrder.TG_4476_VerifyExclusiveNewOrder" time="0.003">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_VerifySameJobOrderCreatedForParentStaffingCompany" classname="exclusiveJobOrder.TG_4476_VerifyExclusiveNewOrder" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="exclusiveJobOrder.TG_4476_VerifyExclusiveNewOrder" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="exclusiveJobOrder.TG_4476_VerifyExclusiveNewOrder" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="setUp" classname="company.TG_4355_EmployeeOnboarding" time="0.003">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="TG_4015_Verify_SR_AbleToSeeATSOptionAndTwoSubOption" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="closeSession" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="loader" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="TG_4016_VerifyEmployeeOnboardingTitle" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="Method TG_4355_EmployeeOnboarding.TG_4016_VerifyEmployeeOnboardingTitle(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4355_EmployeeOnboarding@5af3afd9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4017_VerifyAddEmployeeOnboardingNavigateToNewEmployeeOnboardingForm" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="Method TG_4355_EmployeeOnboarding.TG_4017_VerifyAddEmployeeOnboardingNavigateToNewEmployeeOnboardingForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4355_EmployeeOnboarding@5af3afd9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3954_VerifySaveButtonShowsPopUp" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="Method TG_4355_EmployeeOnboarding.TG_3954_VerifySaveButtonShowsPopUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4355_EmployeeOnboarding@5af3afd9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3955_VerifyMandatoryFirstnameVisibleAndAddValue" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="Method TG_4355_EmployeeOnboarding.TG_3955_VerifyMandatoryFirstnameVisibleAndAddValue(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4355_EmployeeOnboarding@5af3afd9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3956_VerifyMandatoryLastnameVisibleAndAddValue" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="Method TG_4355_EmployeeOnboarding.TG_3956_VerifyMandatoryLastnameVisibleAndAddValue(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4355_EmployeeOnboarding@5af3afd9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3957_VerifyMandatoryEmailVisibleAndAddValue" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="Method TG_4355_EmployeeOnboarding.TG_3957_VerifyMandatoryEmailVisibleAndAddValue(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4355_EmployeeOnboarding@5af3afd9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4018_4019_4020_VerifyEmployeeOnboardingTemplateVisibleAndMandatory" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="Method TG_4355_EmployeeOnboarding.TG_4018_4019_4020_VerifyEmployeeOnboardingTemplateVisibleAndMandatory(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4355_EmployeeOnboarding@5af3afd9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3958_4022_4023_VerifyDOB" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="Method TG_4355_EmployeeOnboarding.TG_3958_4022_4023_VerifyDOB(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4355_EmployeeOnboarding@5af3afd9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4021_VerifyClickingSaveButtonMovedToDraftStatus" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="Method TG_4355_EmployeeOnboarding.TG_4021_VerifyClickingSaveButtonMovedToDraftStatus(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4355_EmployeeOnboarding@5af3afd9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4024_VerifyClickingSubmitButtonMovedToPendingStatusSuccessfully" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="Method TG_4355_EmployeeOnboarding.TG_4024_VerifyClickingSubmitButtonMovedToPendingStatusSuccessfully(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4355_EmployeeOnboarding@5af3afd9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4025_4014_VerifyEmployeeShouldOnboardedInListingFormWithSameFirstLastNameWithJobApplicantAcceptedStatus" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="Method TG_4355_EmployeeOnboarding.TG_4025_4014_VerifyEmployeeShouldOnboardedInListingFormWithSameFirstLastNameWithJobApplicantAcceptedStatus(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4355_EmployeeOnboarding@5af3afd9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4026_VerifyJobOfferListWithDraftStatus" classname="company.TG_4355_EmployeeOnboarding" time="0">
+    <skipped message="Method TG_4355_EmployeeOnboarding.TG_4026_VerifyJobOfferListWithDraftStatus(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4355_EmployeeOnboarding@5af3afd9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0.004">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="TG_4027_ClickingSetupUnderATSOption" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="closeSession" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="loader" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="TG_4028_ClickingAddEmployeeOnboardingTemplateNavigateToNewEmployeeOnboardingTemplateForm" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="Method TG_4418_EmployeeOnboardingTemplate.TG_4028_ClickingAddEmployeeOnboardingTemplateNavigateToNewEmployeeOnboardingTemplateForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4418_EmployeeOnboardingTemplate@323b36e0] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4029_VerifyCompanyFieldMandatoryAndAutoPopulate" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="Method TG_4418_EmployeeOnboardingTemplate.TG_4029_VerifyCompanyFieldMandatoryAndAutoPopulate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4418_EmployeeOnboardingTemplate@323b36e0] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4030_ClickingAddRowButton" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="Method TG_4418_EmployeeOnboardingTemplate.TG_4030_ClickingAddRowButton(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4418_EmployeeOnboardingTemplate@323b36e0] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4031_ClickingEditButtonVerifyNewModal" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="Method TG_4418_EmployeeOnboardingTemplate.TG_4031_ClickingEditButtonVerifyNewModal(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4418_EmployeeOnboardingTemplate@323b36e0] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4032_VerifyActivityNameVisibleAndMandatory" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="Method TG_4418_EmployeeOnboardingTemplate.TG_4032_VerifyActivityNameVisibleAndMandatory(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4418_EmployeeOnboardingTemplate@323b36e0] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4033_VerifyUserFeild" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="Method TG_4418_EmployeeOnboardingTemplate.TG_4033_VerifyUserFeild(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4418_EmployeeOnboardingTemplate@323b36e0] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4034_VerifyDocumentRequiredVisibleAndCheck" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="Method TG_4418_EmployeeOnboardingTemplate.TG_4034_VerifyDocumentRequiredVisibleAndCheck(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4418_EmployeeOnboardingTemplate@323b36e0] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4035_EnterDocument" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="Method TG_4418_EmployeeOnboardingTemplate.TG_4035_EnterDocument(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4418_EmployeeOnboardingTemplate@323b36e0] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4036_PdfAttached" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="Method TG_4418_EmployeeOnboardingTemplate.TG_4036_PdfAttached(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4418_EmployeeOnboardingTemplate@323b36e0] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4037_ClickSaveButton" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="Method TG_4418_EmployeeOnboardingTemplate.TG_4037_ClickSaveButton(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4418_EmployeeOnboardingTemplate@323b36e0] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4038_VerifyEntryOnEmployeeOnboardingTemplate" classname="company.TG_4418_EmployeeOnboardingTemplate" time="0">
+    <skipped message="Method TG_4418_EmployeeOnboardingTemplate.TG_4038_VerifyEntryOnEmployeeOnboardingTemplate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4418_EmployeeOnboardingTemplate@323b36e0] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="jobOrder.TG_3651_VerifyFieldNewHiringOrder" time="0.003">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_VerifyAvailabilityFieldShouldBeDropdownField" classname="jobOrder.TG_3651_VerifyFieldNewHiringOrder" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrder.TG_3651_VerifyFieldNewHiringOrder" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrder.TG_3651_VerifyFieldNewHiringOrder" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_VerifyRateFieldAutomaticallyFetchedAndEditable" classname="jobOrder.TG_3651_VerifyFieldNewHiringOrder" time="0">
+    <skipped message="Method TG_3651_VerifyFieldNewHiringOrder.Tag_VerifyRateFieldAutomaticallyFetchedAndEditable(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3651_VerifyFieldNewHiringOrder@44ebcd03] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="jobOrder.TG_3847_VerifyFieldNewOrder" time="0.001">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_VerifyNewOrderbuttonOnHomepage" classname="jobOrder.TG_3847_VerifyFieldNewOrder" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrder.TG_3847_VerifyFieldNewOrder" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrder.TG_3847_VerifyFieldNewOrder" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_VerifyEstimatedDailyHoursfieldVisible" classname="jobOrder.TG_3847_VerifyFieldNewOrder" time="0">
+    <skipped message="Method TG_3847_VerifyFieldNewOrder.Tag_VerifyEstimatedDailyHoursfieldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3847_VerifyFieldNewOrder@694abbdc] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyCategoryFieldVisibleAndJobTitleFieldVisible" classname="jobOrder.TG_3847_VerifyFieldNewOrder" time="0">
+    <skipped message="Method TG_3847_VerifyFieldNewOrder.Tag_VerifyCategoryFieldVisibleAndJobTitleFieldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3847_VerifyFieldNewOrder@694abbdc] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyCompanyFieldVisible" classname="jobOrder.TG_3847_VerifyFieldNewOrder" time="0">
+    <skipped message="Method TG_3847_VerifyFieldNewOrder.Tag_VerifyCompanyFieldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3847_VerifyFieldNewOrder@694abbdc] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyEstimatedDailyHoursFieldNotAcceptHoursMoreThan24" classname="jobOrder.TG_3847_VerifyFieldNewOrder" time="0">
+    <skipped message="Method TG_3847_VerifyFieldNewOrder.Tag_VerifyEstimatedDailyHoursFieldNotAcceptHoursMoreThan24(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3847_VerifyFieldNewOrder@694abbdc] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="jobOrder.TG_3854_StartDateTimeField" time="0">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_VerifyStartDateFieldVisibleAndNotAcceptPastDate" classname="jobOrder.TG_3854_StartDateTimeField" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrder.TG_3854_StartDateTimeField" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrder.TG_3854_StartDateTimeField" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_VerifyEndDateFieldVisibleAndNotAcceptPastDate" classname="jobOrder.TG_3854_StartDateTimeField" time="0">
+    <skipped message="Method TG_3854_StartDateTimeField.Tag_VerifyEndDateFieldVisibleAndNotAcceptPastDate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3854_StartDateTimeField@2e005c4b] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyStartTimeFieldShouldVisible" classname="jobOrder.TG_3854_StartDateTimeField" time="0">
+    <skipped message="Method TG_3854_StartDateTimeField.Tag_VerifyStartTimeFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3854_StartDateTimeField@2e005c4b] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyJobSiteFieldShouldVisible" classname="jobOrder.TG_3854_StartDateTimeField" time="0">
+    <skipped message="Method TG_3854_StartDateTimeField.Tag_VerifyJobSiteFieldShouldVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3854_StartDateTimeField@2e005c4b] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyStartTimeFieldNotAcceptPastTime" classname="jobOrder.TG_3854_StartDateTimeField" time="0">
+    <skipped message="Method TG_3854_StartDateTimeField.Tag_VerifyStartTimeFieldNotAcceptPastTime(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3854_StartDateTimeField@2e005c4b] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="jobOrder.TG_3859_NewOrderHiring" time="0.001">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_VerifyFieldVisibleAndMandetory" classname="jobOrder.TG_3859_NewOrderHiring" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrder.TG_3859_NewOrderHiring" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrder.TG_3859_NewOrderHiring" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_VerifyPopupForSaveWithoutMandatoryFields" classname="jobOrder.TG_3859_NewOrderHiring" time="0">
+    <skipped message="Method TG_3859_NewOrderHiring.Tag_VerifyPopupForSaveWithoutMandatoryFields(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3859_NewOrderHiring@4567f35d] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="jobOrder.TG_3861_OtherFieldHiring" time="0.01">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_VerifyNoOfWorkersField" classname="jobOrder.TG_3861_OtherFieldHiring" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrder.TG_3861_OtherFieldHiring" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrder.TG_3861_OtherFieldHiring" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_VerifyESignatureFieldShould" classname="jobOrder.TG_3861_OtherFieldHiring" time="0">
+    <skipped message="Method TG_3861_OtherFieldHiring.Tag_VerifyESignatureFieldShould(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3861_OtherFieldHiring@5ffead27] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyAgreeContractFieldshouldcheckboxAndMandatory" classname="jobOrder.TG_3861_OtherFieldHiring" time="0">
+    <skipped message="Method TG_3861_OtherFieldHiring.Tag_VerifyAgreeContractFieldshouldcheckboxAndMandatory(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3861_OtherFieldHiring@5ffead27] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="jobOrder.TG_3864_SaveOrder" time="0.001">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_VerifyConfirmJobOrderDetails" classname="jobOrder.TG_3864_SaveOrder" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrder.TG_3864_SaveOrder" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="jobOrder.TG_3864_SaveOrder" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_VerifySaveAndCancelButton" classname="jobOrder.TG_3864_SaveOrder" time="0">
+    <skipped message="Method TG_3864_SaveOrder.Tag_VerifySaveAndCancelButton(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3864_SaveOrder@6356695f] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyClickingCancelNothingSave" classname="jobOrder.TG_3864_SaveOrder" time="0">
+    <skipped message="Method TG_3864_SaveOrder.Tag_VerifyClickingCancelNothingSave(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3864_SaveOrder@6356695f] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyJobOrderIdAndPopupEmailSentSuccessfully" classname="jobOrder.TG_3864_SaveOrder" time="0">
+    <skipped message="Method TG_3864_SaveOrder.Tag_VerifyJobOrderIdAndPopupEmailSentSuccessfully(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobOrder.TG_3864_SaveOrder@6356695f] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="company.TG_4145_ClaimOrderForStaffing" time="0.001">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_EndToEndFlowNewOrderHiring" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped message="Method TG_4145_ClaimOrderForStaffing.TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4145_ClaimOrderForStaffing@4f18837a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3914_VerifyJobOrderHasHeadCountVisible" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped message="Method TG_4145_ClaimOrderForStaffing.TG_3914_VerifyJobOrderHasHeadCountVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4145_ClaimOrderForStaffing@4f18837a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3916_VerifyResumeRequiredCheckBoxIsUncheckedAndCancelButtonVisible" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped message="Method TG_4145_ClaimOrderForStaffing.TG_3916_VerifyResumeRequiredCheckBoxIsUncheckedAndCancelButtonVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4145_ClaimOrderForStaffing@4f18837a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3917_VerifyUserclicksClaimOrderItNavigatestoNewClaimOrder" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped message="Method TG_4145_ClaimOrderForStaffing.TG_3917_VerifyUserclicksClaimOrderItNavigatestoNewClaimOrder(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4145_ClaimOrderForStaffing@4f18837a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3928_VerifyPopupToFillMandatoryField" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped message="Method TG_4145_ClaimOrderForStaffing.TG_3928_VerifyPopupToFillMandatoryField(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4145_ClaimOrderForStaffing@4f18837a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3918_3919_3920_VerifyNoOfEmployeeGreaterAcceptNumber" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped message="Method TG_4145_ClaimOrderForStaffing.TG_3918_3919_3920_VerifyNoOfEmployeeGreaterAcceptNumber(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4145_ClaimOrderForStaffing@4f18837a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3924_VerifyEsignMandatoryField" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped message="Method TG_4145_ClaimOrderForStaffing.TG_3924_VerifyEsignMandatoryField(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4145_ClaimOrderForStaffing@4f18837a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3925_AgreeToContractFieldVisibleAndMandatory" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped message="Method TG_4145_ClaimOrderForStaffing.TG_3925_AgreeToContractFieldVisibleAndMandatory(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4145_ClaimOrderForStaffing@4f18837a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3926_VerifySubmitClaimAndCancelButtonVisible" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped message="Method TG_4145_ClaimOrderForStaffing.TG_3926_VerifySubmitClaimAndCancelButtonVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4145_ClaimOrderForStaffing@4f18837a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3929_3922_3923_VerifyOrderSuccess" classname="company.TG_4145_ClaimOrderForStaffing" time="0">
+    <skipped message="Method TG_4145_ClaimOrderForStaffing.TG_3929_3922_3923_VerifyOrderSuccess(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4145_ClaimOrderForStaffing@4f18837a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="company.TG_4325_ApproveClaimFromHiring" time="0.001">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_EndToEndFlowNewOrderHiring" classname="company.TG_4325_ApproveClaimFromHiring" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4325_ApproveClaimFromHiring" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4325_ApproveClaimFromHiring" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_EndToEndFlowClaimFromStaffing" classname="company.TG_4325_ApproveClaimFromHiring" time="0">
+    <skipped message="Method TG_4325_ApproveClaimFromHiring.Tag_EndToEndFlowClaimFromStaffing(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4325_ApproveClaimFromHiring@359f7cdf] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3932_3933_HiringOpensSubmittedClaimAndVerifiedMessage" classname="company.TG_4325_ApproveClaimFromHiring" time="0">
+    <skipped message="Method TG_4325_ApproveClaimFromHiring.TG_3932_3933_HiringOpensSubmittedClaimAndVerifiedMessage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4325_ApproveClaimFromHiring@359f7cdf] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3934_3935_HiringRoleClicksOnTheClaimsNavigatedtoClaimOrderFormAndSelectHeadCountButton" classname="company.TG_4325_ApproveClaimFromHiring" time="0">
+    <skipped message="Method TG_4325_ApproveClaimFromHiring.TG_3934_3935_HiringRoleClicksOnTheClaimsNavigatedtoClaimOrderFormAndSelectHeadCountButton(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4325_ApproveClaimFromHiring@359f7cdf] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3936_ClickingSelectHeadCountModalSelectHeadCountOpen" classname="company.TG_4325_ApproveClaimFromHiring" time="0">
+    <skipped message="Method TG_4325_ApproveClaimFromHiring.TG_3936_ClickingSelectHeadCountModalSelectHeadCountOpen(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4325_ApproveClaimFromHiring@359f7cdf] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3937_3938_ApproveCountShouldNotBeGreaterThanWorkersCountAndErrorMessage" classname="company.TG_4325_ApproveClaimFromHiring" time="0">
+    <skipped message="Method TG_4325_ApproveClaimFromHiring.TG_3937_3938_ApproveCountShouldNotBeGreaterThanWorkersCountAndErrorMessage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4325_ApproveClaimFromHiring@359f7cdf] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3939_VerifyEmailSentSuccessfulWhenApproveCountIsLessOrEqual" classname="company.TG_4325_ApproveClaimFromHiring" time="0">
+    <skipped message="Method TG_4325_ApproveClaimFromHiring.TG_3939_VerifyEmailSentSuccessfulWhenApproveCountIsLessOrEqual(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4325_ApproveClaimFromHiring@359f7cdf] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_EndToEndFlowNewOrderHiring" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_CreateEmployeeFromStaffing" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.Tag_CreateEmployeeFromStaffing(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_EndToEndFlowClaimFromStaffing" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.Tag_EndToEndFlowClaimFromStaffing(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_EndToEndFlowClaimApproveHiring" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.Tag_EndToEndFlowClaimApproveHiring(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3964_VerifyStaffingSeeClaimApprovedStatus" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.TG_3964_VerifyStaffingSeeClaimApprovedStatus(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3965_ClickAssignEmployeeNavigatesToNewAssignEmployeeForm" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.TG_3965_ClickAssignEmployeeNavigatesToNewAssignEmployeeForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3966_3974_VerifyCompanyFieldAutoPopulate" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.TG_3966_3974_VerifyCompanyFieldAutoPopulate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3967_68_69_VerifyEmployeePayRateVisibleAndAutoPopulate" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.TG_3967_68_69_VerifyEmployeePayRateVisibleAndAutoPopulate(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3970_VerifyDistanceRadiusVisibleAndEnter" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.TG_3970_VerifyDistanceRadiusVisibleAndEnter(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3971_VerifyShowAllEmployeesVisibleAndCheck" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.TG_3971_VerifyShowAllEmployeesVisibleAndCheck(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3972_VerifyEmployeeIDVisible" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.TG_3972_VerifyEmployeeIDVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3973_EnterEmployeeID" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.TG_3973_EnterEmployeeID(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3975_VerifySaveButtonVisible" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.TG_3975_VerifySaveButtonVisible(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_3977_ClickSaveButton" classname="company.TG_4419_AssignEmployeeFromStaffing" time="0">
+    <skipped message="Method TG_4419_AssignEmployeeFromStaffing.TG_3977_ClickSaveButton(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4419_AssignEmployeeFromStaffing@1fa268de] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="timesheets.TG_4290_TimesheetCreation" time="0.002">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_EndToEndFlowNewOrderHiring" classname="timesheets.TG_4290_TimesheetCreation" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="timesheets.TG_4290_TimesheetCreation" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="timesheets.TG_4290_TimesheetCreation" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_VerifyHiringAdminAbleToViewEmployeesHaveBeenAssignedPleaseSubmitTheirTimesheets" classname="timesheets.TG_4290_TimesheetCreation" time="0">
+    <skipped message="Method TG_4290_TimesheetCreation.Tag_VerifyHiringAdminAbleToViewEmployeesHaveBeenAssignedPleaseSubmitTheirTimesheets(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:timesheets.TG_4290_TimesheetCreation@4f6ee6e4] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyHiringRoleShouldNotAbleToSelectFutureDateAndGetsPopup" classname="timesheets.TG_4290_TimesheetCreation" time="0">
+    <skipped message="Method TG_4290_TimesheetCreation.Tag_VerifyHiringRoleShouldNotAbleToSelectFutureDateAndGetsPopup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:timesheets.TG_4290_TimesheetCreation@4f6ee6e4] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="timesheets.TG_4301_Timesheet_Approval" time="0.001">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_EndToEndFlowNewOrderHiring" classname="timesheets.TG_4301_Timesheet_Approval" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="timesheets.TG_4301_Timesheet_Approval" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="timesheets.TG_4301_Timesheet_Approval" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_VerifyTimesheetAvailableForApprovalPopup" classname="timesheets.TG_4301_Timesheet_Approval" time="0">
+    <skipped message="Method TG_4301_Timesheet_Approval.Tag_VerifyTimesheetAvailableForApprovalPopup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:timesheets.TG_4301_Timesheet_Approval@4466af20] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="Tag_VerifyUserShouldGetPopupIfTryToapproveFromActionsButton" classname="timesheets.TG_4301_Timesheet_Approval" time="0">
+    <skipped message="Method TG_4301_Timesheet_Approval.Tag_VerifyUserShouldGetPopupIfTryToapproveFromActionsButton(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:timesheets.TG_4301_Timesheet_Approval@4466af20] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="company.TG_4463_InvCreationStaffing" time="0.001">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_EndToEndFlowNewOrderHiring" classname="company.TG_4463_InvCreationStaffing" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4463_InvCreationStaffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="company.TG_4463_InvCreationStaffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_EndToEndFlowAssignEmployeeFromStaffing" classname="company.TG_4463_InvCreationStaffing" time="0">
+    <skipped message="Method TG_4463_InvCreationStaffing.Tag_EndToEndFlowAssignEmployeeFromStaffing(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4463_InvCreationStaffing@a514af7] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4311_MessageDisplayedOnTimesheetApproval" classname="company.TG_4463_InvCreationStaffing" time="0">
+    <skipped message="Method TG_4463_InvCreationStaffing.TG_4311_MessageDisplayedOnTimesheetApproval(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4463_InvCreationStaffing@a514af7] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="TG_4312_CreateInvoiceNavigatesNewInvoice" classname="company.TG_4463_InvCreationStaffing" time="0">
+    <skipped message="Method TG_4463_InvCreationStaffing.TG_4312_CreateInvoiceNavigatesNewInvoice(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:company.TG_4463_InvCreationStaffing@a514af7] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="favoriteCompany.TG_4778_FavoriteStaffingCompany" time="0.001">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="LoginHiring" classname="favoriteCompany.TG_4778_FavoriteStaffingCompany" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="favoriteCompany.TG_4778_FavoriteStaffingCompany" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="favoriteCompany.TG_4778_FavoriteStaffingCompany" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="clickStaffingCompanies" classname="favoriteCompany.TG_4778_FavoriteStaffingCompany" time="0">
+    <skipped message="Method TG_4778_FavoriteStaffingCompany.clickStaffingCompanies(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:favoriteCompany.TG_4778_FavoriteStaffingCompany@6b927fb] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="verifyStaffingCompaniesList" classname="favoriteCompany.TG_4778_FavoriteStaffingCompany" time="0">
+    <skipped message="Method TG_4778_FavoriteStaffingCompany.verifyStaffingCompaniesList(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:favoriteCompany.TG_4778_FavoriteStaffingCompany@6b927fb] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="clickHeartIcon" classname="favoriteCompany.TG_4778_FavoriteStaffingCompany" time="0">
+    <skipped message="Method TG_4778_FavoriteStaffingCompany.clickHeartIcon(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:favoriteCompany.TG_4778_FavoriteStaffingCompany@6b927fb] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="verifyFavPopUp" classname="favoriteCompany.TG_4778_FavoriteStaffingCompany" time="0">
+    <skipped message="Method TG_4778_FavoriteStaffingCompany.verifyFavPopUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:favoriteCompany.TG_4778_FavoriteStaffingCompany@6b927fb] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="verifyRemoveFromFavorites" classname="favoriteCompany.TG_4778_FavoriteStaffingCompany" time="0">
+    <skipped message="Method TG_4778_FavoriteStaffingCompany.verifyRemoveFromFavorites(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:favoriteCompany.TG_4778_FavoriteStaffingCompany@6b927fb] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="blockCompany.TG_4779_Block_Company" time="0.003">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="LoginHiring" classname="blockCompany.TG_4779_Block_Company" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="blockCompany.TG_4779_Block_Company" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="blockCompany.TG_4779_Block_Company" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="clickStaffingCompanies" classname="blockCompany.TG_4779_Block_Company" time="0">
+    <skipped message="Method TG_4779_Block_Company.clickStaffingCompanies(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:blockCompany.TG_4779_Block_Company@3e58a80e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="verifyStaffingCompaniesList" classname="blockCompany.TG_4779_Block_Company" time="0">
+    <skipped message="Method TG_4779_Block_Company.verifyStaffingCompaniesList(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:blockCompany.TG_4779_Block_Company@3e58a80e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="clickStaffingCompany" classname="blockCompany.TG_4779_Block_Company" time="0">
+    <skipped message="Method TG_4779_Block_Company.clickStaffingCompany(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:blockCompany.TG_4779_Block_Company@3e58a80e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="clickBlockButton" classname="blockCompany.TG_4779_Block_Company" time="0">
+    <skipped message="Method TG_4779_Block_Company.clickBlockButton(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:blockCompany.TG_4779_Block_Company@3e58a80e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="verifyBlockCompanyPopUp" classname="blockCompany.TG_4779_Block_Company" time="0">
+    <skipped message="Method TG_4779_Block_Company.verifyBlockCompanyPopUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:blockCompany.TG_4779_Block_Company@3e58a80e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="clickUnblockButton" classname="blockCompany.TG_4779_Block_Company" time="0">
+    <skipped message="Method TG_4779_Block_Company.clickUnblockButton(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:blockCompany.TG_4779_Block_Company@3e58a80e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="verifyUnblockCompanyPopUp" classname="blockCompany.TG_4779_Block_Company" time="0">
+    <skipped message="Method TG_4779_Block_Company.verifyUnblockCompanyPopUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:blockCompany.TG_4779_Block_Company@3e58a80e] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="jobTitle_jobSite.TG_4862_JobTitleCreation" time="0.009">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="VerifyUserRedirectToJobTitleForm" classname="jobTitle_jobSite.TG_4862_JobTitleCreation" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="jobTitle_jobSite.TG_4862_JobTitleCreation" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="jobTitle_jobSite.TG_4862_JobTitleCreation" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="VerifyMandatoryFieldsAndEnterData" classname="jobTitle_jobSite.TG_4862_JobTitleCreation" time="0">
+    <skipped message="Method TG_4862_JobTitleCreation.VerifyMandatoryFieldsAndEnterData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:jobTitle_jobSite.TG_4862_JobTitleCreation@4fb61f4a] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="timesheets.TG_4423_TimesheetDeny" time="0.005">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="Tag_EndToEndFlowNewOrderHiring" classname="timesheets.TG_4423_TimesheetDeny" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="timesheets.TG_4423_TimesheetDeny" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="timesheets.TG_4423_TimesheetDeny" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Tag_VerifyTimesheetAvailableForApprovalPopup" classname="timesheets.TG_4423_TimesheetDeny" time="0">
+    <skipped message="Method TG_4423_TimesheetDeny.Tag_VerifyTimesheetAvailableForApprovalPopup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:timesheets.TG_4423_TimesheetDeny@4fb0f2b9] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="CRM.TG_5353_Contact_Creation" time="0.002">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="TG_5322_VerifyContactCreationForm" classname="CRM.TG_5353_Contact_Creation" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="CRM.TG_5353_Contact_Creation" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="CRM.TG_5353_Contact_Creation" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="TG_5326_VerifyCreatedContactOnListingForm" classname="CRM.TG_5353_Contact_Creation" time="0">
+    <skipped message="Method TG_5353_Contact_Creation.TG_5326_VerifyCreatedContactOnListingForm(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CRM.TG_5353_Contact_Creation@79924b] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="CRM.TG_5352_Lead_Creation" time="0.003">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="TG_5303_VerifyNewLeadFormIsOpened" classname="CRM.TG_5352_Lead_Creation" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="CRM.TG_5352_Lead_Creation" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="CRM.TG_5352_Lead_Creation" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="TG_5318_VerifyLeadIsCreated" classname="CRM.TG_5352_Lead_Creation" time="0">
+    <skipped message="Method TG_5352_Lead_Creation.TG_5318_VerifyLeadIsCreated(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CRM.TG_5352_Lead_Creation@7b9a4292] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="CRM.TG_5489_Hiring_Company_Creation_Via_TAG" time="0.002">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully" classname="CRM.TG_5489_Hiring_Company_Creation_Via_TAG" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="CRM.TG_5489_Hiring_Company_Creation_Via_TAG" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="CRM.TG_5489_Hiring_Company_Creation_Via_TAG" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="TG_5466_VerifyLeadCreatedSuccessfully" classname="CRM.TG_5489_Hiring_Company_Creation_Via_TAG" time="0">
+    <skipped message="Method TG_5489_Hiring_Company_Creation_Via_TAG.TG_5466_VerifyLeadCreatedSuccessfully(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CRM.TG_5489_Hiring_Company_Creation_Via_TAG@4a94ee4] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="CRM.TG_5558_Staffing_Company_Creation_Via_TAG" time="0.001">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully" classname="CRM.TG_5558_Staffing_Company_Creation_Via_TAG" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="CRM.TG_5558_Staffing_Company_Creation_Via_TAG" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="CRM.TG_5558_Staffing_Company_Creation_Via_TAG" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="TG_5466_VerifyLeadCreatedSuccessfully" classname="CRM.TG_5558_Staffing_Company_Creation_Via_TAG" time="0">
+    <skipped message="Method TG_5558_Staffing_Company_Creation_Via_TAG.TG_5466_VerifyLeadCreatedSuccessfully(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CRM.TG_5558_Staffing_Company_Creation_Via_TAG@4cc451f2] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="CRM.TG_5748_Exclusive_Hiring_Company_Creation_Via_Staffing" time="0.001">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully" classname="CRM.TG_5748_Exclusive_Hiring_Company_Creation_Via_Staffing" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="CRM.TG_5748_Exclusive_Hiring_Company_Creation_Via_Staffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="CRM.TG_5748_Exclusive_Hiring_Company_Creation_Via_Staffing" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="TG_5466_VerifyLeadCreatedSuccessfully" classname="CRM.TG_5748_Exclusive_Hiring_Company_Creation_Via_Staffing" time="0">
+    <skipped message="Method TG_5748_Exclusive_Hiring_Company_Creation_Via_Staffing.TG_5466_VerifyLeadCreatedSuccessfully(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:CRM.TG_5748_Exclusive_Hiring_Company_Creation_Via_Staffing@6379eb] depends on not successfully finished methods"/>
+  </testcase>
+  <testcase name="setUp" classname="directOrder.TG_5803_DirectOrderDeny" time="0.001">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="VerifyUserRedirectToNewOrderFormViaDirectOrder" classname="directOrder.TG_5803_DirectOrderDeny" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="directOrder.TG_5803_DirectOrderDeny" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="directOrder.TG_5803_DirectOrderDeny" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="setUp" classname="directOrder.TG_5802_DirectOrderPartialClaim" time="0">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="VerifyUserRedirectToNewOrderFormViaDirectOrder" classname="directOrder.TG_5802_DirectOrderPartialClaim" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="directOrder.TG_5802_DirectOrderPartialClaim" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="directOrder.TG_5802_DirectOrderPartialClaim" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="setUp" classname="jobTitle_jobSite.TG_4863_JobSiteCreation" time="0.001">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="TG_4863_VerifyUserRedirectToJobSiteForm" classname="jobTitle_jobSite.TG_4863_JobSiteCreation" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="jobTitle_jobSite.TG_4863_JobSiteCreation" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="jobTitle_jobSite.TG_4863_JobSiteCreation" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="setUp" classname="directOrder.TG_5801_DirectOrderFullClaim" time="0.003">
+    <failure message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads" type="java.lang.IllegalStateException">java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+</failure>
+    <system-out><![CDATA[Download Directory: /Users/amandeep.singh/tag-qa-automation
+]]></system-out>
+  </testcase>
+  <testcase name="VerifyUserRedirectToNewOrderFormViaDirectOrder" classname="directOrder.TG_5801_DirectOrderFullClaim" time="0">
+    <skipped message="The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads"/>
+  </testcase>
+  <testcase name="tearDown" classname="directOrder.TG_5801_DirectOrderFullClaim" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="tearDown" classname="directOrder.TG_5801_DirectOrderFullClaim" time="0">
+    <skipped/>
+  </testcase>
+</testsuite>

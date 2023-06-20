@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TAG Regression Suite" thread-count="1">
+	<listeners>
+		<listener class-name="com.sf.utility.EmailableReport" />
+		<listener class-name="com.sf.utility.RetryListenerClass" />
+		<listener class-name="com.sf.utility.ExecutionListener" />
+	</listeners>
+	<test name="Regression Test Flows">
+		<classes>
+			<class name="company.TG_3634_NewCompanyCreationFromStaffing" />
+			<class name="company.TG_3634_NewCompanyCreationHiring" />
+			<class name="users.AddNewUserHiring" />
+			<class name="users.AddNewUserStaffing" />
+			<class name="users.AddNewUserTAG" />
+			<class name="employees.TG_3963_AddNewEmployee" />
+			<class name="jobOrderStaffing.TG_3848_NewOrderStaffing" />
+			<class name="company.TG_4355_EmployeeOnboarding" />
+			<class name="company.TG_4418_EmployeeOnboardingTemplate" />
+			<class name="jobOrder.TG_3651_VerifyFieldNewHiringOrder" />
+			<class name="jobOrder.TG_3847_VerifyFieldNewOrder" />
+			<class name="jobOrder.TG_3854_StartDateTimeField" />
+			<class name="jobOrder.TG_3859_NewOrderHiring" />
+			<class name="jobOrder.TG_3861_OtherFieldHiring" />
+			<class name="jobOrder.TG_3864_SaveOrder" />
+			<class name="company.TG_4145_ClaimOrderForStaffing" />
+			<class name="company.TG_4325_ApproveClaimFromHiring" />
+			<class name="company.TG_4419_AssignEmployeeFromStaffing" />
+			<class name="timesheets.TG_4290_TimesheetCreation" />
+			<class name="timesheets.TG_4301_Timesheet_Approval" />
+			<class name="company.TG_4463_InvCreationStaffing" />
+			<class name="favoriteCompany.TG_4778_FavoriteStaffingCompany" />
+			<class name="blockCompany.TG_4779_Block_Company" />
+			<class name="jobTitle_jobSite.TG_4862_JobTitleCreation" />
+			<class name="timesheets.TG_4423_TimesheetDeny" />
+			<class name="CRM.TG_5353_Contact_Creation" />
+			<class name="CRM.TG_5352_Lead_Creation" />
+			<class name="CRM.TG_5489_Hiring_Company_Creation_Via_TAG" />
+			<class name="CRM.TG_5558_Staffing_Company_Creation_Via_TAG" />
+			<class name="directOrder.TG_5803_DirectOrderDeny" />
+			<class name="directOrder.TG_5802_DirectOrderPartialClaim" />
+			<class name="jobTitle_jobSite.TG_4863_JobSiteCreation" />
+			<class name="directOrder.TG_5801_DirectOrderFullClaim" />
+			<class name="jobOrder.TG_6129_RepeatOpenOrder" />
+			<class name="jobOrder.TG_6130_RepeatDirectOrder" />
+			
+		</classes>
+	</test>
+</suite>

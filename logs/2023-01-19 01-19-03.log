@@ -1,0 +1,32 @@
+[INFO ] 2023-01-19 13:19:04.101 [users.AddNewUserStaffing] [VerifyMandatoryFields] - Started==Verifying mandatory fields in Add New User form
+[INFO ] 2023-01-19 13:19:09.387 [users.AddNewUserStaffing] [VerifyMandatoryFields] - Logging into the application using username: ankit_tag@yopmail.com
+[INFO ] 2023-01-19 13:19:09.390 [users.AddNewUserStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-19 13:19:11.381 [users.AddNewUserStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-19 13:19:11.383 [users.AddNewUserStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-19 13:19:11.674 [users.AddNewUserStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-19 13:19:11.675 [users.AddNewUserStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-19 13:19:12.200 [users.AddNewUserStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-19 13:19:12.201 [users.AddNewUserStaffing] [VerifyMandatoryFields] - User: ankit_tag@yopmail.com logged in successfully
+[INFO ] 2023-01-19 13:19:15.208 [users.AddNewUserStaffing] [clickUsersLinkOnHomePage] - Clicking Users link present on the homepage
+[INFO ] 2023-01-19 13:19:22.883 [users.AddNewUserStaffing] [clickUsersLinkOnHomePage] - Users link present on the hompage clicked successfully.
+[INFO ] 2023-01-19 13:19:37.569 [users.AddNewUserStaffing] [clearCompanyTypeField] - Clearing company type field
+[INFO ] 2023-01-19 13:19:37.770 [users.AddNewUserStaffing] [clearCompanyTypeField] - Company Type field cleared Successfully
+[INFO ] 2023-01-19 13:19:37.770 [users.AddNewUserStaffing] [clickLastNameField] - Clicking Last Name field
+[INFO ] 2023-01-19 13:19:38.152 [users.AddNewUserStaffing] [clickLastNameField] - Last Name  field clicked successfully
+[INFO ] 2023-01-19 13:19:38.152 [users.AddNewUserStaffing] [clickSavebutton] - Clicking save button
+[INFO ] 2023-01-19 13:19:39.317 [users.AddNewUserStaffing] [clickSavebutton] - Save button clicked successfully
+[INFO ] 2023-01-19 13:19:43.987 [users.AddNewUserStaffing] [verifyCreateNewUser] - Started==Verify user creation
+[INFO ] 2023-01-19 13:19:43.988 [users.AddNewUserStaffing] [enterCompanyType] - Entering Company Type
+[INFO ] 2023-01-19 13:19:44.408 [users.AddNewUserStaffing] [enterCompanyType] - Company Type Entered Successfully
+[INFO ] 2023-01-19 13:19:44.409 [users.AddNewUserStaffing] [clickLastNameField] - Clicking Last Name field
+[INFO ] 2023-01-19 13:19:44.602 [users.AddNewUserStaffing] [clickLastNameField] - Last Name  field clicked successfully
+[INFO ] 2023-01-19 13:19:47.613 [users.AddNewUserStaffing] [enterUserEmail] - Entering user email address
+[INFO ] 2023-01-19 13:19:47.866 [users.AddNewUserStaffing] [enterUserEmail] - Email entered successfully
+[INFO ] 2023-01-19 13:19:47.866 [users.AddNewUserStaffing] [enterFirstNameField] - Entering First Name field
+[INFO ] 2023-01-19 13:19:48.394 [users.AddNewUserStaffing] [enterFirstNameField] - First Name  entered successfully
+[INFO ] 2023-01-19 13:19:48.394 [users.AddNewUserStaffing] [enterLastNameField] - Entering Last Name field
+[INFO ] 2023-01-19 13:19:48.516 [users.AddNewUserStaffing] [enterLastNameField] - Last Name entered successfully
+[INFO ] 2023-01-19 13:19:53.196 [users.AddNewUserStaffing] [clickLastNameField] - Clicking Last Name field
+[INFO ] 2023-01-19 13:19:53.310 [users.AddNewUserStaffing] [clickLastNameField] - Last Name  field clicked successfully
+[INFO ] 2023-01-19 13:19:53.311 [users.AddNewUserStaffing] [clickSavebutton] - Clicking save button
+[INFO ] 2023-01-19 13:19:53.555 [users.AddNewUserStaffing] [clickSavebutton] - Save button clicked successfully

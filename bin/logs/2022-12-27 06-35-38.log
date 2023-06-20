@@ -1,0 +1,63 @@
+[INFO ] 2022-12-27 18:35:39.027 [CRM.TG_5352_Lead_Creation] [VerifyLeadForm] - Logging in
+[INFO ] 2022-12-27 18:35:41.327 [CRM.TG_5352_Lead_Creation] [enterUsername] - Entering new user's first name
+[INFO ] 2022-12-27 18:35:42.000 [CRM.TG_5352_Lead_Creation] [enterUsername] - User's first name entered successfully
+[INFO ] 2022-12-27 18:35:42.000 [CRM.TG_5352_Lead_Creation] [enterPassword] - Entering new user's last name
+[INFO ] 2022-12-27 18:35:43.069 [CRM.TG_5352_Lead_Creation] [enterPassword] - User's last name entered successfully
+[INFO ] 2022-12-27 18:35:43.070 [CRM.TG_5352_Lead_Creation] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2022-12-27 18:35:43.982 [CRM.TG_5352_Lead_Creation] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2022-12-27 18:35:43.988 [CRM.TG_5352_Lead_Creation] [VerifyLeadForm] - Verifying CRM Icon
+[INFO ] 2022-12-27 18:35:43.988 [CRM.TG_5352_Lead_Creation] [verifyCRMTextOnHomepage] - Check for CRM Icon on Homepage
+[INFO ] 2022-12-27 18:35:57.374 [CRM.TG_5352_Lead_Creation] [verifyCRMTextOnHomepage] - CRM Icon displayed successfully
+[INFO ] 2022-12-27 18:35:57.384 [CRM.TG_5352_Lead_Creation] [clickCRMIcon] - Clicking on CRM Button
+[INFO ] 2022-12-27 18:35:57.752 [CRM.TG_5352_Lead_Creation] [clickCRMIcon] - CRM Button clicked successfully
+[INFO ] 2022-12-27 18:35:59.759 [CRM.TG_5352_Lead_Creation] [clickLeadIcon] - Clicking on Lead Button
+[INFO ] 2022-12-27 18:36:00.964 [CRM.TG_5352_Lead_Creation] [clickLeadIcon] - Lead Button clicked successfully
+[INFO ] 2022-12-27 18:36:02.970 [CRM.TG_5352_Lead_Creation] [verifyLeadListingForm] - Check for Lead Title
+[INFO ] 2022-12-27 18:36:03.471 [CRM.TG_5352_Lead_Creation] [verifyLeadListingForm] - Lead Title displayed successfully
+[INFO ] 2022-12-27 18:36:05.477 [CRM.TG_5352_Lead_Creation] [clickAddLeadButton] - Clicking on Lead Button
+[INFO ] 2022-12-27 18:36:06.431 [CRM.TG_5352_Lead_Creation] [clickAddLeadButton] - Add Lead Button clicked successfully
+[INFO ] 2022-12-27 18:36:08.438 [CRM.TG_5352_Lead_Creation] [verifyLeadForm] - Check for New Lead Form
+[INFO ] 2022-12-27 18:36:08.517 [CRM.TG_5352_Lead_Creation] [verifyLeadForm] - New Lead Form displayed successfully
+[INFO ] 2022-12-27 18:36:08.572 [CRM.TG_5352_Lead_Creation] [CreateLead] - Verifying Mandatory Fields
+[INFO ] 2022-12-27 18:36:08.572 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Clicking on Save Button
+[INFO ] 2022-12-27 18:36:09.047 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Save Button clicked successfully
+[INFO ] 2022-12-27 18:36:15.356 [CRM.TG_5352_Lead_Creation] [enterFirstName] - Entering First Name
+[INFO ] 2022-12-27 18:36:15.603 [CRM.TG_5352_Lead_Creation] [enterFirstName] - First Name Entered Successfully
+[INFO ] 2022-12-27 18:36:15.604 [CRM.TG_5352_Lead_Creation] [enterLastName] - Entering Last Name
+[INFO ] 2022-12-27 18:36:15.700 [CRM.TG_5352_Lead_Creation] [enterLastName] - Last Name Entered Successfully
+[INFO ] 2022-12-27 18:36:15.700 [CRM.TG_5352_Lead_Creation] [enterCompanyName] - Entering Company Name
+[INFO ] 2022-12-27 18:36:15.855 [CRM.TG_5352_Lead_Creation] [enterCompanyName] - Company Name Entered Successfully
+[INFO ] 2022-12-27 18:36:15.856 [CRM.TG_5352_Lead_Creation] [enterEmail] - Entering Email
+[INFO ] 2022-12-27 18:36:16.198 [CRM.TG_5352_Lead_Creation] [enterEmail] - Email Entered Successfully
+[INFO ] 2022-12-27 18:36:18.204 [CRM.TG_5352_Lead_Creation] [enterPhoneNumber] - Entering Phone Number
+[INFO ] 2022-12-27 18:36:18.322 [CRM.TG_5352_Lead_Creation] [enterPhoneNumber] - Phone Number Entered Successfully
+[INFO ] 2022-12-27 18:36:18.322 [CRM.TG_5352_Lead_Creation] [selectSearchOnMapsCheckbox] - Selecting search on Maps checkbox
+[INFO ] 2022-12-27 18:36:20.661 [CRM.TG_5352_Lead_Creation] [selectSearchOnMapsCheckbox] - Search on maps checkbox selected
+[INFO ] 2022-12-27 18:36:22.668 [CRM.TG_5352_Lead_Creation] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2022-12-27 18:36:24.073 [CRM.TG_5352_Lead_Creation] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2022-12-27 18:36:26.085 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Clicking on Save Button
+[INFO ] 2022-12-27 18:36:26.356 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Save Button clicked successfully
+[INFO ] 2022-12-27 18:36:29.363 [CRM.TG_5352_Lead_Creation] [verifyLeadStatus] - Check for Status as Lead
+[INFO ] 2022-12-27 18:36:29.472 [CRM.TG_5352_Lead_Creation] [verifyLeadStatus] - Status verified as Lead successfully
+[INFO ] 2022-12-27 18:36:31.478 [CRM.TG_5352_Lead_Creation] [clickLeadLinkforListingForm] - Click on Lead for Listing form
+[INFO ] 2022-12-27 18:36:31.718 [CRM.TG_5352_Lead_Creation] [clickLeadLinkforListingForm] - Lead for Listing form clicked Successfully
+[INFO ] 2022-12-27 18:36:31.718 [CRM.TG_5352_Lead_Creation] [verifyCreatedLead] - Check for Created Lead
+[INFO ] 2022-12-27 18:36:31.761 [CRM.TG_5352_Lead_Creation] [verifyCreatedLead] - Created Lead displayed successfully
+[INFO ] 2022-12-27 18:36:33.767 [CRM.TG_5352_Lead_Creation] [clickCreatedLead] - Clicking on Created Lead
+[INFO ] 2022-12-27 18:36:34.003 [CRM.TG_5352_Lead_Creation] [clickCreatedLead] - Created Lead clicked successfully
+[INFO ] 2022-12-27 18:36:36.009 [CRM.TG_5352_Lead_Creation] [clickLeadStatusOpen] - Clicking on Status dropdown
+[INFO ] 2022-12-27 18:36:36.229 [CRM.TG_5352_Lead_Creation] [clickLeadStatusOpen] - Status entered successfully
+[INFO ] 2022-12-27 18:36:38.233 [CRM.TG_5352_Lead_Creation] [clickNotesropdown] - Clicking on Notes Dropdown
+[INFO ] 2022-12-27 18:36:38.408 [CRM.TG_5352_Lead_Creation] [clickNotesropdown] - Notes Dropdown clicked successfully
+[INFO ] 2022-12-27 18:36:40.417 [CRM.TG_5352_Lead_Creation] [enterNotes] - Entering Note
+[INFO ] 2022-12-27 18:36:40.741 [CRM.TG_5352_Lead_Creation] [enterNotes] - Note Entered Successfully
+[INFO ] 2022-12-27 18:36:42.747 [CRM.TG_5352_Lead_Creation] [clickLeadStatusContractNegotiation] - Clicking on Status dropdown
+[INFO ] 2022-12-27 18:36:42.906 [CRM.TG_5352_Lead_Creation] [clickLeadStatusContractNegotiation] - Status entered successfully
+[INFO ] 2022-12-27 18:36:44.911 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Clicking on Save Button
+[INFO ] 2022-12-27 18:36:44.999 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Save Button clicked successfully
+[INFO ] 2022-12-27 18:36:47.005 [CRM.TG_5352_Lead_Creation] [verifyPrepareContractButton] - Verify Prepare Contract Button
+[INFO ] 2022-12-27 18:36:47.049 [CRM.TG_5352_Lead_Creation] [verifyPrepareContractButton] - Prepare Contract Button displayed successfully
+[INFO ] 2022-12-27 18:36:47.050 [CRM.TG_5352_Lead_Creation] [clickPrepareContractButton] - Clicking on Prepare Contract Button
+[INFO ] 2022-12-27 18:36:47.149 [CRM.TG_5352_Lead_Creation] [clickPrepareContractButton] - Prepare Contract Button clicked successfully
+[INFO ] 2022-12-27 18:36:49.155 [CRM.TG_5352_Lead_Creation] [verifyContractForm] - Check for New Contract Form
+[INFO ] 2022-12-27 18:36:49.258 [CRM.TG_5352_Lead_Creation] [verifyContractForm] - New Contract Form displayed successfully

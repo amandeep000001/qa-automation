@@ -1,0 +1,31 @@
+[INFO ] 2023-02-24 14:54:26.291 [users.AddNewUserTAG] [VerifyMandatoryFields] - Started==Verifying mandatory fields in Add New User form
+[INFO ] 2023-02-24 14:54:29.637 [users.AddNewUserTAG] [VerifyMandatoryFields] - Logging into the application using username: ankit_tag@yopmail.com
+[INFO ] 2023-02-24 14:54:29.638 [users.AddNewUserTAG] [enterUsername] - Entering new user's first name
+[INFO ] 2023-02-24 14:54:31.267 [users.AddNewUserTAG] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-02-24 14:54:31.267 [users.AddNewUserTAG] [enterPassword] - Entering new user's last name
+[INFO ] 2023-02-24 14:54:31.394 [users.AddNewUserTAG] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-02-24 14:54:31.395 [users.AddNewUserTAG] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-02-24 14:54:31.900 [users.AddNewUserTAG] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-02-24 14:54:31.900 [users.AddNewUserTAG] [VerifyMandatoryFields] - User: ankit_tag@yopmail.com logged in successfully
+[INFO ] 2023-02-24 14:54:34.906 [users.AddNewUserTAG] [clickUsersLinkOnHomePage] - Clicking Users link present on the homepage
+[INFO ] 2023-02-24 14:54:46.958 [users.AddNewUserTAG] [clickUsersLinkOnHomePage] - Users link present on the hompage clicked successfully.
+[INFO ] 2023-02-24 14:54:52.922 [users.AddNewUserTAG] [clearCompanyTypeField] - Clearing company type field
+[INFO ] 2023-02-24 14:54:53.130 [users.AddNewUserTAG] [clearCompanyTypeField] - Company Type field cleared Successfully
+[INFO ] 2023-02-24 14:54:53.132 [users.AddNewUserTAG] [clickLastNameField] - Clicking Last Name field
+[INFO ] 2023-02-24 14:54:53.370 [users.AddNewUserTAG] [clickLastNameField] - Last Name  field clicked successfully
+[INFO ] 2023-02-24 14:54:53.371 [users.AddNewUserTAG] [clickSavebutton] - Clicking save button
+[INFO ] 2023-02-24 14:54:53.697 [users.AddNewUserTAG] [clickSavebutton] - Save button clicked successfully
+[INFO ] 2023-02-24 14:54:57.420 [users.AddNewUserTAG] [verifyCreateNewUser] - Started==Verify user creation
+[INFO ] 2023-02-24 14:54:57.421 [users.AddNewUserTAG] [enterCompanyType] - Entering Company Type
+[INFO ] 2023-02-24 14:54:57.766 [users.AddNewUserTAG] [enterCompanyType] - Company Type Entered Successfully
+[INFO ] 2023-02-24 14:54:57.766 [users.AddNewUserTAG] [clickLastNameField] - Clicking Last Name field
+[INFO ] 2023-02-24 14:54:57.888 [users.AddNewUserTAG] [clickLastNameField] - Last Name  field clicked successfully
+[INFO ] 2023-02-24 14:55:00.903 [users.AddNewUserTAG] [enterUserEmail] - Entering user email address
+[INFO ] 2023-02-24 14:55:01.220 [users.AddNewUserTAG] [enterUserEmail] - Email entered successfully
+[INFO ] 2023-02-24 14:55:01.221 [users.AddNewUserTAG] [enterFirstNameField] - Entering First Name field
+[INFO ] 2023-02-24 14:55:01.440 [users.AddNewUserTAG] [enterFirstNameField] - First Name  entered successfully
+[INFO ] 2023-02-24 14:55:01.441 [users.AddNewUserTAG] [enterLastNameField] - Entering Last Name field
+[INFO ] 2023-02-24 14:55:01.583 [users.AddNewUserTAG] [enterLastNameField] - Last Name entered successfully
+[INFO ] 2023-02-24 14:55:05.966 [users.AddNewUserTAG] [clickSaveButton] - Clicking Save new company button
+[INFO ] 2023-02-24 14:55:11.154 [users.AddNewUserTAG] [clickSaveButton] - Save buttton clicked successfully
+[INFO ] 2023-02-24 14:55:51.167 [users.AddNewUserTAG] [verifyUserCreatedOrNot] - Verifying Pop Up Text

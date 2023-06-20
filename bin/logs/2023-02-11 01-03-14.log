@@ -1,0 +1,78 @@
+[INFO ] 2023-02-11 01:03:14.474 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Started==Verifying Confirm Job Order Details
+[INFO ] 2023-02-11 01:03:18.666 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Entering Username
+[INFO ] 2023-02-11 01:03:18.670 [directOrder.TG_5803_DirectOrderDeny] [enterUsername] - Entering new user's first name
+[INFO ] 2023-02-11 01:03:20.027 [directOrder.TG_5803_DirectOrderDeny] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-02-11 01:03:20.028 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Username Entered Successfully
+[INFO ] 2023-02-11 01:03:20.028 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Entering Password
+[INFO ] 2023-02-11 01:03:20.028 [directOrder.TG_5803_DirectOrderDeny] [enterPassword] - Entering new user's last name
+[INFO ] 2023-02-11 01:03:20.197 [directOrder.TG_5803_DirectOrderDeny] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-02-11 01:03:20.198 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Password Entered Successfully
+[INFO ] 2023-02-11 01:03:20.198 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Clicking on Login Button
+[INFO ] 2023-02-11 01:03:20.198 [directOrder.TG_5803_DirectOrderDeny] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-02-11 01:03:20.636 [directOrder.TG_5803_DirectOrderDeny] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-02-11 01:03:20.637 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Login Button Clicked Successfully
+[INFO ] 2023-02-11 01:03:20.637 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Clicking on Staffing Companies
+[INFO ] 2023-02-11 01:03:20.637 [directOrder.TG_5803_DirectOrderDeny] [clickStaffingCompanies] - Clicking on Staffing Companies Button
+[INFO ] 2023-02-11 01:03:34.554 [directOrder.TG_5803_DirectOrderDeny] [clickStaffingCompanies] - Staffing Companies Button clicked successfully
+[INFO ] 2023-02-11 01:03:34.555 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Staffing Companies Clickied Successfully
+[INFO ] 2023-02-11 01:03:34.555 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Verifying Staffing Companies List
+[INFO ] 2023-02-11 01:03:34.555 [directOrder.TG_5803_DirectOrderDeny] [verifyStaffingCompanyList] - Verify Staffing Company List is displayed
+[INFO ] 2023-02-11 01:03:35.187 [directOrder.TG_5803_DirectOrderDeny] [verifyStaffingCompanyList] - Staffing Company List displayed successfully
+[INFO ] 2023-02-11 01:03:35.188 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Staffing Companies List verified successfully
+[INFO ] 2023-02-11 01:03:43.195 [directOrder.TG_5803_DirectOrderDeny] [clickHunderedFilter] - Clicking on 100 records button
+[INFO ] 2023-02-11 01:03:43.666 [directOrder.TG_5803_DirectOrderDeny] [clickHunderedFilter] - 100 records button clicked Successfully
+[INFO ] 2023-02-11 01:03:48.676 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Clicking Staffing Company
+[INFO ] 2023-02-11 01:03:48.682 [directOrder.TG_5803_DirectOrderDeny] [clickStaffingCompanyDirectOrder] - Clicking on Staffing Companies Button
+[INFO ] 2023-02-11 01:03:51.667 [directOrder.TG_5803_DirectOrderDeny] [clickStaffingCompanyDirectOrder] - Staffing Companies Button clicked successfully
+[INFO ] 2023-02-11 01:03:51.669 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Staffing Company Clickied Successfully
+[INFO ] 2023-02-11 01:03:54.677 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Clicking on Place Order Button
+[INFO ] 2023-02-11 01:03:54.680 [directOrder.TG_5803_DirectOrderDeny] [clickPlaceOrderButton] - Clicking on Staffing Company
+[INFO ] 2023-02-11 01:03:55.080 [directOrder.TG_5803_DirectOrderDeny] [clickPlaceOrderButton] - Staffing Company clicked successfully
+[INFO ] 2023-02-11 01:03:55.081 [directOrder.TG_5803_DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Place Order Button Clickied Successfully
+[INFO ] 2023-02-11 01:03:55.405 [directOrder.TG_5803_DirectOrderDeny] [Tag_VerifyConfirmJobOrderDetails] - Started==Verifying Confirm Job Order Details
+[INFO ] 2023-02-11 01:03:55.405 [directOrder.TG_5803_DirectOrderDeny] [enterEstDailyHours] - Entering EstDailyHours
+[INFO ] 2023-02-11 01:04:04.765 [directOrder.TG_5803_DirectOrderDeny] [enterEstDailyHours] - EstDailyHours entered successfully
+[INFO ] 2023-02-11 01:04:06.772 [directOrder.TG_5803_DirectOrderDeny] [enterStartDate] - Entering StartDate
+[INFO ] 2023-02-11 01:04:12.565 [directOrder.TG_5803_DirectOrderDeny] [enterStartDate] - StartDate entered successfully
+[INFO ] 2023-02-11 01:04:14.570 [directOrder.TG_5803_DirectOrderDeny] [enterEndDate] - Entering EndDate
+[INFO ] 2023-02-11 01:04:19.995 [directOrder.TG_5803_DirectOrderDeny] [enterEndDate] - EndDate entered successfully
+[INFO ] 2023-02-11 01:04:22.004 [directOrder.TG_5803_DirectOrderDeny] [enterStartTime] - Entering StartTime
+[INFO ] 2023-02-11 01:04:22.820 [directOrder.TG_5803_DirectOrderDeny] [enterStartTime] - StartTime entered successfully
+[INFO ] 2023-02-11 01:04:24.826 [directOrder.TG_5803_DirectOrderDeny] [enterAvailability] - Entering Availability
+[INFO ] 2023-02-11 01:04:25.198 [directOrder.TG_5803_DirectOrderDeny] [enterAvailability] - Availabilit entered successfully
+[INFO ] 2023-02-11 01:04:25.200 [directOrder.TG_5803_DirectOrderDeny] [enterJobSite] - Entering JobSite
+[INFO ] 2023-02-11 01:04:29.430 [directOrder.TG_5803_DirectOrderDeny] [enterJobSite] - JobSite entered successfully
+[INFO ] 2023-02-11 01:04:31.435 [directOrder.TG_5803_DirectOrderDeny] [enterJobTitle] - Entering JobTitle
+[INFO ] 2023-02-11 01:04:32.558 [directOrder.TG_5803_DirectOrderDeny] [enterJobTitle] - JobTitle entered successfully
+[INFO ] 2023-02-11 01:04:34.566 [directOrder.TG_5803_DirectOrderDeny] [enterNoOfWorker] - Entering No Of Workers
+[INFO ] 2023-02-11 01:04:34.734 [directOrder.TG_5803_DirectOrderDeny] [enterNoOfWorker] - NoOfWorkers entered successfully
+[INFO ] 2023-02-11 01:04:36.739 [directOrder.TG_5803_DirectOrderDeny] [enterESignature] - Entering ESignature
+[INFO ] 2023-02-11 01:04:36.940 [directOrder.TG_5803_DirectOrderDeny] [enterESignature] - ESignature entered successfully
+[INFO ] 2023-02-11 01:04:36.940 [directOrder.TG_5803_DirectOrderDeny] [clickAgreeContract] - clickAgreeContract
+[INFO ] 2023-02-11 01:04:37.132 [directOrder.TG_5803_DirectOrderDeny] [clickAgreeContract] - clickAgreeContract successfully
+[INFO ] 2023-02-11 01:04:40.216 [directOrder.TG_5803_DirectOrderDeny] [Tag_VerifyJobOrderIdAndPopupEmailSentSuccessfully] - Started==Verifying Job Order Id And Popup that Email Sent Successfully
+[INFO ] 2023-02-11 01:05:16.299 [directOrder.TG_5803_DirectOrderDeny] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Entering Username
+[INFO ] 2023-02-11 01:05:16.301 [directOrder.TG_5803_DirectOrderDeny] [enterUsername] - Entering new user's first name
+[INFO ] 2023-02-11 01:05:16.460 [directOrder.TG_5803_DirectOrderDeny] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-02-11 01:05:16.461 [directOrder.TG_5803_DirectOrderDeny] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Username Entered Successfully
+[INFO ] 2023-02-11 01:05:16.461 [directOrder.TG_5803_DirectOrderDeny] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Entering Password
+[INFO ] 2023-02-11 01:05:16.461 [directOrder.TG_5803_DirectOrderDeny] [enterPassword] - Entering new user's last name
+[INFO ] 2023-02-11 01:05:16.564 [directOrder.TG_5803_DirectOrderDeny] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-02-11 01:05:16.565 [directOrder.TG_5803_DirectOrderDeny] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Password Entered Successfully
+[INFO ] 2023-02-11 01:05:16.565 [directOrder.TG_5803_DirectOrderDeny] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Clicking on Login Button
+[INFO ] 2023-02-11 01:05:16.565 [directOrder.TG_5803_DirectOrderDeny] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-02-11 01:05:16.647 [directOrder.TG_5803_DirectOrderDeny] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-02-11 01:05:16.647 [directOrder.TG_5803_DirectOrderDeny] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Login Button Clicked Successfully
+[INFO ] 2023-02-11 01:05:19.653 [directOrder.TG_5803_DirectOrderDeny] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Clicking on Notifications Icon
+[INFO ] 2023-02-11 01:05:19.673 [directOrder.TG_5803_DirectOrderDeny] [clickNotificationIcon] - Clicking on Notifications
+[INFO ] 2023-02-11 01:05:21.461 [directOrder.TG_5803_DirectOrderDeny] [clickNotificationIcon] - Notifications clicked successfully
+[INFO ] 2023-02-11 01:05:21.462 [directOrder.TG_5803_DirectOrderDeny] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Notifications Icon Clicked Successfully
+[INFO ] 2023-02-11 01:05:23.465 [directOrder.TG_5803_DirectOrderDeny] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Verifying Notification Text
+[INFO ] 2023-02-11 01:05:23.467 [directOrder.TG_5803_DirectOrderDeny] [verifyNotificationText] - Verify Direct Order Text in Notification
+[INFO ] 2023-02-11 01:05:23.544 [directOrder.TG_5803_DirectOrderDeny] [verifyNotificationText] - Direct Order Text in Notification displayed successfully
+[INFO ] 2023-02-11 01:05:23.552 [directOrder.TG_5803_DirectOrderDeny] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Notification Text Clicked Successfully
+[INFO ] 2023-02-11 01:05:23.554 [directOrder.TG_5803_DirectOrderDeny] [clickJobOrderHomePage] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-02-11 01:05:27.048 [directOrder.TG_5803_DirectOrderDeny] [clickJobOrderHomePage] - All job orders menu present on the staffing hompage clicked successfully and navigates to joborder listing form  .
+[INFO ] 2023-02-11 01:05:29.053 [directOrder.TG_5803_DirectOrderDeny] [verifyJobOrderPage] - Job order form is displayed
+[INFO ] 2023-02-11 01:05:29.160 [directOrder.TG_5803_DirectOrderDeny] [verifyJobOrderPage] - Job orderform is displayed successfully
+[INFO ] 2023-02-11 01:05:39.183 [directOrder.TG_5803_DirectOrderDeny] [selectParticularJobOrderFromListing] - Selecting Particular Joborder on the listing

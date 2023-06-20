@@ -1,0 +1,35 @@
+[INFO ] 2023-04-26 15:10:51.859 [jobOrder.TG_6130_RepeatDirectOrder] [enterUsername] - Entering new user's first name
+[INFO ] 2023-04-26 15:10:54.640 [jobOrder.TG_6130_RepeatDirectOrder] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-04-26 15:10:54.643 [jobOrder.TG_6130_RepeatDirectOrder] [enterPassword] - Entering new user's last name
+[INFO ] 2023-04-26 15:10:55.110 [jobOrder.TG_6130_RepeatDirectOrder] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-04-26 15:10:55.111 [jobOrder.TG_6130_RepeatDirectOrder] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-04-26 15:10:55.631 [jobOrder.TG_6130_RepeatDirectOrder] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-04-26 15:10:58.642 [jobOrder.TG_6130_RepeatDirectOrder] [clickOrdersMenuOnHiringHomePage] - Clicking Order menu present on the Hiring homepage
+[INFO ] 2023-04-26 15:11:10.692 [jobOrder.TG_6130_RepeatDirectOrder] [clickOrdersMenuOnHiringHomePage] - Order menu present on the Hiring hompage clicked successfully.
+[INFO ] 2023-04-26 15:11:20.704 [jobOrder.TG_6130_RepeatDirectOrder] [clickCompletedOrdersTab] - Clicking on the Completed Orders Tab 
+[INFO ] 2023-04-26 15:11:21.086 [jobOrder.TG_6130_RepeatDirectOrder] [clickCompletedOrdersTab] - Completed Tab Clicked Successfully
+[INFO ] 2023-04-26 15:11:36.098 [jobOrder.TG_6130_RepeatDirectOrder] [clickCompletedOrder] - Clicking on the Completed Order 
+[INFO ] 2023-04-26 15:11:38.301 [jobOrder.TG_6130_RepeatDirectOrder] [clickCompletedOrder] - Completed Order Clicked Successfully
+[INFO ] 2023-04-26 15:11:38.302 [jobOrder.TG_6130_RepeatDirectOrder] [getJobSiteText] - Getting Job site text
+[INFO ] 2023-04-26 15:11:39.872 [jobOrder.TG_6130_RepeatDirectOrder] [getJobSiteText] - Got the text successfully
+[INFO ] 2023-04-26 15:11:39.874 [jobOrder.TG_6130_RepeatDirectOrder] [getJobTitleText] - Getting Job Title text
+[INFO ] 2023-04-26 15:11:40.054 [jobOrder.TG_6130_RepeatDirectOrder] [getJobTitleText] - Got the text successfully
+[INFO ] 2023-04-26 15:11:40.054 [jobOrder.TG_6130_RepeatDirectOrder] [getJobIndustryText] - Getting Job Industry text
+[INFO ] 2023-04-26 15:11:40.177 [jobOrder.TG_6130_RepeatDirectOrder] [getJobIndustryText] - Got the text successfully
+[INFO ] 2023-04-26 15:11:40.177 [jobOrder.TG_6130_RepeatDirectOrder] [getESignature] - Getting ESignature Value
+[INFO ] 2023-04-26 15:11:40.337 [jobOrder.TG_6130_RepeatDirectOrder] [getESignature] - Got the text successfully
+[INFO ] 2023-04-26 15:11:42.347 [jobOrder.TG_6130_RepeatDirectOrder] [clickRepeatOrderButton] - Clicking on the Repeat Order Button
+[INFO ] 2023-04-26 15:11:42.743 [jobOrder.TG_6130_RepeatDirectOrder] [clickRepeatOrderButton] - Repeat Order Button Clicked Successfully
+[INFO ] 2023-04-26 15:11:42.744 [jobOrder.TG_6130_RepeatDirectOrder] [clickDirectOrderCheckbox] - Clicking on the Direct Order Checkbox
+[INFO ] 2023-04-26 15:11:43.172 [jobOrder.TG_6130_RepeatDirectOrder] [clickDirectOrderCheckbox] - Direct Order Checkbox Clicked Successfully
+[INFO ] 2023-04-26 15:11:43.172 [jobOrder.TG_6130_RepeatDirectOrder] [selectStaffingCompany] - Entering Staffing Company
+[INFO ] 2023-04-26 15:11:43.952 [jobOrder.TG_6130_RepeatDirectOrder] [selectStaffingCompany] - Staffing Company entered successfully
+[INFO ] 2023-04-26 15:11:43.954 [jobOrder.TG_6130_RepeatDirectOrder] [clickProceedButton] - Clicking on the Proceed Button
+[INFO ] 2023-04-26 15:11:44.092 [jobOrder.TG_6130_RepeatDirectOrder] [clickProceedButton] - Proceed Button Clicked Successfully
+[INFO ] 2023-04-26 15:11:44.093 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobSiteTextIsPresent] - Verifying same Job Site present
+[INFO ] 2023-04-26 15:11:48.722 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobSiteTextIsPresent] - Same job site is present
+[INFO ] 2023-04-26 15:11:48.727 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobTitleTextIsPresent] - Verifying same Job Title present
+[INFO ] 2023-04-26 15:11:48.777 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobTitleTextIsPresent] - Same job Title is present
+[INFO ] 2023-04-26 15:11:48.778 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobIndustryTextIsPresent] - Verifying same Job Industry present
+[INFO ] 2023-04-26 15:11:48.848 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobIndustryTextIsPresent] - Same job Industry is present
+[INFO ] 2023-04-26 15:11:48.848 [jobOrder.TG_6130_RepeatDirectOrder] [verifyESignatureTextIsPresent] - Verifying same Esignature present

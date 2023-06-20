@@ -1,0 +1,104 @@
+[INFO ] 2023-01-25 01:32:10.323 [company.TG_4355_EmployeeOnboarding] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-25 01:32:11.932 [company.TG_4355_EmployeeOnboarding] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-25 01:32:11.932 [company.TG_4355_EmployeeOnboarding] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-25 01:32:12.191 [company.TG_4355_EmployeeOnboarding] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-25 01:32:12.191 [company.TG_4355_EmployeeOnboarding] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-25 01:32:12.785 [company.TG_4355_EmployeeOnboarding] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-25 01:32:15.819 [company.TG_4355_EmployeeOnboarding] [clickATSMenuOnStaffingHomePage] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-01-25 01:32:29.183 [company.TG_4355_EmployeeOnboarding] [clickATSMenuOnStaffingHomePage] - ATS menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-01-25 01:32:29.185 [company.TG_4355_EmployeeOnboarding] [verifyOnboardingMenuOnStaffingHomePage] - Verify Order menu present on the staffing homepage
+[INFO ] 2023-01-25 01:32:29.322 [company.TG_4355_EmployeeOnboarding] [verifyOnboardingMenuOnStaffingHomePage] - onboardingMenu displayed successfully.
+[INFO ] 2023-01-25 01:32:29.330 [company.TG_4355_EmployeeOnboarding] [verifySetUpMenuOnStaffingHomePage] - Verify setup menu present on the staffing homepage
+[INFO ] 2023-01-25 01:32:29.387 [company.TG_4355_EmployeeOnboarding] [verifySetUpMenuOnStaffingHomePage] - Setup menu displayed successfully.
+[INFO ] 2023-01-25 01:32:29.513 [company.TG_4355_EmployeeOnboarding] [clickOnboardingMenuOnStaffingHomePage] - Clicking Onboarding menu present on the staffing homepage
+[INFO ] 2023-01-25 01:32:32.204 [company.TG_4355_EmployeeOnboarding] [clickOnboardingMenuOnStaffingHomePage] - Onboarding menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-01-25 01:32:34.221 [company.TG_4355_EmployeeOnboarding] [verifyEmployeeOnboardingTitle] - Verify EmployeeOnboardingTitle on the employee-onboarding page
+[INFO ] 2023-01-25 01:32:34.293 [company.TG_4355_EmployeeOnboarding] [verifyEmployeeOnboardingTitle] - EmployeeOnboardingTitle menu displayed successfully.
+[INFO ] 2023-01-25 01:32:36.339 [company.TG_4355_EmployeeOnboarding] [clickAddEmployeeOnboarding] - Clicking AddEmployeeOnboarding present on the  employee-onboarding page
+[INFO ] 2023-01-25 01:32:37.243 [company.TG_4355_EmployeeOnboarding] [clickAddEmployeeOnboarding] - Add Employee Onboarding button clicked successfully.
+[INFO ] 2023-01-25 01:32:37.244 [company.TG_4355_EmployeeOnboarding] [verifyNewEmployeeOnboardingTitle] - Verify New Employee Onboarding Title while clicking add Employee Onboarding Button
+[INFO ] 2023-01-25 01:32:37.606 [company.TG_4355_EmployeeOnboarding] [verifyNewEmployeeOnboardingTitle] - New Employee Onboarding Title displayed while clicking add Employee Onboarding Button successfully.
+[INFO ] 2023-01-25 01:32:37.653 [company.TG_4355_EmployeeOnboarding] [clickSaveButton] - Clicking save button on New Employee Onboarding form
+[INFO ] 2023-01-25 01:32:41.077 [company.TG_4355_EmployeeOnboarding] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-01-25 01:32:41.083 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Verify Missing field dialog while clicking save Button
+[INFO ] 2023-01-25 01:32:41.754 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Missing field dialog displayed while clicking save Button successfully.
+[INFO ] 2023-01-25 01:32:41.754 [company.TG_4355_EmployeeOnboarding] [clickCloseButtonMissingFieldPopUp] - Clicking close button on New Employee Onboarding form
+[INFO ] 2023-01-25 01:32:44.993 [company.TG_4355_EmployeeOnboarding] [clickCloseButtonMissingFieldPopUp] - CLose button clicked successfully
+[INFO ] 2023-01-25 01:32:45.052 [company.TG_4355_EmployeeOnboarding] [verifyFirstNameIsVisible] - Checking first name feild is Visible
+[INFO ] 2023-01-25 01:32:45.263 [company.TG_4355_EmployeeOnboarding] [verifyFirstNameIsVisible] - First name is displayed successfully
+[INFO ] 2023-01-25 01:32:45.265 [company.TG_4355_EmployeeOnboarding] [clickSaveButton] - Clicking save button on New Employee Onboarding form
+[INFO ] 2023-01-25 01:32:48.500 [company.TG_4355_EmployeeOnboarding] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-01-25 01:32:50.506 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Verify Missing field dialog while clicking save Button
+[INFO ] 2023-01-25 01:32:50.576 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Missing field dialog displayed while clicking save Button successfully.
+[INFO ] 2023-01-25 01:32:50.576 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Verify Missing field dialog while clicking save Button
+[INFO ] 2023-01-25 01:32:50.695 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Missing field dialog displayed while clicking save Button successfully.
+[INFO ] 2023-01-25 01:32:50.696 [company.TG_4355_EmployeeOnboarding] [clickCloseButtonMissingFieldPopUp] - Clicking close button on New Employee Onboarding form
+[INFO ] 2023-01-25 01:32:53.867 [company.TG_4355_EmployeeOnboarding] [clickCloseButtonMissingFieldPopUp] - CLose button clicked successfully
+[INFO ] 2023-01-25 01:32:53.872 [company.TG_4355_EmployeeOnboarding] [enterFirstName] - Entering new user's first name
+[INFO ] 2023-01-25 01:32:54.285 [company.TG_4355_EmployeeOnboarding] [enterFirstName] - User's first name entered successfully
+[INFO ] 2023-01-25 01:32:57.363 [company.TG_4355_EmployeeOnboarding] [verifyLastNameIsVisible] - Checking last name feild is Visible
+[INFO ] 2023-01-25 01:32:57.454 [company.TG_4355_EmployeeOnboarding] [verifyLastNameIsVisible] - last name is displayed successfully
+[INFO ] 2023-01-25 01:32:57.454 [company.TG_4355_EmployeeOnboarding] [clickSaveButton] - Clicking save button on New Employee Onboarding form
+[INFO ] 2023-01-25 01:33:00.692 [company.TG_4355_EmployeeOnboarding] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-01-25 01:33:02.705 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Verify Missing field dialog while clicking save Button
+[INFO ] 2023-01-25 01:33:02.800 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Missing field dialog displayed while clicking save Button successfully.
+[INFO ] 2023-01-25 01:33:02.800 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Verify Missing field dialog while clicking save Button
+[INFO ] 2023-01-25 01:33:02.838 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Missing field dialog displayed while clicking save Button successfully.
+[INFO ] 2023-01-25 01:33:02.840 [company.TG_4355_EmployeeOnboarding] [clickCloseButtonMissingFieldPopUp] - Clicking close button on New Employee Onboarding form
+[INFO ] 2023-01-25 01:33:06.010 [company.TG_4355_EmployeeOnboarding] [clickCloseButtonMissingFieldPopUp] - CLose button clicked successfully
+[INFO ] 2023-01-25 01:33:06.012 [company.TG_4355_EmployeeOnboarding] [enterLastName] - Entering new user's Last name
+[INFO ] 2023-01-25 01:33:06.352 [company.TG_4355_EmployeeOnboarding] [enterLastName] - User's last name entered successfully
+[INFO ] 2023-01-25 01:33:09.415 [company.TG_4355_EmployeeOnboarding] [verifyEmailVisible] - Checking email is Visible
+[INFO ] 2023-01-25 01:33:09.506 [company.TG_4355_EmployeeOnboarding] [verifyEmailVisible] - email is displayed successfully
+[INFO ] 2023-01-25 01:33:09.507 [company.TG_4355_EmployeeOnboarding] [clickSaveButton] - Clicking save button on New Employee Onboarding form
+[INFO ] 2023-01-25 01:33:12.647 [company.TG_4355_EmployeeOnboarding] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-01-25 01:33:14.654 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Verify Missing field dialog while clicking save Button
+[INFO ] 2023-01-25 01:33:14.702 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Missing field dialog displayed while clicking save Button successfully.
+[INFO ] 2023-01-25 01:33:14.703 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Verify Missing field dialog while clicking save Button
+[INFO ] 2023-01-25 01:33:14.748 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Missing field dialog displayed while clicking save Button successfully.
+[INFO ] 2023-01-25 01:33:14.749 [company.TG_4355_EmployeeOnboarding] [clickCloseButtonMissingFieldPopUp] - Clicking close button on New Employee Onboarding form
+[INFO ] 2023-01-25 01:33:17.920 [company.TG_4355_EmployeeOnboarding] [clickCloseButtonMissingFieldPopUp] - CLose button clicked successfully
+[INFO ] 2023-01-25 01:33:17.922 [company.TG_4355_EmployeeOnboarding] [enterEmail] - Entering new email
+[INFO ] 2023-01-25 01:33:18.402 [company.TG_4355_EmployeeOnboarding] [enterEmail] - email entered successfully
+[INFO ] 2023-01-25 01:33:21.440 [company.TG_4355_EmployeeOnboarding] [clickSaveButton] - Clicking save button on New Employee Onboarding form
+[INFO ] 2023-01-25 01:33:24.581 [company.TG_4355_EmployeeOnboarding] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-01-25 01:33:26.591 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Verify Missing field dialog while clicking save Button
+[INFO ] 2023-01-25 01:33:26.650 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Missing field dialog displayed while clicking save Button successfully.
+[INFO ] 2023-01-25 01:33:26.650 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Verify Missing field dialog while clicking save Button
+[INFO ] 2023-01-25 01:33:26.689 [company.TG_4355_EmployeeOnboarding] [verifyMissingFieldPopUp] - Missing field dialog displayed while clicking save Button successfully.
+[INFO ] 2023-01-25 01:33:26.690 [company.TG_4355_EmployeeOnboarding] [clickCloseButtonMissingFieldPopUp] - Clicking close button on New Employee Onboarding form
+[INFO ] 2023-01-25 01:33:29.808 [company.TG_4355_EmployeeOnboarding] [clickCloseButtonMissingFieldPopUp] - CLose button clicked successfully
+[INFO ] 2023-01-25 01:33:29.809 [company.TG_4355_EmployeeOnboarding] [enterEmployeeOnboardingTemplateValue] - Entering 
+[INFO ] 2023-01-25 01:33:30.516 [company.TG_4355_EmployeeOnboarding] [enterEmployeeOnboardingTemplateValue] - entered successfully
+[INFO ] 2023-01-25 01:33:33.555 [company.TG_4355_EmployeeOnboarding] [enterDateOfBirth] - Entering DOb in  new EmployeeOnborading page
+[INFO ] 2023-01-25 01:33:39.243 [company.TG_4355_EmployeeOnboarding] [enterDateOfBirth] - Entered DOb in  new EmployeeOnborading page successfully
+[INFO ] 2023-01-25 01:33:39.245 [company.TG_4355_EmployeeOnboarding] [verifyBirthYearErrorMessage] - Verify birth year error message 
+[INFO ] 2023-01-25 01:33:39.867 [company.TG_4355_EmployeeOnboarding] [verifyBirthYearErrorMessage] - Birth year error message verified successfully.
+[INFO ] 2023-01-25 01:33:39.868 [company.TG_4355_EmployeeOnboarding] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-01-25 01:33:43.023 [company.TG_4355_EmployeeOnboarding] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-01-25 01:33:43.025 [company.TG_4355_EmployeeOnboarding] [enterDateOfBirth] - Entering DOb in  new EmployeeOnborading page
+[INFO ] 2023-01-25 01:33:48.591 [company.TG_4355_EmployeeOnboarding] [enterDateOfBirth] - Entered DOb in  new EmployeeOnborading page successfully
+[INFO ] 2023-01-25 01:33:51.674 [company.TG_4355_EmployeeOnboarding] [clickSaveButton] - Clicking save button on New Employee Onboarding form
+[INFO ] 2023-01-25 01:33:54.830 [company.TG_4355_EmployeeOnboarding] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-01-25 01:33:57.846 [company.TG_4355_EmployeeOnboarding] [verifyDraftStatusOnForm] - verify clicking Save button moved to Draft Status on form
+[INFO ] 2023-01-25 01:34:01.403 [company.TG_4355_EmployeeOnboarding] [verifyDraftStatusOnForm] - verified clicking Save button moved to Draft Status on form successfully
+[INFO ] 2023-01-25 01:34:04.440 [company.TG_4355_EmployeeOnboarding] [verifySubmitButtonOnForm] - verify clicking Submit button on Employee Onboarding form
+[INFO ] 2023-01-25 01:34:04.521 [company.TG_4355_EmployeeOnboarding] [verifySubmitButtonOnForm] - verified clicking on Submit button on Employee Onboarding form successfully
+[INFO ] 2023-01-25 01:34:04.521 [company.TG_4355_EmployeeOnboarding] [clickSubmitButton] - Clicking save button on New Employee Onboarding form
+[INFO ] 2023-01-25 01:34:04.596 [company.TG_4355_EmployeeOnboarding] [clickSubmitButton] - Save button clicked successfully
+[INFO ] 2023-01-25 01:34:07.603 [company.TG_4355_EmployeeOnboarding] [clickModalConfirmYesButton] - Clicking yes button on confirm modal Employee Onboarding form
+[INFO ] 2023-01-25 01:34:07.746 [company.TG_4355_EmployeeOnboarding] [clickModalConfirmYesButton] - Yes button on confirm modal clicked successfully
+[INFO ] 2023-01-25 01:34:10.757 [company.TG_4355_EmployeeOnboarding] [verifySubmittedStatusOnForm] - verify clicking submit button moved to submitted Status on form
+[INFO ] 2023-01-25 01:34:13.872 [company.TG_4355_EmployeeOnboarding] [verifySubmittedStatusOnForm] - verified clicking submit button moved to submitted Status on form successfully
+[INFO ] 2023-01-25 01:34:16.912 [company.TG_4355_EmployeeOnboarding] [enterData1] - Entering Job Applicant List in the search box
+[INFO ] 2023-01-25 01:34:17.194 [company.TG_4355_EmployeeOnboarding] [enterData1] - Entered Job Applicant List in the search box successfully
+[INFO ] 2023-01-25 01:34:17.199 [company.TG_4355_EmployeeOnboarding] [clickSearchBox] - Searching Job Applicant List having the Status as Accepted
+[INFO ] 2023-01-25 01:34:17.578 [company.TG_4355_EmployeeOnboarding] [clickSearchBox] - Job Applicant List having the Status as Accepted listed successfully
+[INFO ] 2023-01-25 01:34:17.579 [company.TG_4355_EmployeeOnboarding] [verifyJobApplicantList] - Checking Job applicant list having the Status as Accepted
+[INFO ] 2023-01-25 01:34:20.273 [company.TG_4355_EmployeeOnboarding] [verifyJobApplicantList] - first last name is displayed listing form successfully
+[INFO ] 2023-01-25 01:34:23.331 [company.TG_4355_EmployeeOnboarding] [enterData1] - Entering Job Applicant List in the search box
+[INFO ] 2023-01-25 01:34:23.525 [company.TG_4355_EmployeeOnboarding] [enterData1] - Entered Job Applicant List in the search box successfully
+[INFO ] 2023-01-25 01:34:23.525 [company.TG_4355_EmployeeOnboarding] [clickSearchBox] - Searching Job Applicant List having the Status as Accepted
+[INFO ] 2023-01-25 01:34:23.732 [company.TG_4355_EmployeeOnboarding] [clickSearchBox] - Job Applicant List having the Status as Accepted listed successfully
+[INFO ] 2023-01-25 01:34:23.734 [company.TG_4355_EmployeeOnboarding] [verifyJobOfferList] - Checking Job offer list having the Status as Accepted
+[INFO ] 2023-01-25 01:34:25.956 [company.TG_4355_EmployeeOnboarding] [verifyJobOfferList] - first last name is displayed listing form successfully

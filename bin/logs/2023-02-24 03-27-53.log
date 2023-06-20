@@ -1,0 +1,49 @@
+[INFO ] 2023-02-24 15:27:53.629 [employees.TG_3963_AddNewEmployee] [VerifyCreateNewEmployee] - Started==Verifying Company Type  and Company Name are mandatory fields
+[INFO ] 2023-02-24 15:27:57.680 [employees.TG_3963_AddNewEmployee] [enterUsername] - Entering new user's first name
+[INFO ] 2023-02-24 15:27:59.182 [employees.TG_3963_AddNewEmployee] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-02-24 15:27:59.183 [employees.TG_3963_AddNewEmployee] [enterPassword] - Entering new user's last name
+[INFO ] 2023-02-24 15:27:59.392 [employees.TG_3963_AddNewEmployee] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-02-24 15:27:59.393 [employees.TG_3963_AddNewEmployee] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-02-24 15:28:00.042 [employees.TG_3963_AddNewEmployee] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-02-24 15:28:00.042 [employees.TG_3963_AddNewEmployee] [VerifyCreateNewEmployee] - Login Successful
+[INFO ] 2023-02-24 15:28:39.355 [employees.TG_3963_AddNewEmployee] [clickAddNewEployeeButton] - Clicking on Add New Employee Button
+[INFO ] 2023-02-24 15:28:41.479 [employees.TG_3963_AddNewEmployee] [clickAddNewEployeeButton] - Employee button clicked successfully
+[INFO ] 2023-02-24 15:28:46.487 [employees.TG_3963_AddNewEmployee] [enterCompanyName] - Entering Company Name
+[INFO ] 2023-02-24 15:28:46.831 [employees.TG_3963_AddNewEmployee] [enterCompanyName] - Company Name entered successfully
+[INFO ] 2023-02-24 15:28:48.837 [employees.TG_3963_AddNewEmployee] [enterFirstName] - Entering First Name
+[INFO ] 2023-02-24 15:28:49.067 [employees.TG_3963_AddNewEmployee] [enterFirstName] - First Name entered successfully
+[INFO ] 2023-02-24 15:28:51.075 [employees.TG_3963_AddNewEmployee] [enterLastName] - Entering Last Name
+[INFO ] 2023-02-24 15:28:51.218 [employees.TG_3963_AddNewEmployee] [enterLastName] - Last Name entered successfully
+[INFO ] 2023-02-24 15:28:53.225 [employees.TG_3963_AddNewEmployee] [enterDateOfBirthField] - Entering date of birth
+[INFO ] 2023-02-24 15:28:54.778 [employees.TG_3963_AddNewEmployee] [enterDateOfBirthField] - Date of birth entered successfully
+[INFO ] 2023-02-24 15:28:56.784 [employees.TG_3963_AddNewEmployee] [enterEmail] - Entering email
+[INFO ] 2023-02-24 15:28:57.062 [employees.TG_3963_AddNewEmployee] [enterEmail] - Email entered successfully
+[INFO ] 2023-02-24 15:28:59.068 [employees.TG_3963_AddNewEmployee] [selectAddressTab] - Clicking Address Tab
+[INFO ] 2023-02-24 15:29:01.231 [employees.TG_3963_AddNewEmployee] [selectAddressTab] - Address Tab clicked successfully
+[INFO ] 2023-02-24 15:29:03.237 [employees.TG_3963_AddNewEmployee] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2023-02-24 15:29:04.573 [employees.TG_3963_AddNewEmployee] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2023-02-24 15:29:06.579 [employees.TG_3963_AddNewEmployee] [clickSaveButton] - Clicking Save button
+[INFO ] 2023-02-24 15:29:06.830 [employees.TG_3963_AddNewEmployee] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-02-24 15:29:46.843 [employees.TG_3963_AddNewEmployee] [getEmployeeNameFromEmaployeeDetailsPage] - Fetching employee Name
+[INFO ] 2023-02-24 15:29:46.975 [employees.TG_3963_AddNewEmployee] [getEmployeeNameFromEmaployeeDetailsPage] - Employee Name fetched successfully
+[INFO ] 2023-02-24 15:29:47.119 [employees.TG_3963_AddNewEmployee] [verifyDiscardAddNewForm] - Verifying Add New Employee discard functionality
+[INFO ] 2023-02-24 15:30:11.129 [employees.TG_3963_AddNewEmployee] [clickAddNewEployeeButton] - Clicking on Add New Employee Button
+[INFO ] 2023-02-24 15:30:11.839 [employees.TG_3963_AddNewEmployee] [clickAddNewEployeeButton] - Employee button clicked successfully
+[INFO ] 2023-02-24 15:30:11.840 [employees.TG_3963_AddNewEmployee] [enterCompanyName] - Entering Company Name
+[INFO ] 2023-02-24 15:30:12.220 [employees.TG_3963_AddNewEmployee] [enterCompanyName] - Company Name entered successfully
+[INFO ] 2023-02-24 15:30:12.220 [employees.TG_3963_AddNewEmployee] [enterFirstName] - Entering First Name
+[INFO ] 2023-02-24 15:30:12.313 [employees.TG_3963_AddNewEmployee] [enterFirstName] - First Name entered successfully
+[INFO ] 2023-02-24 15:30:12.314 [employees.TG_3963_AddNewEmployee] [enterLastName] - Entering Last Name
+[INFO ] 2023-02-24 15:30:12.414 [employees.TG_3963_AddNewEmployee] [enterLastName] - Last Name entered successfully
+[INFO ] 2023-02-24 15:30:16.418 [employees.TG_3963_AddNewEmployee] [enterDateOfBirthField] - Entering date of birth
+[INFO ] 2023-02-24 15:30:17.753 [employees.TG_3963_AddNewEmployee] [enterDateOfBirthField] - Date of birth entered successfully
+[INFO ] 2023-02-24 15:30:17.754 [employees.TG_3963_AddNewEmployee] [enterEmail] - Entering email
+[INFO ] 2023-02-24 15:30:17.918 [employees.TG_3963_AddNewEmployee] [enterEmail] - Email entered successfully
+[INFO ] 2023-02-24 15:30:17.919 [employees.TG_3963_AddNewEmployee] [clickCancelbutton] - Clicking Cancel button
+[INFO ] 2023-02-24 15:30:18.175 [employees.TG_3963_AddNewEmployee] [clickCancelbutton] - Cancel button clicked successfully
+[INFO ] 2023-02-24 15:30:18.351 [employees.TG_3963_AddNewEmployee] [verifyDiscardAddNewForm] - Add New Employee discarded successfully
+[INFO ] 2023-02-24 15:30:18.393 [employees.TG_3963_AddNewEmployee] [verifyMandatoryFields] - Verifying Add New Employee discard functionality
+[INFO ] 2023-02-24 15:30:23.400 [employees.TG_3963_AddNewEmployee] [clickAddNewEployeeButton] - Clicking on Add New Employee Button
+[INFO ] 2023-02-24 15:30:23.839 [employees.TG_3963_AddNewEmployee] [clickAddNewEployeeButton] - Employee button clicked successfully
+[INFO ] 2023-02-24 15:30:24.036 [employees.TG_3963_AddNewEmployee] [clickSaveButton] - Clicking Save button
+[INFO ] 2023-02-24 15:30:24.165 [employees.TG_3963_AddNewEmployee] [clickSaveButton] - Save button clicked successfully

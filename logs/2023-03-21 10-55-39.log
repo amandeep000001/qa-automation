@@ -1,0 +1,251 @@
+[INFO ] 2023-03-21 22:55:46.999 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Logging in
+[INFO ] 2023-03-21 22:55:51.163 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Username
+[INFO ] 2023-03-21 22:55:51.164 [CRM.TG_5352_Lead_Creation] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-21 22:55:53.053 [CRM.TG_5352_Lead_Creation] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-21 22:55:53.054 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Username Entered Successfully
+[INFO ] 2023-03-21 22:55:53.054 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Password
+[INFO ] 2023-03-21 22:55:53.056 [CRM.TG_5352_Lead_Creation] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-21 22:55:53.235 [CRM.TG_5352_Lead_Creation] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-21 22:55:53.236 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Password Entered Successfully
+[INFO ] 2023-03-21 22:55:53.236 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking on Login Button
+[INFO ] 2023-03-21 22:55:53.237 [CRM.TG_5352_Lead_Creation] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-21 22:55:53.822 [CRM.TG_5352_Lead_Creation] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-21 22:55:53.838 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verifying CRM Icon
+[INFO ] 2023-03-21 22:55:53.839 [CRM.TG_5352_Lead_Creation] [verifyCRMTextOnHomepage] - Check for CRM Icon on Homepage
+[INFO ] 2023-03-21 22:56:08.877 [CRM.TG_5352_Lead_Creation] [verifyCRMTextOnHomepage] - CRM Icon displayed successfully
+[INFO ] 2023-03-21 22:56:08.881 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking on CRM Icon
+[INFO ] 2023-03-21 22:56:08.881 [CRM.TG_5352_Lead_Creation] [clickCRMIcon] - Clicking on CRM Button
+[INFO ] 2023-03-21 22:56:09.328 [CRM.TG_5352_Lead_Creation] [clickCRMIcon] - CRM Button clicked successfully
+[INFO ] 2023-03-21 22:56:09.328 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - CRM Icon Clicked Successfully
+[INFO ] 2023-03-21 22:56:11.335 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking on Lead Icon
+[INFO ] 2023-03-21 22:56:11.337 [CRM.TG_5352_Lead_Creation] [clickLeadIcon] - Clicking on Lead Button
+[INFO ] 2023-03-21 22:56:12.723 [CRM.TG_5352_Lead_Creation] [clickLeadIcon] - Lead Button clicked successfully
+[INFO ] 2023-03-21 22:56:12.723 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Lead Icon Clicked Successfully
+[INFO ] 2023-03-21 22:56:14.729 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verify Listing Form
+[INFO ] 2023-03-21 22:56:14.730 [CRM.TG_5352_Lead_Creation] [verifyLeadListingForm] - Check for Lead Title
+[INFO ] 2023-03-21 22:56:14.872 [CRM.TG_5352_Lead_Creation] [verifyLeadListingForm] - Lead Title displayed successfully
+[INFO ] 2023-03-21 22:56:14.872 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Listing Form verified successfully
+[INFO ] 2023-03-21 22:56:16.881 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking on Add Lead Button
+[INFO ] 2023-03-21 22:56:16.882 [CRM.TG_5352_Lead_Creation] [clickAddLeadButton] - Clicking on Lead Button
+[INFO ] 2023-03-21 22:56:17.962 [CRM.TG_5352_Lead_Creation] [clickAddLeadButton] - Add Lead Button clicked successfully
+[INFO ] 2023-03-21 22:56:17.962 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Add Lead Button Clicked Successfully
+[INFO ] 2023-03-21 22:56:19.970 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verifying the Lead Form Title
+[INFO ] 2023-03-21 22:56:19.971 [CRM.TG_5352_Lead_Creation] [verifyLeadForm] - Check for New Lead Form
+[INFO ] 2023-03-21 22:56:20.084 [CRM.TG_5352_Lead_Creation] [verifyLeadForm] - New Lead Form displayed successfully
+[INFO ] 2023-03-21 22:56:20.084 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Lead Form Title is Verified Successfully
+[INFO ] 2023-03-21 22:56:20.084 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verifying Mandatory Fields
+[INFO ] 2023-03-21 22:56:20.085 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Clicking on Save Button
+[INFO ] 2023-03-21 22:56:20.603 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Save Button clicked successfully
+[INFO ] 2023-03-21 22:56:22.611 [CRM.TG_5352_Lead_Creation] [verifyMandatoryFieldIsBlank] - Verifying the Mandatory Field Pop-Up Title
+[INFO ] 2023-03-21 22:56:22.729 [CRM.TG_5352_Lead_Creation] [verifyMandatoryFieldIsBlank] - Mandatory Field Pop-Up Title displayed Successfully
+[INFO ] 2023-03-21 22:56:24.735 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Closing the Pop-up
+[INFO ] 2023-03-21 22:56:24.736 [CRM.TG_5352_Lead_Creation] [closeBlankMandatoryFieldDialogBox] - Clicking on Close Pop-Up Icon
+[INFO ] 2023-03-21 22:56:24.918 [CRM.TG_5352_Lead_Creation] [closeBlankMandatoryFieldDialogBox] - Close Pop-Up Icon Clicked Successfully
+[INFO ] 2023-03-21 22:56:24.919 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Pop-up closed Successfully
+[INFO ] 2023-03-21 22:56:26.928 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering First Name
+[INFO ] 2023-03-21 22:56:26.931 [CRM.TG_5352_Lead_Creation] [enterFirstName] - Entering First Name
+[INFO ] 2023-03-21 22:56:27.125 [CRM.TG_5352_Lead_Creation] [enterFirstName] - First Name Entered Successfully
+[INFO ] 2023-03-21 22:56:27.125 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - First Name Entered Successfully
+[INFO ] 2023-03-21 22:56:27.125 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Last Name
+[INFO ] 2023-03-21 22:56:27.126 [CRM.TG_5352_Lead_Creation] [enterLastName] - Entering Last Name
+[INFO ] 2023-03-21 22:56:27.210 [CRM.TG_5352_Lead_Creation] [enterLastName] - Last Name Entered Successfully
+[INFO ] 2023-03-21 22:56:27.210 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Last Name Entered Successfully
+[INFO ] 2023-03-21 22:56:27.210 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Company Name
+[INFO ] 2023-03-21 22:56:27.210 [CRM.TG_5352_Lead_Creation] [enterCompanyName] - Entering Company Name
+[INFO ] 2023-03-21 22:56:27.385 [CRM.TG_5352_Lead_Creation] [enterCompanyName] - Company Name Entered Successfully
+[INFO ] 2023-03-21 22:56:27.385 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Company Name Entered Successfully
+[INFO ] 2023-03-21 22:56:27.386 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Email
+[INFO ] 2023-03-21 22:56:27.387 [CRM.TG_5352_Lead_Creation] [enterEmail] - Entering Email
+[INFO ] 2023-03-21 22:56:27.666 [CRM.TG_5352_Lead_Creation] [enterEmail] - Email Entered Successfully
+[INFO ] 2023-03-21 22:56:27.666 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Email Entered Successfully
+[INFO ] 2023-03-21 22:56:29.674 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Phone Number
+[INFO ] 2023-03-21 22:56:29.678 [CRM.TG_5352_Lead_Creation] [enterPhoneNumber] - Entering Phone Number
+[INFO ] 2023-03-21 22:56:29.900 [CRM.TG_5352_Lead_Creation] [enterPhoneNumber] - Phone Number Entered Successfully
+[INFO ] 2023-03-21 22:56:29.901 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Phone Number Entered Successfully
+[INFO ] 2023-03-21 22:56:31.907 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Employee Address
+[INFO ] 2023-03-21 22:56:31.909 [CRM.TG_5352_Lead_Creation] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2023-03-21 22:56:33.122 [CRM.TG_5352_Lead_Creation] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2023-03-21 22:56:33.123 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Employee Address Entered Successfull
+[INFO ] 2023-03-21 22:56:35.129 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking on Save Button
+[INFO ] 2023-03-21 22:56:35.131 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Clicking on Save Button
+[INFO ] 2023-03-21 22:56:35.270 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Save Button clicked successfully
+[INFO ] 2023-03-21 22:56:35.270 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Save Button Clicked Successfully
+[INFO ] 2023-03-21 22:56:38.283 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verify the LEAD Status
+[INFO ] 2023-03-21 22:56:38.290 [CRM.TG_5352_Lead_Creation] [verifyLeadStatus] - Check for Status as Lead
+[INFO ] 2023-03-21 22:56:38.418 [CRM.TG_5352_Lead_Creation] [verifyLeadStatus] - Status verified as Lead successfully
+[INFO ] 2023-03-21 22:56:38.418 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - LEAD Status verified Successfully
+[INFO ] 2023-03-21 22:56:40.424 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking Lead Link for Listing form
+[INFO ] 2023-03-21 22:56:40.426 [CRM.TG_5352_Lead_Creation] [clickLeadLinkforListingForm] - Click on Lead for Listing form
+[INFO ] 2023-03-21 22:56:40.769 [CRM.TG_5352_Lead_Creation] [clickLeadLinkforListingForm] - Lead for Listing form clicked Successfully
+[INFO ] 2023-03-21 22:56:40.770 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Lead Link for Listing form clicked Successfully
+[INFO ] 2023-03-21 22:56:40.770 [CRM.TG_5352_Lead_Creation] [clickFiveHundredFilter] - Clicking on 500 filter
+[INFO ] 2023-03-21 22:56:40.938 [CRM.TG_5352_Lead_Creation] [clickFiveHundredFilter] - 500 filter clicked successfully
+[INFO ] 2023-03-21 22:56:45.945 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verify Lead created Successfully or not
+[INFO ] 2023-03-21 22:56:45.946 [CRM.TG_5352_Lead_Creation] [verifyLeadCreatedOnListingPage] - Check for Created Contact
+[INFO ] 2023-03-21 22:56:46.032 [CRM.TG_5352_Lead_Creation] [verifyLeadCreatedOnListingPage] - Created Contact displayed successfully
+[INFO ] 2023-03-21 22:56:46.529 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Lead Created Successfully 
+[INFO ] 2023-03-21 22:56:50.541 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Selecting the Open Lead Status
+[INFO ] 2023-03-21 22:56:50.546 [CRM.TG_5352_Lead_Creation] [clickLeadStatusOpen] - Clicking on Status dropdown
+[INFO ] 2023-03-21 22:56:50.798 [CRM.TG_5352_Lead_Creation] [clickLeadStatusOpen] - Open Status entered successfully
+[INFO ] 2023-03-21 22:56:50.799 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Open Lead Status Selected Successfully
+[INFO ] 2023-03-21 22:56:52.803 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking Notes Tab
+[INFO ] 2023-03-21 22:56:52.805 [CRM.TG_5352_Lead_Creation] [clickNotesTab] - Clicking on Notes Tab
+[INFO ] 2023-03-21 22:56:53.045 [CRM.TG_5352_Lead_Creation] [clickNotesTab] - Notes Tab clicked successfully
+[INFO ] 2023-03-21 22:56:53.045 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Notes Tab Clicked Successfully
+[INFO ] 2023-03-21 22:56:55.052 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Notes
+[INFO ] 2023-03-21 22:56:55.053 [CRM.TG_5352_Lead_Creation] [enterNotes] - Entering Note
+[INFO ] 2023-03-21 22:56:55.343 [CRM.TG_5352_Lead_Creation] [enterNotes] - Note Entered Successfully
+[INFO ] 2023-03-21 22:56:55.343 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Notes Entered Successfully
+[INFO ] 2023-03-21 22:56:57.348 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking Overview Tab
+[INFO ] 2023-03-21 22:56:57.349 [CRM.TG_5352_Lead_Creation] [clickOverviewTab] - Clicking on Notes Tab
+[INFO ] 2023-03-21 22:56:57.514 [CRM.TG_5352_Lead_Creation] [clickOverviewTab] - Notes Tab clicked successfully
+[INFO ] 2023-03-21 22:56:57.514 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Overview Tab Clicked Successfully
+[INFO ] 2023-03-21 22:56:59.521 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Selecting the Contract Negotiation Lead Status
+[INFO ] 2023-03-21 22:56:59.522 [CRM.TG_5352_Lead_Creation] [clickLeadStatusContractNegotiation] - Clicking on Status dropdown
+[INFO ] 2023-03-21 22:56:59.668 [CRM.TG_5352_Lead_Creation] [clickLeadStatusContractNegotiation] - Contract Negotiation Status entered successfully
+[INFO ] 2023-03-21 22:56:59.669 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Contract Negotiation Lead Status Selected Successfully
+[INFO ] 2023-03-21 22:57:01.675 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking Save Button
+[INFO ] 2023-03-21 22:57:01.677 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Clicking on Save Button
+[INFO ] 2023-03-21 22:57:01.767 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Save Button clicked successfully
+[INFO ] 2023-03-21 22:57:01.768 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Save Button Clicked Successfully
+[INFO ] 2023-03-21 22:57:03.776 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verify Prepare Contract Button
+[INFO ] 2023-03-21 22:57:03.777 [CRM.TG_5352_Lead_Creation] [verifyPrepareContractButton] - Verify Prepare Contract Button
+[INFO ] 2023-03-21 22:57:04.261 [CRM.TG_5352_Lead_Creation] [verifyPrepareContractButton] - Prepare Contract Button displayed successfully
+[INFO ] 2023-03-21 22:57:04.262 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Prepare Contract Button Verified Successfully
+[INFO ] 2023-03-21 22:57:04.262 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Click Prepare Contract Button
+[INFO ] 2023-03-21 22:57:04.262 [CRM.TG_5352_Lead_Creation] [clickPrepareContractButton] - Clicking on Prepare Contract Button
+[INFO ] 2023-03-21 22:57:04.395 [CRM.TG_5352_Lead_Creation] [clickPrepareContractButton] - Prepare Contract Button clicked successfully
+[INFO ] 2023-03-21 22:57:04.397 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Prepare Contract Button Clicked Successfully
+[INFO ] 2023-03-21 22:57:06.402 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verify Contract Form
+[INFO ] 2023-03-21 22:57:06.403 [CRM.TG_5352_Lead_Creation] [verifyContractForm] - Check for New Contract Form
+[INFO ] 2023-03-21 22:57:06.519 [CRM.TG_5352_Lead_Creation] [verifyContractForm] - New Contract Form displayed successfully
+[INFO ] 2023-03-21 22:57:06.519 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - New Contract Form verified Successfully
+[INFO ] 2023-03-21 22:57:06.519 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Start Date
+[INFO ] 2023-03-21 22:57:06.519 [CRM.TG_5352_Lead_Creation] [enterStartDate] - Entering the Start Date 
+[INFO ] 2023-03-21 22:57:11.969 [CRM.TG_5352_Lead_Creation] [enterStartDate] - Start Date Entered Successfully
+[INFO ] 2023-03-21 22:57:11.972 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Start Date Entered Successfully
+[INFO ] 2023-03-21 22:57:13.978 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering End Date
+[INFO ] 2023-03-21 22:57:13.980 [CRM.TG_5352_Lead_Creation] [enterEndDate] - Entering the End Date
+[INFO ] 2023-03-21 22:57:19.264 [CRM.TG_5352_Lead_Creation] [enterEndDate] - End Date Entered Successfully
+[INFO ] 2023-03-21 22:57:19.267 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - End Date Entered Successfully
+[INFO ] 2023-03-21 22:57:21.273 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking Add Row Button
+[INFO ] 2023-03-21 22:57:21.274 [CRM.TG_5352_Lead_Creation] [clickAddRowButton] - Clicking on Add Row Button
+[INFO ] 2023-03-21 22:57:21.533 [CRM.TG_5352_Lead_Creation] [clickAddRowButton] - Add Row Button clicked successfully
+[INFO ] 2023-03-21 22:57:21.534 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Add Row Button Clicked Successfully
+[INFO ] 2023-03-21 22:57:23.540 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking Job Title
+[INFO ] 2023-03-21 22:57:23.540 [CRM.TG_5352_Lead_Creation] [clickJobTitleInTable] - Entering Job Title List in the Table
+[INFO ] 2023-03-21 22:57:23.694 [CRM.TG_5352_Lead_Creation] [clickJobTitleInTable] - Clicked Job Title in the Table successfully
+[INFO ] 2023-03-21 22:57:23.694 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Job Title Clicked Successfully
+[INFO ] 2023-03-21 22:57:25.702 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Job Title
+[INFO ] 2023-03-21 22:57:25.703 [CRM.TG_5352_Lead_Creation] [enterTitle] - Enter Title
+[INFO ] 2023-03-21 22:57:29.094 [CRM.TG_5352_Lead_Creation] [enterTitle] - Entered Job Title in the Table successfully
+[INFO ] 2023-03-21 22:57:29.095 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Job Title Entered Successfully
+[INFO ] 2023-03-21 22:57:31.101 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Signature
+[INFO ] 2023-03-21 22:57:31.102 [CRM.TG_5352_Lead_Creation] [enterSign] - Entering Sign
+[INFO ] 2023-03-21 22:57:31.286 [CRM.TG_5352_Lead_Creation] [enterSign] - Sign Entered Successfully
+[INFO ] 2023-03-21 22:57:31.286 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Signature Entered Successfully
+[INFO ] 2023-03-21 22:57:33.292 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking Save Button in Contract
+[INFO ] 2023-03-21 22:57:33.293 [CRM.TG_5352_Lead_Creation] [clickSaveButtonInContract] - Clicking on Save Button
+[INFO ] 2023-03-21 22:57:33.377 [CRM.TG_5352_Lead_Creation] [clickSaveButtonInContract] - Save Button clicked successfully
+[INFO ] 2023-03-21 22:57:33.377 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Save Button Clicked Successfully
+[INFO ] 2023-03-21 22:57:35.388 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verify Finalize Contract Button
+[INFO ] 2023-03-21 22:57:35.391 [CRM.TG_5352_Lead_Creation] [verifyFinalizeButton] - Verify Finalize Button
+[INFO ] 2023-03-21 22:57:35.490 [CRM.TG_5352_Lead_Creation] [verifyFinalizeButton] - Finalize Button displayed successfully
+[INFO ] 2023-03-21 22:57:35.490 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Finalize Contract Button verified Successfully
+[INFO ] 2023-03-21 22:57:37.501 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking Finalize Contrac Button
+[INFO ] 2023-03-21 22:57:37.503 [CRM.TG_5352_Lead_Creation] [clickFinalizeButton] - Clicking Finalize button
+[INFO ] 2023-03-21 22:57:37.628 [CRM.TG_5352_Lead_Creation] [clickFinalizeButton] - Finalize button clicked successfully
+[INFO ] 2023-03-21 22:57:37.628 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Finalize Contrac Button Clicked Successfully
+[INFO ] 2023-03-21 22:58:40.641 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking Contract Link
+[INFO ] 2023-03-21 22:58:40.644 [CRM.TG_5352_Lead_Creation] [clickContractLinkforListingForm] - Click on Contract for Listing form
+[INFO ] 2023-03-21 22:58:40.821 [CRM.TG_5352_Lead_Creation] [clickContractLinkforListingForm] - Contract for Listing form clicked Successfully
+[INFO ] 2023-03-21 22:58:40.821 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Contract Link Clicked Successfully
+[INFO ] 2023-03-21 22:58:42.827 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verify Created Contract
+[INFO ] 2023-03-21 22:58:42.828 [CRM.TG_5352_Lead_Creation] [verifyCreatedContract] - Check for Created Contract
+[INFO ] 2023-03-21 22:58:42.901 [CRM.TG_5352_Lead_Creation] [verifyCreatedContract] - Created Contract displayed successfully
+[DEBUG] 2023-03-21 22:58:43.570 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.573 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.574 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.575 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.575 [freemarker.cache] [debug] - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+[DEBUG] 2023-03-21 22:58:43.611 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.611 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.612 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.613 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.614 [freemarker.cache] [debug] - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+[DEBUG] 2023-03-21 22:58:43.698 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.699 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.699 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.702 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.702 [freemarker.cache] [debug] - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+[DEBUG] 2023-03-21 22:58:43.712 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.712 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.712 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.713 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.714 [freemarker.cache] [debug] - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+[DEBUG] 2023-03-21 22:58:43.715 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.716 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.717 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.718 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.718 [freemarker.cache] [debug] - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+[DEBUG] 2023-03-21 22:58:43.726 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.726 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.727 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.729 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.729 [freemarker.cache] [debug] - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+[DEBUG] 2023-03-21 22:58:43.738 [freemarker.cache] [debug] - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2023-03-21 22:58:43.738 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.738 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.738 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.739 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.739 [freemarker.cache] [debug] - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+[DEBUG] 2023-03-21 22:58:43.748 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.749 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.750 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.750 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.750 [freemarker.cache] [debug] - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+[DEBUG] 2023-03-21 22:58:43.754 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.754 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.754 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.754 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.754 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+[DEBUG] 2023-03-21 22:58:43.755 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.755 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.756 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.756 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.756 [freemarker.cache] [debug] - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+[DEBUG] 2023-03-21 22:58:43.761 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.761 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.761 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.761 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.761 [freemarker.cache] [debug] - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+[DEBUG] 2023-03-21 22:58:43.773 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.773 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.773 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.774 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.774 [freemarker.cache] [debug] - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+[DEBUG] 2023-03-21 22:58:43.838 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.839 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.839 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.839 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.839 [freemarker.cache] [debug] - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+[DEBUG] 2023-03-21 22:58:43.842 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.842 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.843 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.843 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.844 [freemarker.cache] [debug] - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+[DEBUG] 2023-03-21 22:58:43.853 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.853 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.854 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.854 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.854 [freemarker.cache] [debug] - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+[DEBUG] 2023-03-21 22:58:43.875 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.877 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.877 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.877 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.877 [freemarker.cache] [debug] - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+[DEBUG] 2023-03-21 22:58:43.883 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-21 22:58:43.884 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.884 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[DEBUG] 2023-03-21 22:58:43.884 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[DEBUG] 2023-03-21 22:58:43.884 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"

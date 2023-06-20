@@ -1,0 +1,173 @@
+[INFO ] 2023-03-10 23:41:46.099 [timesheets.TG_4423_TimesheetDeny] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2023-03-10 23:41:49.254 [timesheets.TG_4423_TimesheetDeny] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 23:41:51.137 [timesheets.TG_4423_TimesheetDeny] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 23:41:51.137 [timesheets.TG_4423_TimesheetDeny] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 23:41:51.382 [timesheets.TG_4423_TimesheetDeny] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 23:41:51.382 [timesheets.TG_4423_TimesheetDeny] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 23:41:51.864 [timesheets.TG_4423_TimesheetDeny] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 23:41:51.864 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Clicking on New Order Button
+[INFO ] 2023-03-10 23:42:04.907 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - New Order Button clicked successfully
+[INFO ] 2023-03-10 23:42:04.908 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Entering EstDailyHours
+[INFO ] 2023-03-10 23:42:14.094 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2023-03-10 23:42:14.095 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Entering StartDate
+[INFO ] 2023-03-10 23:42:19.772 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - StartDate entered successfully
+[INFO ] 2023-03-10 23:42:19.774 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Entering EndDate
+[INFO ] 2023-03-10 23:42:31.084 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - EndDate entered successfully
+[INFO ] 2023-03-10 23:42:31.088 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Entering StartTime
+[INFO ] 2023-03-10 23:42:32.084 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - StartTime entered successfully
+[INFO ] 2023-03-10 23:42:32.085 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Entering Availability
+[INFO ] 2023-03-10 23:42:32.283 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Availabilit entered successfully
+[INFO ] 2023-03-10 23:42:32.285 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Entering JobSite
+[INFO ] 2023-03-10 23:42:38.777 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - JobSite entered successfully
+[INFO ] 2023-03-10 23:42:38.777 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Entering JobTitle
+[INFO ] 2023-03-10 23:42:48.085 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - JobTitle entered successfully
+[INFO ] 2023-03-10 23:42:48.091 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Entering No Of Workers
+[INFO ] 2023-03-10 23:42:53.278 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2023-03-10 23:42:53.279 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Entering ESignature
+[INFO ] 2023-03-10 23:42:56.520 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - ESignature entered successfully
+[INFO ] 2023-03-10 23:42:56.528 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - clickAgreeContract
+[INFO ] 2023-03-10 23:42:56.726 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - clickAgreeContract successfully
+[INFO ] 2023-03-10 23:42:56.726 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - clickSaveButton
+[INFO ] 2023-03-10 23:42:56.913 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2023-03-10 23:43:05.365 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Job order link present on the home page clicked
+[INFO ] 2023-03-10 23:43:13.537 [timesheets.TG_4423_TimesheetDeny] [newOrderHiring] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-03-10 23:43:24.917 [timesheets.TG_4423_TimesheetDeny] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow CreateEmployeeFromStaffing
+[INFO ] 2023-03-10 23:43:37.691 [timesheets.TG_4423_TimesheetDeny] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 23:43:37.818 [timesheets.TG_4423_TimesheetDeny] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 23:43:37.818 [timesheets.TG_4423_TimesheetDeny] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 23:43:37.874 [timesheets.TG_4423_TimesheetDeny] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 23:43:37.874 [timesheets.TG_4423_TimesheetDeny] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 23:43:37.954 [timesheets.TG_4423_TimesheetDeny] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 23:44:08.947 [timesheets.TG_4423_TimesheetDeny] [clickAddNewEployeeButton] - Clicking on Add New Employee Button
+[INFO ] 2023-03-10 23:44:09.931 [timesheets.TG_4423_TimesheetDeny] [clickAddNewEployeeButton] - Employee button clicked successfully
+[INFO ] 2023-03-10 23:44:14.937 [timesheets.TG_4423_TimesheetDeny] [enterCompanyName] - Entering Company Name
+[INFO ] 2023-03-10 23:44:15.108 [timesheets.TG_4423_TimesheetDeny] [enterCompanyName] - Company Name entered successfully
+[INFO ] 2023-03-10 23:44:17.114 [timesheets.TG_4423_TimesheetDeny] [enterFirstName] - Entering First Name
+[INFO ] 2023-03-10 23:44:17.209 [timesheets.TG_4423_TimesheetDeny] [enterFirstName] - First Name entered successfully
+[INFO ] 2023-03-10 23:44:19.216 [timesheets.TG_4423_TimesheetDeny] [enterLastName] - Entering Last Name
+[INFO ] 2023-03-10 23:44:19.298 [timesheets.TG_4423_TimesheetDeny] [enterLastName] - Last Name entered successfully
+[INFO ] 2023-03-10 23:44:21.304 [timesheets.TG_4423_TimesheetDeny] [enterDateOfBirthField] - Entering date of birth
+[INFO ] 2023-03-10 23:44:22.509 [timesheets.TG_4423_TimesheetDeny] [enterDateOfBirthField] - Date of birth entered successfully
+[INFO ] 2023-03-10 23:44:24.515 [timesheets.TG_4423_TimesheetDeny] [enterEmail] - Entering email
+[INFO ] 2023-03-10 23:44:24.689 [timesheets.TG_4423_TimesheetDeny] [enterEmail] - Email entered successfully
+[INFO ] 2023-03-10 23:44:26.696 [timesheets.TG_4423_TimesheetDeny] [selectAddressTab] - Clicking Address Tab
+[INFO ] 2023-03-10 23:44:28.812 [timesheets.TG_4423_TimesheetDeny] [selectAddressTab] - Address Tab clicked successfully
+[INFO ] 2023-03-10 23:44:30.815 [timesheets.TG_4423_TimesheetDeny] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2023-03-10 23:44:32.203 [timesheets.TG_4423_TimesheetDeny] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2023-03-10 23:44:34.211 [timesheets.TG_4423_TimesheetDeny] [clickSaveButton] - Clicking Save button
+[INFO ] 2023-03-10 23:44:34.471 [timesheets.TG_4423_TimesheetDeny] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-03-10 23:45:14.480 [timesheets.TG_4423_TimesheetDeny] [getEmployeeNameFromEmaployeeDetailsPage] - Fetching employee Name
+[INFO ] 2023-03-10 23:45:14.565 [timesheets.TG_4423_TimesheetDeny] [getEmployeeNameFromEmaployeeDetailsPage] - Employee Name fetched successfully
+[INFO ] 2023-03-10 23:45:14.694 [timesheets.TG_4423_TimesheetDeny] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow ClaimFromStaffing
+[INFO ] 2023-03-10 23:45:14.695 [timesheets.TG_4423_TimesheetDeny] [ClaimOrderForStaffing] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-03-10 23:45:30.914 [timesheets.TG_4423_TimesheetDeny] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-10 23:45:41.058 [timesheets.TG_4423_TimesheetDeny] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-10 23:45:41.058 [timesheets.TG_4423_TimesheetDeny] [ClaimOrderForStaffing] - Clicking on Claim order Button
+[INFO ] 2023-03-10 23:45:55.599 [timesheets.TG_4423_TimesheetDeny] [ClaimOrderForStaffing] - Claim order button clicked successfully
+[INFO ] 2023-03-10 23:45:55.599 [timesheets.TG_4423_TimesheetDeny] [ClaimOrderForStaffing] - Entering the No. of Employees Claim
+[INFO ] 2023-03-10 23:46:01.043 [timesheets.TG_4423_TimesheetDeny] [ClaimOrderForStaffing] - No. of Employees Claim entered successfully
+[INFO ] 2023-03-10 23:46:06.052 [timesheets.TG_4423_TimesheetDeny] [ClaimOrderForStaffing] - Entering the E-Signature
+[INFO ] 2023-03-10 23:46:08.216 [timesheets.TG_4423_TimesheetDeny] [ClaimOrderForStaffing] - E-Signature entered successfully
+[INFO ] 2023-03-10 23:46:08.216 [timesheets.TG_4423_TimesheetDeny] [ClaimOrderForStaffing] - Clicking on Agree to Contract Button
+[INFO ] 2023-03-10 23:46:10.331 [timesheets.TG_4423_TimesheetDeny] [ClaimOrderForStaffing] - Agree to Contract Button clicked successfully
+[INFO ] 2023-03-10 23:46:10.331 [timesheets.TG_4423_TimesheetDeny] [ClaimOrderForStaffing] - Clicking on Submit Claim Button
+[INFO ] 2023-03-10 23:46:17.454 [timesheets.TG_4423_TimesheetDeny] [ClaimOrderForStaffing] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-10 23:46:50.862 [timesheets.TG_4423_TimesheetDeny] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow ApproveHiring
+[INFO ] 2023-03-10 23:47:01.559 [timesheets.TG_4423_TimesheetDeny] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 23:47:01.669 [timesheets.TG_4423_TimesheetDeny] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 23:47:01.669 [timesheets.TG_4423_TimesheetDeny] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 23:47:01.754 [timesheets.TG_4423_TimesheetDeny] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 23:47:01.755 [timesheets.TG_4423_TimesheetDeny] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 23:47:01.828 [timesheets.TG_4423_TimesheetDeny] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 23:47:01.828 [timesheets.TG_4423_TimesheetDeny] [ApproveClaimFromHiring] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-10 23:47:12.270 [timesheets.TG_4423_TimesheetDeny] [ApproveClaimFromHiring] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 23:47:12.272 [timesheets.TG_4423_TimesheetDeny] [ApproveClaimFromHiring] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-10 23:47:26.518 [timesheets.TG_4423_TimesheetDeny] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form 
+[INFO ] 2023-03-10 23:47:29.678 [timesheets.TG_4423_TimesheetDeny] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form successfully
+[INFO ] 2023-03-10 23:47:29.679 [timesheets.TG_4423_TimesheetDeny] [ApproveClaimFromHiring] - Clicking the select head count button on the claim order form
+[INFO ] 2023-03-10 23:47:30.671 [timesheets.TG_4423_TimesheetDeny] [ApproveClaimFromHiring] - Clicked the select head count button on the claim order form successfully
+[INFO ] 2023-03-10 23:47:30.674 [timesheets.TG_4423_TimesheetDeny] [ApproveClaimFromHiring] - Entering Approve count should not be greater than Workerscount
+[INFO ] 2023-03-10 23:47:39.209 [timesheets.TG_4423_TimesheetDeny] [ApproveClaimFromHiring] - Approve count is not more than the workers count
+[INFO ] 2023-03-10 23:47:39.214 [timesheets.TG_4423_TimesheetDeny] [ApproveClaimFromHiring] - Clicking on modal submit Button
+[INFO ] 2023-03-10 23:47:44.365 [timesheets.TG_4423_TimesheetDeny] [ApproveClaimFromHiring] - Modal submit button clicked successfully
+[INFO ] 2023-03-10 23:47:56.652 [timesheets.TG_4423_TimesheetDeny] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow AssignEmployee
+[INFO ] 2023-03-10 23:48:07.400 [timesheets.TG_4423_TimesheetDeny] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 23:48:07.506 [timesheets.TG_4423_TimesheetDeny] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 23:48:07.506 [timesheets.TG_4423_TimesheetDeny] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 23:48:07.567 [timesheets.TG_4423_TimesheetDeny] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 23:48:07.567 [timesheets.TG_4423_TimesheetDeny] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 23:48:07.645 [timesheets.TG_4423_TimesheetDeny] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 23:48:07.646 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-10 23:48:21.326 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 23:48:21.330 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-10 23:48:25.051 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - All orders menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 23:48:32.058 [timesheets.TG_4423_TimesheetDeny] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-10 23:48:42.192 [timesheets.TG_4423_TimesheetDeny] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-10 23:48:42.193 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Clicking Assign employees under the related section
+[INFO ] 2023-03-10 23:48:53.599 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Clicked assign employees on job order form successfully
+[INFO ] 2023-03-10 23:48:53.604 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Entering Distance radius in new Assign Employee form 
+[INFO ] 2023-03-10 23:48:53.769 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Distance radius in new Assign Employee form entered successfully
+[INFO ] 2023-03-10 23:48:53.769 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Clicking CheckBox ShowAllEmployees
+[INFO ] 2023-03-10 23:48:55.885 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] -  ShowAllEmployees CheckBox clicked successfully
+[INFO ] 2023-03-10 23:48:55.886 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Clicking AddRow in new Assign Employee form 
+[INFO ] 2023-03-10 23:49:03.095 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - AddRow button in new Assign Employee form clicked successfully
+[INFO ] 2023-03-10 23:49:03.096 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Clicking edit button on the form under the EmployeeDetails
+[INFO ] 2023-03-10 23:49:03.264 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Clicked edit button on the form under the EmployeeDetails successfully
+[INFO ] 2023-03-10 23:49:03.508 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - employeeId in new Assign Employee form entered successfully
+[INFO ] 2023-03-10 23:49:03.509 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Clicking Searched Employee
+[INFO ] 2023-03-10 23:49:08.514 [timesheets.TG_4423_TimesheetDeny] [clickSearchedEmployee] - Clicking Searched Employee
+[INFO ] 2023-03-10 23:49:08.599 [timesheets.TG_4423_TimesheetDeny] [clickSearchedEmployee] - Searched Employee clicked Successfully
+[INFO ] 2023-03-10 23:49:08.599 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Searched Employee Clicked Successfully
+[INFO ] 2023-03-10 23:49:08.600 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Clicking Dropdown arrow in the modal
+[INFO ] 2023-03-10 23:49:08.715 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Clicked Dropdown arrow in the modal successfully
+[INFO ] 2023-03-10 23:49:10.721 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - Clicking save new Assign Employee form
+[INFO ] 2023-03-10 23:49:14.894 [timesheets.TG_4423_TimesheetDeny] [AssignEmployee] - save button in new Assign Employee form clicked successfully
+[INFO ] 2023-03-10 23:51:01.255 [timesheets.TG_4423_TimesheetDeny] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow TimesheetCreation
+[INFO ] 2023-03-10 23:51:09.126 [timesheets.TG_4423_TimesheetDeny] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 23:51:09.264 [timesheets.TG_4423_TimesheetDeny] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 23:51:09.265 [timesheets.TG_4423_TimesheetDeny] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 23:51:09.357 [timesheets.TG_4423_TimesheetDeny] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 23:51:09.357 [timesheets.TG_4423_TimesheetDeny] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 23:51:09.523 [timesheets.TG_4423_TimesheetDeny] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 23:51:14.533 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] - Clicking on order Button
+[INFO ] 2023-03-10 23:51:17.556 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] -  Order Button clicked successfully
+[INFO ] 2023-03-10 23:51:33.837 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] -  Clicking On Timesheet Button
+[INFO ] 2023-03-10 23:51:36.948 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] - Clicked On Timesheet Button successfully
+[INFO ] 2023-03-10 23:51:36.948 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] - Clicking on addEditButton 
+[INFO ] 2023-03-10 23:51:39.094 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] - AddEditButton Clicked Successfully 
+[INFO ] 2023-03-10 23:51:39.094 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] - Entering current date in Timesheet
+[INFO ] 2023-03-10 23:51:51.524 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] - Entered current date in Timesheet successfully
+[INFO ] 2023-03-10 23:51:51.526 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] - Verify Start Time 
+[INFO ] 2023-03-10 23:51:58.882 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] - Verify Start Time Field successfully
+[INFO ] 2023-03-10 23:51:58.882 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] - Verify End Time 
+[INFO ] 2023-03-10 23:52:06.424 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] - Verify End Time Field successfully
+[INFO ] 2023-03-10 23:52:06.425 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] - Submitting Timesheet 
+[INFO ] 2023-03-10 23:52:10.458 [timesheets.TG_4423_TimesheetDeny] [createTimesheetHiring] -  Timesheet Submit successfully
+[INFO ] 2023-03-10 23:52:16.851 [timesheets.TG_4423_TimesheetDeny] [Tag_VerifyTimesheetAvailableForApprovalPopup] - Started==Verifying Timesheet Available For Approval Popup
+[INFO ] 2023-03-10 23:52:24.699 [timesheets.TG_4423_TimesheetDeny] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 23:52:24.835 [timesheets.TG_4423_TimesheetDeny] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 23:52:24.835 [timesheets.TG_4423_TimesheetDeny] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 23:52:24.919 [timesheets.TG_4423_TimesheetDeny] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 23:52:24.919 [timesheets.TG_4423_TimesheetDeny] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 23:52:25.001 [timesheets.TG_4423_TimesheetDeny] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 23:52:28.002 [timesheets.TG_4423_TimesheetDeny] [clickOrder] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-10 23:52:36.611 [timesheets.TG_4423_TimesheetDeny] [clickOrder] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 23:52:39.618 [timesheets.TG_4423_TimesheetDeny] [selectAllOption] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-10 23:52:46.416 [timesheets.TG_4423_TimesheetDeny] [selectAllOption] - All orders menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 23:52:49.425 [timesheets.TG_4423_TimesheetDeny] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-10 23:52:59.558 [timesheets.TG_4423_TimesheetDeny] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-10 23:53:02.567 [timesheets.TG_4423_TimesheetDeny] [ClickingOnTimesheet] -  Clicking On Timesheet
+[INFO ] 2023-03-10 23:53:11.452 [timesheets.TG_4423_TimesheetDeny] [clickApprovalRequestGrid] - Clicking on Approval Grid
+[INFO ] 2023-03-10 23:53:11.583 [timesheets.TG_4423_TimesheetDeny] [clickApprovalRequestGrid] - Timesheet Approval Grid Clicked Successfully
+[INFO ] 2023-03-10 23:53:11.584 [timesheets.TG_4423_TimesheetDeny] [clickCheckBox] - Clicking on checkbox
+[INFO ] 2023-03-10 23:53:15.237 [timesheets.TG_4423_TimesheetDeny] [clickCheckBox] - checkbox Clicked Successfully
+[INFO ] 2023-03-10 23:53:15.242 [timesheets.TG_4423_TimesheetDeny] [clickActionsButton] - Clicking on Action Button
+[INFO ] 2023-03-10 23:53:15.361 [timesheets.TG_4423_TimesheetDeny] [clickActionsButton] - Action Button Clicked Successfully
+[INFO ] 2023-03-10 23:53:15.362 [timesheets.TG_4423_TimesheetDeny] [clickDenyButton] - Clicking on Deny Button
+[INFO ] 2023-03-10 23:53:15.424 [timesheets.TG_4423_TimesheetDeny] [clickDenyButton] - Deny Button Clicked Successfully
+[INFO ] 2023-03-10 23:53:15.424 [timesheets.TG_4423_TimesheetDeny] [clickmodalDenyButton] - Clicking on Modal Deny Button
+[INFO ] 2023-03-10 23:53:15.635 [timesheets.TG_4423_TimesheetDeny] [clickmodalDenyButton] - Modal Deny Button Clicked Successfully
+[INFO ] 2023-03-10 23:53:15.636 [timesheets.TG_4423_TimesheetDeny] [closeMessagePopup] - Clicking on close message Popup approve Button
+[INFO ] 2023-03-10 23:53:15.684 [timesheets.TG_4423_TimesheetDeny] [closeMessagePopup] - Clicked on close message Popup Successfully
+[INFO ] 2023-03-10 23:53:15.684 [timesheets.TG_4423_TimesheetDeny] [verifyDeniedStatus] - Check for denied status
+[INFO ] 2023-03-10 23:53:16.655 [timesheets.TG_4423_TimesheetDeny] [verifyDeniedStatus] - denied status displayed successfully

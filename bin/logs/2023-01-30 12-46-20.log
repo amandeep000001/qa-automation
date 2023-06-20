@@ -1,0 +1,144 @@
+[INFO ] 2023-01-30 12:46:20.990 [company.TG_4419_AssignEmployeeFromStaffing] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2023-01-30 12:46:25.033 [company.TG_4419_AssignEmployeeFromStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-30 12:46:26.927 [company.TG_4419_AssignEmployeeFromStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-30 12:46:26.928 [company.TG_4419_AssignEmployeeFromStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-30 12:46:27.121 [company.TG_4419_AssignEmployeeFromStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-30 12:46:27.122 [company.TG_4419_AssignEmployeeFromStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-30 12:46:27.664 [company.TG_4419_AssignEmployeeFromStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-30 12:46:27.665 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Clicking on New Order Button
+[INFO ] 2023-01-30 12:46:45.122 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - New Order Button clicked successfully
+[INFO ] 2023-01-30 12:46:45.125 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Entering EstDailyHours
+[INFO ] 2023-01-30 12:46:53.710 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2023-01-30 12:46:53.712 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Entering StartDate
+[INFO ] 2023-01-30 12:46:59.658 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - StartDate entered successfully
+[INFO ] 2023-01-30 12:46:59.661 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Entering EndDate
+[INFO ] 2023-01-30 12:47:11.045 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - EndDate entered successfully
+[INFO ] 2023-01-30 12:47:11.049 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Entering StartTime
+[INFO ] 2023-01-30 12:47:11.834 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - StartTime entered successfully
+[INFO ] 2023-01-30 12:47:11.834 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Entering Availability
+[INFO ] 2023-01-30 12:47:12.110 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Availabilit entered successfully
+[INFO ] 2023-01-30 12:47:12.110 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Entering JobSite
+[INFO ] 2023-01-30 12:47:18.476 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - JobSite entered successfully
+[INFO ] 2023-01-30 12:47:18.477 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Entering JobTitle
+[INFO ] 2023-01-30 12:47:27.751 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - JobTitle entered successfully
+[INFO ] 2023-01-30 12:47:27.756 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Entering No Of Workers
+[INFO ] 2023-01-30 12:47:32.952 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2023-01-30 12:47:32.953 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Entering ESignature
+[INFO ] 2023-01-30 12:47:36.132 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - ESignature entered successfully
+[INFO ] 2023-01-30 12:47:36.133 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - clickAgreeContract
+[INFO ] 2023-01-30 12:47:36.310 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - clickAgreeContract successfully
+[INFO ] 2023-01-30 12:47:36.313 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - clickSaveButton
+[INFO ] 2023-01-30 12:47:36.496 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2023-01-30 12:47:44.970 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Job order link present on the home page clicked
+[INFO ] 2023-01-30 12:47:55.076 [company.TG_4419_AssignEmployeeFromStaffing] [newOrderHiring] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-01-30 12:48:06.988 [company.TG_4419_AssignEmployeeFromStaffing] [Tag_CreateEmployeeFromStaffing] - Started==Starting End To End Flow CreateEmployeeFromStaffing
+[INFO ] 2023-01-30 12:48:16.540 [company.TG_4419_AssignEmployeeFromStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-30 12:48:16.865 [company.TG_4419_AssignEmployeeFromStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-30 12:48:17.045 [company.TG_4419_AssignEmployeeFromStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-30 12:48:17.499 [company.TG_4419_AssignEmployeeFromStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-30 12:48:17.500 [company.TG_4419_AssignEmployeeFromStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-30 12:48:17.720 [company.TG_4419_AssignEmployeeFromStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-30 12:48:49.739 [company.TG_4419_AssignEmployeeFromStaffing] [clickAddNewEployeeButton] - Clicking on Add New Employee Button
+[INFO ] 2023-01-30 12:48:50.763 [company.TG_4419_AssignEmployeeFromStaffing] [clickAddNewEployeeButton] - Employee button clicked successfully
+[INFO ] 2023-01-30 12:48:55.766 [company.TG_4419_AssignEmployeeFromStaffing] [enterCompanyName] - Entering Company Name
+[INFO ] 2023-01-30 12:48:56.279 [company.TG_4419_AssignEmployeeFromStaffing] [enterCompanyName] - Company Name entered successfully
+[INFO ] 2023-01-30 12:48:58.286 [company.TG_4419_AssignEmployeeFromStaffing] [enterFirstName] - Entering First Name
+[INFO ] 2023-01-30 12:48:58.414 [company.TG_4419_AssignEmployeeFromStaffing] [enterFirstName] - First Name entered successfully
+[INFO ] 2023-01-30 12:49:00.420 [company.TG_4419_AssignEmployeeFromStaffing] [enterLastName] - Entering Last Name
+[INFO ] 2023-01-30 12:49:00.612 [company.TG_4419_AssignEmployeeFromStaffing] [enterLastName] - Last Name entered successfully
+[INFO ] 2023-01-30 12:49:02.618 [company.TG_4419_AssignEmployeeFromStaffing] [enterDateOfBirthField] - Entering date of birth
+[INFO ] 2023-01-30 12:49:03.810 [company.TG_4419_AssignEmployeeFromStaffing] [enterDateOfBirthField] - Date of birth entered successfully
+[INFO ] 2023-01-30 12:49:05.818 [company.TG_4419_AssignEmployeeFromStaffing] [enterEmail] - Entering email
+[INFO ] 2023-01-30 12:49:06.068 [company.TG_4419_AssignEmployeeFromStaffing] [enterEmail] - Email entered successfully
+[INFO ] 2023-01-30 12:49:08.074 [company.TG_4419_AssignEmployeeFromStaffing] [selectSearchOnMapsCheckbox] - Selecting search on Maps checkbox
+[INFO ] 2023-01-30 12:49:10.421 [company.TG_4419_AssignEmployeeFromStaffing] [selectSearchOnMapsCheckbox] - Search on maps checkbox selected
+[INFO ] 2023-01-30 12:49:12.427 [company.TG_4419_AssignEmployeeFromStaffing] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2023-01-30 12:49:13.843 [company.TG_4419_AssignEmployeeFromStaffing] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2023-01-30 12:49:15.851 [company.TG_4419_AssignEmployeeFromStaffing] [clickSaveButton] - Clicking Save button
+[INFO ] 2023-01-30 12:49:16.115 [company.TG_4419_AssignEmployeeFromStaffing] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-01-30 12:49:56.124 [company.TG_4419_AssignEmployeeFromStaffing] [getEmployeeNameFromEmaployeeDetailsPage] - Fetching employee Name
+[INFO ] 2023-01-30 12:49:56.341 [company.TG_4419_AssignEmployeeFromStaffing] [getEmployeeNameFromEmaployeeDetailsPage] - Employee Name fetched successfully
+[INFO ] 2023-01-30 12:49:56.713 [company.TG_4419_AssignEmployeeFromStaffing] [Tag_EndToEndFlowClaimFromStaffing] - Started==Starting End To End Flow ClaimFromStaffing
+[INFO ] 2023-01-30 12:49:56.714 [company.TG_4419_AssignEmployeeFromStaffing] [ClaimOrderForStaffing] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-01-30 12:50:13.240 [company.TG_4419_AssignEmployeeFromStaffing] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-01-30 12:50:23.811 [company.TG_4419_AssignEmployeeFromStaffing] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-01-30 12:50:23.816 [company.TG_4419_AssignEmployeeFromStaffing] [ClaimOrderForStaffing] - Clicking on Claim order Button
+[INFO ] 2023-01-30 12:50:36.288 [company.TG_4419_AssignEmployeeFromStaffing] [ClaimOrderForStaffing] - Claim order button clicked successfully
+[INFO ] 2023-01-30 12:50:36.290 [company.TG_4419_AssignEmployeeFromStaffing] [ClaimOrderForStaffing] - Entering the No. of Employees Claim
+[INFO ] 2023-01-30 12:50:41.620 [company.TG_4419_AssignEmployeeFromStaffing] [ClaimOrderForStaffing] - No. of Employees Claim entered successfully
+[INFO ] 2023-01-30 12:50:46.624 [company.TG_4419_AssignEmployeeFromStaffing] [ClaimOrderForStaffing] - Entering the E-Signature
+[INFO ] 2023-01-30 12:50:48.796 [company.TG_4419_AssignEmployeeFromStaffing] [ClaimOrderForStaffing] - E-Signature entered successfully
+[INFO ] 2023-01-30 12:50:48.799 [company.TG_4419_AssignEmployeeFromStaffing] [ClaimOrderForStaffing] - Clicking on Agree to Contract Button
+[INFO ] 2023-01-30 12:50:50.942 [company.TG_4419_AssignEmployeeFromStaffing] [ClaimOrderForStaffing] - Agree to Contract Button clicked successfully
+[INFO ] 2023-01-30 12:50:50.942 [company.TG_4419_AssignEmployeeFromStaffing] [ClaimOrderForStaffing] - Clicking on Submit Claim Button
+[INFO ] 2023-01-30 12:50:58.083 [company.TG_4419_AssignEmployeeFromStaffing] [ClaimOrderForStaffing] - Submit Claim Button clicked successfully
+[INFO ] 2023-01-30 12:51:31.372 [company.TG_4419_AssignEmployeeFromStaffing] [Tag_EndToEndFlowClaimApproveHiring] - Started==Starting End To End Flow ApproveHiring
+[INFO ] 2023-01-30 12:51:39.290 [company.TG_4419_AssignEmployeeFromStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-30 12:51:39.437 [company.TG_4419_AssignEmployeeFromStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-30 12:51:39.437 [company.TG_4419_AssignEmployeeFromStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-30 12:51:39.563 [company.TG_4419_AssignEmployeeFromStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-30 12:51:39.563 [company.TG_4419_AssignEmployeeFromStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-30 12:51:39.717 [company.TG_4419_AssignEmployeeFromStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-30 12:51:39.718 [company.TG_4419_AssignEmployeeFromStaffing] [ApproveClaimFromHiring] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-01-30 12:51:49.812 [company.TG_4419_AssignEmployeeFromStaffing] [ApproveClaimFromHiring] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-01-30 12:51:49.813 [company.TG_4419_AssignEmployeeFromStaffing] [ApproveClaimFromHiring] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-01-30 12:52:04.134 [company.TG_4419_AssignEmployeeFromStaffing] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form 
+[INFO ] 2023-01-30 12:52:07.297 [company.TG_4419_AssignEmployeeFromStaffing] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form successfully
+[INFO ] 2023-01-30 12:52:07.301 [company.TG_4419_AssignEmployeeFromStaffing] [ApproveClaimFromHiring] - Clicking the select head count button on the claim order form
+[INFO ] 2023-01-30 12:52:08.114 [company.TG_4419_AssignEmployeeFromStaffing] [ApproveClaimFromHiring] - Clicked the select head count button on the claim order form successfully
+[INFO ] 2023-01-30 12:52:08.115 [company.TG_4419_AssignEmployeeFromStaffing] [ApproveClaimFromHiring] - Entering Approve count should not be greater than Workerscount
+[INFO ] 2023-01-30 12:52:14.501 [company.TG_4419_AssignEmployeeFromStaffing] [ApproveClaimFromHiring] - Approve count is not more than the workers count
+[INFO ] 2023-01-30 12:52:14.524 [company.TG_4419_AssignEmployeeFromStaffing] [ApproveClaimFromHiring] - Clicking on modal submit Button
+[INFO ] 2023-01-30 12:52:19.746 [company.TG_4419_AssignEmployeeFromStaffing] [ApproveClaimFromHiring] - Modal submit button clicked successfully
+[INFO ] 2023-01-30 12:52:38.654 [company.TG_4419_AssignEmployeeFromStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-30 12:52:38.837 [company.TG_4419_AssignEmployeeFromStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-30 12:52:38.837 [company.TG_4419_AssignEmployeeFromStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-30 12:52:39.046 [company.TG_4419_AssignEmployeeFromStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-30 12:52:39.048 [company.TG_4419_AssignEmployeeFromStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-30 12:52:39.161 [company.TG_4419_AssignEmployeeFromStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-30 12:52:42.172 [company.TG_4419_AssignEmployeeFromStaffing] [clickOrdersMenuOnStaffingHomePage] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-01-30 12:52:45.729 [company.TG_4419_AssignEmployeeFromStaffing] [clickOrdersMenuOnStaffingHomePage] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-01-30 12:52:48.742 [company.TG_4419_AssignEmployeeFromStaffing] [clickAllOrdersOnStaffingHomePage] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-01-30 12:52:51.709 [company.TG_4419_AssignEmployeeFromStaffing] [clickAllOrdersOnStaffingHomePage] - All orders menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-01-30 12:52:56.730 [company.TG_4419_AssignEmployeeFromStaffing] [selectParticularJobOrderFromListing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-01-30 12:53:06.968 [company.TG_4419_AssignEmployeeFromStaffing] [selectParticularJobOrderFromListing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-01-30 12:53:08.976 [company.TG_4419_AssignEmployeeFromStaffing] [verifyPleaseAssignEmployeeMessage] - Check for 'Please Assign Employee' message Displayed
+[INFO ] 2023-01-30 12:53:11.723 [company.TG_4419_AssignEmployeeFromStaffing] [verifyPleaseAssignEmployeeMessage] - Message displayed successfully
+[INFO ] 2023-01-30 12:53:11.789 [company.TG_4419_AssignEmployeeFromStaffing] [clickAssignEmployeesButton] - Clicking Assign employees under the related section
+[INFO ] 2023-01-30 12:53:12.533 [company.TG_4419_AssignEmployeeFromStaffing] [clickAssignEmployeesButton] - Clicked assign employees on job order form successfully
+[INFO ] 2023-01-30 12:53:14.540 [company.TG_4419_AssignEmployeeFromStaffing] [verifyNewAssignEmployeeFormVisible] - Check new assign employee form is visible
+[INFO ] 2023-01-30 12:53:14.612 [company.TG_4419_AssignEmployeeFromStaffing] [verifyNewAssignEmployeeFormVisible] - New assign employee form displayed successfully
+[INFO ] 2023-01-30 12:53:14.636 [company.TG_4419_AssignEmployeeFromStaffing] [clickSaveButton] - Clicking save new Assign Employee form
+[INFO ] 2023-01-30 12:53:18.822 [company.TG_4419_AssignEmployeeFromStaffing] [clickSaveButton] - save button in new Assign Employee form clicked successfully
+[INFO ] 2023-01-30 12:53:18.836 [company.TG_4419_AssignEmployeeFromStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-01-30 12:53:19.049 [company.TG_4419_AssignEmployeeFromStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-01-30 12:53:19.050 [company.TG_4419_AssignEmployeeFromStaffing] [clickErrorClose] - Clicking on Close Icon
+[INFO ] 2023-01-30 12:53:21.281 [company.TG_4419_AssignEmployeeFromStaffing] [clickErrorClose] - Close Icon clicked successfully
+[INFO ] 2023-01-30 12:53:21.283 [company.TG_4419_AssignEmployeeFromStaffing] [verifyCompanyFeildAutoPopulated] - Verify Company Feild auto populated in new Assign Employee form
+[INFO ] 2023-01-30 12:53:21.412 [company.TG_4419_AssignEmployeeFromStaffing] [verifyCompanyFeildAutoPopulated] - Company Feild auto populated in new Assign Employee form successfully.
+[INFO ] 2023-01-30 12:53:21.438 [company.TG_4419_AssignEmployeeFromStaffing] [verifyEmployeePayRate] - Verfied employee pay rate field in new Assign Employee form 
+[INFO ] 2023-01-30 12:53:21.614 [company.TG_4419_AssignEmployeeFromStaffing] [verifyEmployeePayRate] - Verfied and removed the employee pay rate
+[INFO ] 2023-01-30 12:53:21.614 [company.TG_4419_AssignEmployeeFromStaffing] [verifyEmpPayRatePopulated] - Verify employee pay rate value auto populated in new Assign Employee form
+[INFO ] 2023-01-30 12:53:21.682 [company.TG_4419_AssignEmployeeFromStaffing] [verifyEmpPayRatePopulated] - Employee pay rate value auto populated in new Assign Employee form successfully.
+[INFO ] 2023-01-30 12:53:21.700 [company.TG_4419_AssignEmployeeFromStaffing] [verifyDistanceRadiusFeild] - Verify Distance Radius Feild is visible in new Assign Employee form
+[INFO ] 2023-01-30 12:53:21.751 [company.TG_4419_AssignEmployeeFromStaffing] [verifyDistanceRadiusFeild] -  Distance Radius Feild is displayed in new Assign Employee form successfully.
+[INFO ] 2023-01-30 12:53:21.751 [company.TG_4419_AssignEmployeeFromStaffing] [enterMiles] - Entering Distance radius in new Assign Employee form 
+[INFO ] 2023-01-30 12:53:21.868 [company.TG_4419_AssignEmployeeFromStaffing] [enterMiles] - Distance radius in new Assign Employee form entered successfully
+[INFO ] 2023-01-30 12:53:21.885 [company.TG_4419_AssignEmployeeFromStaffing] [verifyShowAllEmployeesVisible] - Verify ShowAllEmployees Feild is visible in new Assign Employee form
+[INFO ] 2023-01-30 12:53:21.928 [company.TG_4419_AssignEmployeeFromStaffing] [verifyShowAllEmployeesVisible] -  ShowAllEmployees Feild is displayed in new Assign Employee form successfully.
+[INFO ] 2023-01-30 12:53:21.929 [company.TG_4419_AssignEmployeeFromStaffing] [clickCheckBoxShowAllEmployess] - Clicking CheckBox ShowAllEmployees
+[INFO ] 2023-01-30 12:53:24.057 [company.TG_4419_AssignEmployeeFromStaffing] [clickCheckBoxShowAllEmployess] -  ShowAllEmployees CheckBox clicked successfully
+[INFO ] 2023-01-30 12:53:26.081 [company.TG_4419_AssignEmployeeFromStaffing] [clickAddRowButton] - Clicking AddRow in new Assign Employee form 
+[INFO ] 2023-01-30 12:53:33.385 [company.TG_4419_AssignEmployeeFromStaffing] [clickAddRowButton] - AddRow button in new Assign Employee form clicked successfully
+[INFO ] 2023-01-30 12:53:33.388 [company.TG_4419_AssignEmployeeFromStaffing] [verifyEmployeeIDVisible] - Verify employeeID is visible in new Assign Employee form
+[INFO ] 2023-01-30 12:53:33.454 [company.TG_4419_AssignEmployeeFromStaffing] [verifyEmployeeIDVisible] - EmployeeID is displayed in new Assign Employee form successfully.
+[INFO ] 2023-01-30 12:53:39.476 [company.TG_4419_AssignEmployeeFromStaffing] [clickEditButton] - Clicking edit button on the form under the EmployeeDetails
+[INFO ] 2023-01-30 12:53:39.712 [company.TG_4419_AssignEmployeeFromStaffing] [clickEditButton] - Clicked edit button on the form under the EmployeeDetails successfully
+[INFO ] 2023-01-30 12:53:39.713 [company.TG_4419_AssignEmployeeFromStaffing] [enterEmployeeName] - Entering employeeName in new Assign Employee form 
+[INFO ] 2023-01-30 12:53:40.318 [company.TG_4419_AssignEmployeeFromStaffing] [enterEmployeeName] - employeeName in new Assign Employee form entered successfully
+[INFO ] 2023-01-30 12:53:40.319 [company.TG_4419_AssignEmployeeFromStaffing] [clickDropModalClose] - Clicking Dropdown arrow in the modal
+[INFO ] 2023-01-30 12:53:40.547 [company.TG_4419_AssignEmployeeFromStaffing] [clickDropModalClose] - Clicked Dropdown arrow in the modal successfully
+[INFO ] 2023-01-30 12:53:40.563 [company.TG_4419_AssignEmployeeFromStaffing] [verifySaveButtonVisible] - Verify savebutton is visible in new Assign Employee form
+[INFO ] 2023-01-30 12:53:40.610 [company.TG_4419_AssignEmployeeFromStaffing] [verifySaveButtonVisible] - save button is displayed in new Assign Employee form successfully.
+[INFO ] 2023-01-30 12:53:40.616 [company.TG_4419_AssignEmployeeFromStaffing] [clickSaveButton] - Clicking save new Assign Employee form
+[INFO ] 2023-01-30 12:53:44.711 [company.TG_4419_AssignEmployeeFromStaffing] [clickSaveButton] - save button in new Assign Employee form clicked successfully

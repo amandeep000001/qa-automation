@@ -1,0 +1,32 @@
+[INFO ] 2023-01-10 00:29:55.067 [company.TG_4145_ClaimOrderForStaffing] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2023-01-10 00:30:04.460 [company.TG_4145_ClaimOrderForStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-10 00:30:04.838 [company.TG_4145_ClaimOrderForStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-10 00:30:04.838 [company.TG_4145_ClaimOrderForStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-10 00:30:05.035 [company.TG_4145_ClaimOrderForStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-10 00:30:05.036 [company.TG_4145_ClaimOrderForStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-10 00:30:05.427 [company.TG_4145_ClaimOrderForStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-10 00:30:05.427 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Clicking on New Order Button
+[INFO ] 2023-01-10 00:30:13.706 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - New Order Button clicked successfully
+[INFO ] 2023-01-10 00:30:13.707 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering EstDailyHours
+[INFO ] 2023-01-10 00:30:22.539 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2023-01-10 00:30:22.541 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering StartDate
+[INFO ] 2023-01-10 00:30:28.077 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - StartDate entered successfully
+[INFO ] 2023-01-10 00:30:28.082 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering EndDate
+[INFO ] 2023-01-10 00:30:39.353 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - EndDate entered successfully
+[INFO ] 2023-01-10 00:30:39.357 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering StartTime
+[INFO ] 2023-01-10 00:30:40.470 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - StartTime entered successfully
+[INFO ] 2023-01-10 00:30:40.471 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering Availability
+[INFO ] 2023-01-10 00:30:40.651 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Availabilit entered successfully
+[INFO ] 2023-01-10 00:30:40.651 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering JobSite
+[INFO ] 2023-01-10 00:30:47.833 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - JobSite entered successfully
+[INFO ] 2023-01-10 00:30:47.834 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering JobTitle
+[INFO ] 2023-01-10 00:30:56.827 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - JobTitle entered successfully
+[INFO ] 2023-01-10 00:30:56.831 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering No Of Workers
+[INFO ] 2023-01-10 00:31:02.012 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2023-01-10 00:31:02.013 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering ESignature
+[INFO ] 2023-01-10 00:31:05.144 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - ESignature entered successfully
+[INFO ] 2023-01-10 00:31:05.144 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - clickAgreeContract
+[INFO ] 2023-01-10 00:31:05.261 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - clickAgreeContract successfully
+[INFO ] 2023-01-10 00:31:05.261 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - clickSaveButton
+[INFO ] 2023-01-10 00:31:05.493 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2023-01-10 00:31:13.871 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Job order link present on the home page clicked

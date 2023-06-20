@@ -1,0 +1,178 @@
+[INFO ] 2023-03-10 22:58:25.791 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2023-03-10 22:58:28.902 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 22:58:30.677 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 22:58:30.678 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 22:58:30.888 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 22:58:30.889 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 22:58:31.385 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 22:58:31.385 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Clicking on New Order Button
+[INFO ] 2023-03-10 22:58:47.444 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - New Order Button clicked successfully
+[INFO ] 2023-03-10 22:58:47.445 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering EstDailyHours
+[INFO ] 2023-03-10 22:58:56.026 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2023-03-10 22:58:56.026 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering StartDate
+[INFO ] 2023-03-10 22:59:01.628 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - StartDate entered successfully
+[INFO ] 2023-03-10 22:59:01.632 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering EndDate
+[INFO ] 2023-03-10 22:59:12.876 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - EndDate entered successfully
+[INFO ] 2023-03-10 22:59:12.879 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering StartTime
+[INFO ] 2023-03-10 22:59:13.758 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - StartTime entered successfully
+[INFO ] 2023-03-10 22:59:13.759 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering Availability
+[INFO ] 2023-03-10 22:59:13.922 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Availabilit entered successfully
+[INFO ] 2023-03-10 22:59:13.922 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering JobSite
+[INFO ] 2023-03-10 22:59:20.233 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - JobSite entered successfully
+[INFO ] 2023-03-10 22:59:20.234 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering JobTitle
+[INFO ] 2023-03-10 22:59:29.471 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - JobTitle entered successfully
+[INFO ] 2023-03-10 22:59:29.475 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering No Of Workers
+[INFO ] 2023-03-10 22:59:34.641 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2023-03-10 22:59:34.642 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering ESignature
+[INFO ] 2023-03-10 22:59:37.752 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - ESignature entered successfully
+[INFO ] 2023-03-10 22:59:37.754 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - clickAgreeContract
+[INFO ] 2023-03-10 22:59:37.934 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - clickAgreeContract successfully
+[INFO ] 2023-03-10 22:59:37.934 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - clickSaveButton
+[INFO ] 2023-03-10 22:59:38.085 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2023-03-10 22:59:46.523 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Job order link present on the home page clicked
+[INFO ] 2023-03-10 22:59:54.696 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-03-10 23:00:06.110 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow CreateEmployeeFromStaffing
+[INFO ] 2023-03-10 23:00:19.041 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 23:00:19.142 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 23:00:19.142 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 23:00:19.201 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 23:00:19.201 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 23:00:19.285 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 23:00:49.320 [timesheets.TG_4301_Timesheet_Approval] [clickAddNewEployeeButton] - Clicking on Add New Employee Button
+[INFO ] 2023-03-10 23:00:50.189 [timesheets.TG_4301_Timesheet_Approval] [clickAddNewEployeeButton] - Employee button clicked successfully
+[INFO ] 2023-03-10 23:00:55.196 [timesheets.TG_4301_Timesheet_Approval] [enterCompanyName] - Entering Company Name
+[INFO ] 2023-03-10 23:00:55.452 [timesheets.TG_4301_Timesheet_Approval] [enterCompanyName] - Company Name entered successfully
+[INFO ] 2023-03-10 23:00:57.458 [timesheets.TG_4301_Timesheet_Approval] [enterFirstName] - Entering First Name
+[INFO ] 2023-03-10 23:00:57.589 [timesheets.TG_4301_Timesheet_Approval] [enterFirstName] - First Name entered successfully
+[INFO ] 2023-03-10 23:00:59.596 [timesheets.TG_4301_Timesheet_Approval] [enterLastName] - Entering Last Name
+[INFO ] 2023-03-10 23:00:59.709 [timesheets.TG_4301_Timesheet_Approval] [enterLastName] - Last Name entered successfully
+[INFO ] 2023-03-10 23:01:01.716 [timesheets.TG_4301_Timesheet_Approval] [enterDateOfBirthField] - Entering date of birth
+[INFO ] 2023-03-10 23:01:02.906 [timesheets.TG_4301_Timesheet_Approval] [enterDateOfBirthField] - Date of birth entered successfully
+[INFO ] 2023-03-10 23:01:04.912 [timesheets.TG_4301_Timesheet_Approval] [enterEmail] - Entering email
+[INFO ] 2023-03-10 23:01:05.078 [timesheets.TG_4301_Timesheet_Approval] [enterEmail] - Email entered successfully
+[INFO ] 2023-03-10 23:01:07.084 [timesheets.TG_4301_Timesheet_Approval] [selectAddressTab] - Clicking Address Tab
+[INFO ] 2023-03-10 23:01:09.208 [timesheets.TG_4301_Timesheet_Approval] [selectAddressTab] - Address Tab clicked successfully
+[INFO ] 2023-03-10 23:01:11.214 [timesheets.TG_4301_Timesheet_Approval] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2023-03-10 23:01:12.474 [timesheets.TG_4301_Timesheet_Approval] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2023-03-10 23:01:14.480 [timesheets.TG_4301_Timesheet_Approval] [clickSaveButton] - Clicking Save button
+[INFO ] 2023-03-10 23:01:14.685 [timesheets.TG_4301_Timesheet_Approval] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-03-10 23:01:54.694 [timesheets.TG_4301_Timesheet_Approval] [getEmployeeNameFromEmaployeeDetailsPage] - Fetching employee Name
+[INFO ] 2023-03-10 23:01:54.771 [timesheets.TG_4301_Timesheet_Approval] [getEmployeeNameFromEmaployeeDetailsPage] - Employee Name fetched successfully
+[INFO ] 2023-03-10 23:01:54.892 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow ClaimFromStaffing
+[INFO ] 2023-03-10 23:01:54.893 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-03-10 23:02:10.828 [timesheets.TG_4301_Timesheet_Approval] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-10 23:02:20.973 [timesheets.TG_4301_Timesheet_Approval] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-10 23:02:20.974 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Clicking on Claim order Button
+[INFO ] 2023-03-10 23:02:35.965 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Claim order button clicked successfully
+[INFO ] 2023-03-10 23:02:35.968 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Entering the No. of Employees Claim
+[INFO ] 2023-03-10 23:02:41.108 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - No. of Employees Claim entered successfully
+[INFO ] 2023-03-10 23:02:46.116 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Entering the E-Signature
+[INFO ] 2023-03-10 23:02:48.275 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - E-Signature entered successfully
+[INFO ] 2023-03-10 23:02:48.275 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Clicking on Agree to Contract Button
+[INFO ] 2023-03-10 23:02:50.365 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Agree to Contract Button clicked successfully
+[INFO ] 2023-03-10 23:02:50.365 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Clicking on Submit Claim Button
+[INFO ] 2023-03-10 23:02:57.475 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-10 23:03:30.042 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow ApproveHiring
+[INFO ] 2023-03-10 23:03:40.791 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 23:03:40.878 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 23:03:40.878 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 23:03:40.947 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 23:03:40.947 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 23:03:41.090 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 23:03:41.090 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-10 23:03:51.117 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 23:03:51.118 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-10 23:04:05.335 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form 
+[INFO ] 2023-03-10 23:04:08.458 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form successfully
+[INFO ] 2023-03-10 23:04:08.458 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicking the select head count button on the claim order form
+[INFO ] 2023-03-10 23:04:09.406 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicked the select head count button on the claim order form successfully
+[INFO ] 2023-03-10 23:04:09.407 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Entering Approve count should not be greater than Workerscount
+[INFO ] 2023-03-10 23:04:18.000 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Approve count is not more than the workers count
+[INFO ] 2023-03-10 23:04:18.002 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicking on modal submit Button
+[INFO ] 2023-03-10 23:04:23.113 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Modal submit button clicked successfully
+[INFO ] 2023-03-10 23:04:35.183 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow AssignEmployee
+[INFO ] 2023-03-10 23:04:45.883 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 23:04:45.980 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 23:04:45.980 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 23:04:46.042 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 23:04:46.042 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 23:04:46.101 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 23:04:46.101 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-10 23:04:59.819 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 23:04:59.822 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-10 23:05:03.651 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - All orders menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 23:05:10.658 [timesheets.TG_4301_Timesheet_Approval] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-10 23:05:20.801 [timesheets.TG_4301_Timesheet_Approval] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-10 23:05:20.802 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking Assign employees under the related section
+[INFO ] 2023-03-10 23:05:31.302 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicked assign employees on job order form successfully
+[INFO ] 2023-03-10 23:05:31.306 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Entering Distance radius in new Assign Employee form 
+[INFO ] 2023-03-10 23:05:31.471 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Distance radius in new Assign Employee form entered successfully
+[INFO ] 2023-03-10 23:05:31.472 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking CheckBox ShowAllEmployees
+[INFO ] 2023-03-10 23:05:33.586 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] -  ShowAllEmployees CheckBox clicked successfully
+[INFO ] 2023-03-10 23:05:33.586 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking AddRow in new Assign Employee form 
+[INFO ] 2023-03-10 23:05:40.787 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - AddRow button in new Assign Employee form clicked successfully
+[INFO ] 2023-03-10 23:05:40.787 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking edit button on the form under the EmployeeDetails
+[INFO ] 2023-03-10 23:05:40.957 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicked edit button on the form under the EmployeeDetails successfully
+[INFO ] 2023-03-10 23:05:41.215 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - employeeId in new Assign Employee form entered successfully
+[INFO ] 2023-03-10 23:05:41.215 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking Searched Employee
+[INFO ] 2023-03-10 23:05:46.221 [timesheets.TG_4301_Timesheet_Approval] [clickSearchedEmployee] - Clicking Searched Employee
+[INFO ] 2023-03-10 23:05:46.315 [timesheets.TG_4301_Timesheet_Approval] [clickSearchedEmployee] - Searched Employee clicked Successfully
+[INFO ] 2023-03-10 23:05:46.315 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Searched Employee Clicked Successfully
+[INFO ] 2023-03-10 23:05:46.315 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking Dropdown arrow in the modal
+[INFO ] 2023-03-10 23:05:46.412 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicked Dropdown arrow in the modal successfully
+[INFO ] 2023-03-10 23:05:48.418 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking save new Assign Employee form
+[INFO ] 2023-03-10 23:05:52.640 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - save button in new Assign Employee form clicked successfully
+[INFO ] 2023-03-10 23:07:38.903 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow TimesheetCreation
+[INFO ] 2023-03-10 23:07:46.596 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 23:07:46.694 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 23:07:46.695 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 23:07:46.796 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 23:07:46.796 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 23:07:46.899 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 23:07:51.904 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Clicking on order Button
+[INFO ] 2023-03-10 23:07:54.803 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] -  Order Button clicked successfully
+[INFO ] 2023-03-10 23:08:10.999 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] -  Clicking On Timesheet Button
+[INFO ] 2023-03-10 23:08:14.097 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Clicked On Timesheet Button successfully
+[INFO ] 2023-03-10 23:08:14.098 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Clicking on addEditButton 
+[INFO ] 2023-03-10 23:08:16.257 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - AddEditButton Clicked Successfully 
+[INFO ] 2023-03-10 23:08:16.258 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Entering current date in Timesheet
+[INFO ] 2023-03-10 23:08:28.592 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Entered current date in Timesheet successfully
+[INFO ] 2023-03-10 23:08:28.597 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Verify Start Time 
+[INFO ] 2023-03-10 23:08:35.995 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Verify Start Time Field successfully
+[INFO ] 2023-03-10 23:08:35.996 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Verify End Time 
+[INFO ] 2023-03-10 23:08:43.543 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Verify End Time Field successfully
+[INFO ] 2023-03-10 23:08:43.544 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Submitting Timesheet 
+[INFO ] 2023-03-10 23:08:47.436 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] -  Timesheet Submit successfully
+[INFO ] 2023-03-10 23:08:53.780 [timesheets.TG_4301_Timesheet_Approval] [Tag_VerifyTimesheetAvailableForApprovalPopup] - Started==Verifying Timesheet Available For Approval Popup
+[INFO ] 2023-03-10 23:09:01.508 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 23:09:01.610 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 23:09:01.610 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 23:09:01.676 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 23:09:01.677 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 23:09:01.743 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 23:09:04.749 [timesheets.TG_4301_Timesheet_Approval] [clickOrder] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-10 23:09:13.536 [timesheets.TG_4301_Timesheet_Approval] [clickOrder] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 23:09:16.542 [timesheets.TG_4301_Timesheet_Approval] [selectAllOption] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-10 23:09:23.214 [timesheets.TG_4301_Timesheet_Approval] [selectAllOption] - All orders menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 23:09:26.223 [timesheets.TG_4301_Timesheet_Approval] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-10 23:09:36.358 [timesheets.TG_4301_Timesheet_Approval] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-10 23:09:39.368 [timesheets.TG_4301_Timesheet_Approval] [ClickingOnTimesheet] -  Clicking On Timesheet
+[INFO ] 2023-03-10 23:09:47.352 [timesheets.TG_4301_Timesheet_Approval] [Tag_VerifyTimesheetAvailableForApprovalPopup] - Started==Verifying User Should Navigated To Timesheet Approval Form
+[INFO ] 2023-03-10 23:09:47.356 [timesheets.TG_4301_Timesheet_Approval] [timesheetTitleDisplay] - Verify Timesheet Title
+[INFO ] 2023-03-10 23:09:47.481 [timesheets.TG_4301_Timesheet_Approval] [timesheetTitleDisplay] - Timesheet Title verified
+[INFO ] 2023-03-10 23:09:47.487 [timesheets.TG_4301_Timesheet_Approval] [Tag_VerifyTimesheetAvailableForApprovalPopup] - Started==Verifying User Should Get Popup If Try To approve From Actions Button
+[INFO ] 2023-03-10 23:09:47.488 [timesheets.TG_4301_Timesheet_Approval] [clickApprovalRequestGrid] - Clicking on Approval Grid
+[INFO ] 2023-03-10 23:09:47.569 [timesheets.TG_4301_Timesheet_Approval] [clickApprovalRequestGrid] - Timesheet Approval Grid Clicked Successfully
+[INFO ] 2023-03-10 23:09:47.570 [timesheets.TG_4301_Timesheet_Approval] [clickCheckBox] - Clicking on checkbox
+[INFO ] 2023-03-10 23:09:51.198 [timesheets.TG_4301_Timesheet_Approval] [clickCheckBox] - checkbox Clicked Successfully
+[INFO ] 2023-03-10 23:09:51.200 [timesheets.TG_4301_Timesheet_Approval] [verifyEmployeeDetails] - Verify Employee Details
+[INFO ] 2023-03-10 23:09:51.314 [timesheets.TG_4301_Timesheet_Approval] [verifyEmployeeDetails] - Employee Details verified
+[INFO ] 2023-03-10 23:09:51.349 [timesheets.TG_4301_Timesheet_Approval] [Tag_VerifyUserShouldGetPopupIfTryToapproveFromActionsButton] - Started==Verifying User Should Get Popup If Try To approve From Actions Button
+[INFO ] 2023-03-10 23:09:51.350 [timesheets.TG_4301_Timesheet_Approval] [clickActionsButton] - Clicking on Action Button
+[INFO ] 2023-03-10 23:09:51.443 [timesheets.TG_4301_Timesheet_Approval] [clickActionsButton] - Action Button Clicked Successfully
+[INFO ] 2023-03-10 23:09:51.443 [timesheets.TG_4301_Timesheet_Approval] [clickApproveButton] - Clicking on approve Button
+[INFO ] 2023-03-10 23:09:51.591 [timesheets.TG_4301_Timesheet_Approval] [clickApproveButton] - approve Button Clicked Successfully
+[INFO ] 2023-03-10 23:09:51.592 [timesheets.TG_4301_Timesheet_Approval] [verifyTimesheetUpdatedMessage] - Check for 'Timesheet Updated' message Displayed
+[INFO ] 2023-03-10 23:09:52.577 [timesheets.TG_4301_Timesheet_Approval] [verifyTimesheetUpdatedMessage] - Message displayed successfully
+[INFO ] 2023-03-10 23:09:52.577 [timesheets.TG_4301_Timesheet_Approval] [closePopupApproveButton] - Clicking on close Popup approve Button
+[INFO ] 2023-03-10 23:09:52.654 [timesheets.TG_4301_Timesheet_Approval] [closePopupApproveButton] - Clicked on close Popup approve Button Successfully

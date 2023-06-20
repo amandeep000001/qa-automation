@@ -1,0 +1,54 @@
+[INFO ] 2023-01-12 10:40:35.391 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Logging in
+[INFO ] 2023-01-12 10:40:39.365 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Username
+[INFO ] 2023-01-12 10:40:39.368 [CRM.TG_5352_Lead_Creation] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-12 10:40:39.900 [CRM.TG_5352_Lead_Creation] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-12 10:40:39.901 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Username Entered Successfully
+[INFO ] 2023-01-12 10:40:39.901 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Entering Password
+[INFO ] 2023-01-12 10:40:39.901 [CRM.TG_5352_Lead_Creation] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-12 10:40:40.051 [CRM.TG_5352_Lead_Creation] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-12 10:40:40.051 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Password Entered Successfully
+[INFO ] 2023-01-12 10:40:40.052 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking on Login Button
+[INFO ] 2023-01-12 10:40:40.052 [CRM.TG_5352_Lead_Creation] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-12 10:40:40.511 [CRM.TG_5352_Lead_Creation] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-12 10:40:40.524 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verifying CRM Icon
+[INFO ] 2023-01-12 10:40:40.524 [CRM.TG_5352_Lead_Creation] [verifyCRMTextOnHomepage] - Check for CRM Icon on Homepage
+[INFO ] 2023-01-12 10:40:47.345 [CRM.TG_5352_Lead_Creation] [verifyCRMTextOnHomepage] - CRM Icon displayed successfully
+[INFO ] 2023-01-12 10:40:47.352 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking on CRM Icon
+[INFO ] 2023-01-12 10:40:47.352 [CRM.TG_5352_Lead_Creation] [clickCRMIcon] - Clicking on CRM Button
+[INFO ] 2023-01-12 10:40:47.590 [CRM.TG_5352_Lead_Creation] [clickCRMIcon] - CRM Button clicked successfully
+[INFO ] 2023-01-12 10:40:47.590 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - CRM Icon Clicked Successfully
+[INFO ] 2023-01-12 10:40:49.595 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking on Lead Icon
+[INFO ] 2023-01-12 10:40:49.597 [CRM.TG_5352_Lead_Creation] [clickLeadIcon] - Clicking on Lead Button
+[INFO ] 2023-01-12 10:40:50.619 [CRM.TG_5352_Lead_Creation] [clickLeadIcon] - Lead Button clicked successfully
+[INFO ] 2023-01-12 10:40:50.621 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Lead Icon Clicked Successfully
+[INFO ] 2023-01-12 10:40:52.626 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verify Listing Form
+[INFO ] 2023-01-12 10:40:52.627 [CRM.TG_5352_Lead_Creation] [verifyLeadListingForm] - Check for Lead Title
+[INFO ] 2023-01-12 10:40:52.689 [CRM.TG_5352_Lead_Creation] [verifyLeadListingForm] - Lead Title displayed successfully
+[INFO ] 2023-01-12 10:40:52.689 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Listing Form verified successfully
+[INFO ] 2023-01-12 10:40:54.695 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Clicking on Add Lead Button
+[INFO ] 2023-01-12 10:40:54.696 [CRM.TG_5352_Lead_Creation] [clickAddLeadButton] - Clicking on Lead Button
+[INFO ] 2023-01-12 10:40:55.850 [CRM.TG_5352_Lead_Creation] [clickAddLeadButton] - Add Lead Button clicked successfully
+[INFO ] 2023-01-12 10:40:55.850 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Add Lead Button Clicked Successfully
+[INFO ] 2023-01-12 10:40:57.856 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Verifying the Lead Form Title
+[INFO ] 2023-01-12 10:40:57.857 [CRM.TG_5352_Lead_Creation] [verifyLeadForm] - Check for New Lead Form
+[INFO ] 2023-01-12 10:40:57.929 [CRM.TG_5352_Lead_Creation] [verifyLeadForm] - New Lead Form displayed successfully
+[INFO ] 2023-01-12 10:40:57.930 [CRM.TG_5352_Lead_Creation] [TG_5303_VerifyNewLeadFormIsOpened] - Lead Form Title is Verified Successfully
+[INFO ] 2023-01-12 10:40:57.976 [CRM.TG_5352_Lead_Creation] [TG_5318_VerifyLeadIsCreated] - Verifying Mandatory Fields
+[INFO ] 2023-01-12 10:40:57.976 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Clicking on Save Button
+[INFO ] 2023-01-12 10:40:58.320 [CRM.TG_5352_Lead_Creation] [clickSaveButton] - Save Button clicked successfully
+[INFO ] 2023-01-12 10:41:00.326 [CRM.TG_5352_Lead_Creation] [verifyMandatoryFieldIsBlank] - Verifying the Mandatory Field Pop-Up Title
+[INFO ] 2023-01-12 10:41:00.390 [CRM.TG_5352_Lead_Creation] [verifyMandatoryFieldIsBlank] - Mandatory Field Pop-Up Title displayed Successfully
+[INFO ] 2023-01-12 10:41:02.397 [CRM.TG_5352_Lead_Creation] [TG_5318_VerifyLeadIsCreated] - Closing the Pop-up
+[INFO ] 2023-01-12 10:41:02.402 [CRM.TG_5352_Lead_Creation] [closeBlankMandatoryFieldDialogBox] - Clicking on Close Pop-Up Icon
+[INFO ] 2023-01-12 10:41:02.533 [CRM.TG_5352_Lead_Creation] [closeBlankMandatoryFieldDialogBox] - Close Pop-Up Icon Clicked Successfully
+[INFO ] 2023-01-12 10:41:02.534 [CRM.TG_5352_Lead_Creation] [TG_5318_VerifyLeadIsCreated] - Pop-up closed Successfully
+[INFO ] 2023-01-12 10:41:04.539 [CRM.TG_5352_Lead_Creation] [TG_5318_VerifyLeadIsCreated] - Entering First Name
+[INFO ] 2023-01-12 10:41:04.543 [CRM.TG_5352_Lead_Creation] [enterFirstName] - Entering First Name
+[INFO ] 2023-01-12 10:41:04.739 [CRM.TG_5352_Lead_Creation] [enterFirstName] - First Name Entered Successfully
+[INFO ] 2023-01-12 10:41:04.739 [CRM.TG_5352_Lead_Creation] [TG_5318_VerifyLeadIsCreated] - First Name Entered Successfully
+[INFO ] 2023-01-12 10:41:04.740 [CRM.TG_5352_Lead_Creation] [TG_5318_VerifyLeadIsCreated] - Entering Last Name
+[INFO ] 2023-01-12 10:41:04.740 [CRM.TG_5352_Lead_Creation] [enterLastName] - Entering Last Name
+[INFO ] 2023-01-12 10:41:04.833 [CRM.TG_5352_Lead_Creation] [enterLastName] - Last Name Entered Successfully
+[INFO ] 2023-01-12 10:41:04.833 [CRM.TG_5352_Lead_Creation] [TG_5318_VerifyLeadIsCreated] - Last Name Entered Successfully
+[INFO ] 2023-01-12 10:41:04.833 [CRM.TG_5352_Lead_Creation] [TG_5318_VerifyLeadIsCreated] - Entering Company Name
+[INFO ] 2023-01-12 10:41:04.833 [CRM.TG_5352_Lead_Creation] [enterCompanyName] - Entering Company Name

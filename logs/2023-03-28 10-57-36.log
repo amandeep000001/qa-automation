@@ -1,0 +1,207 @@
+[INFO ] 2023-03-28 22:57:43.581 [company.TG_4145_ClaimOrderForStaffing] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2023-03-28 22:57:49.198 [company.TG_4145_ClaimOrderForStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-28 22:57:51.216 [company.TG_4145_ClaimOrderForStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-28 22:57:51.218 [company.TG_4145_ClaimOrderForStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-28 22:57:51.473 [company.TG_4145_ClaimOrderForStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-28 22:57:51.474 [company.TG_4145_ClaimOrderForStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-28 22:57:52.043 [company.TG_4145_ClaimOrderForStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-28 22:57:52.045 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Clicking on New Order Button
+[INFO ] 2023-03-28 22:58:09.153 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - New Order Button clicked successfully
+[INFO ] 2023-03-28 22:58:09.154 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering EstDailyHours
+[INFO ] 2023-03-28 22:58:17.890 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2023-03-28 22:58:17.891 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering StartDate
+[INFO ] 2023-03-28 22:58:23.559 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - StartDate entered successfully
+[INFO ] 2023-03-28 22:58:23.561 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering EndDate
+[INFO ] 2023-03-28 22:58:34.862 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - EndDate entered successfully
+[INFO ] 2023-03-28 22:58:34.865 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering StartTime
+[INFO ] 2023-03-28 22:58:35.831 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - StartTime entered successfully
+[INFO ] 2023-03-28 22:58:35.832 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering Availability
+[INFO ] 2023-03-28 22:58:36.128 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Availabilit entered successfully
+[INFO ] 2023-03-28 22:58:36.128 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering JobSite
+[INFO ] 2023-03-28 22:58:42.494 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - JobSite entered successfully
+[INFO ] 2023-03-28 22:58:42.494 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering JobTitle
+[INFO ] 2023-03-28 22:58:51.678 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - JobTitle entered successfully
+[INFO ] 2023-03-28 22:58:51.681 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering No Of Workers
+[INFO ] 2023-03-28 22:58:56.851 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2023-03-28 22:58:56.851 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering ESignature
+[INFO ] 2023-03-28 22:59:00.186 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - ESignature entered successfully
+[INFO ] 2023-03-28 22:59:00.186 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - clickAgreeContract
+[INFO ] 2023-03-28 22:59:00.438 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - clickAgreeContract successfully
+[INFO ] 2023-03-28 22:59:00.438 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - clickSaveButton
+[INFO ] 2023-03-28 22:59:00.843 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2023-03-28 22:59:09.299 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Job order link present on the home page clicked
+[INFO ] 2023-03-28 22:59:19.295 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-03-28 22:59:33.870 [company.TG_4145_ClaimOrderForStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-28 22:59:34.180 [company.TG_4145_ClaimOrderForStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-28 22:59:34.181 [company.TG_4145_ClaimOrderForStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-28 22:59:34.317 [company.TG_4145_ClaimOrderForStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-28 22:59:34.317 [company.TG_4145_ClaimOrderForStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-28 22:59:34.431 [company.TG_4145_ClaimOrderForStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-28 22:59:37.443 [company.TG_4145_ClaimOrderForStaffing] [clickJobOrderHomePage] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-03-28 22:59:46.703 [company.TG_4145_ClaimOrderForStaffing] [clickJobOrderHomePage] - All job orders menu present on the staffing hompage clicked successfully and navigates to joborder listing form  .
+[INFO ] 2023-03-28 22:59:48.713 [company.TG_4145_ClaimOrderForStaffing] [verifyJobOrderPage] - Job order form is displayed
+[INFO ] 2023-03-28 22:59:48.839 [company.TG_4145_ClaimOrderForStaffing] [verifyJobOrderPage] - Job orderform is displayed successfully
+[INFO ] 2023-03-28 22:59:48.845 [company.TG_4145_ClaimOrderForStaffing] [verifyHeadCountAvaialblecolumnIsAvailableInJobOrderForm] - Check for column headcount available is present
+[INFO ] 2023-03-28 22:59:48.919 [company.TG_4145_ClaimOrderForStaffing] [verifyHeadCountAvaialblecolumnIsAvailableInJobOrderForm] - Job order form displayed headcount column successfully
+[INFO ] 2023-03-28 22:59:58.928 [company.TG_4145_ClaimOrderForStaffing] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-28 23:00:09.153 [company.TG_4145_ClaimOrderForStaffing] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-28 23:00:11.160 [company.TG_4145_ClaimOrderForStaffing] [VerifyResumeRequiredBoxIsUnchecked] - Checking Resume required Box is Unchecked
+[INFO ] 2023-03-28 23:00:22.231 [company.TG_4145_ClaimOrderForStaffing] [VerifyResumeRequiredBoxIsUnchecked] - Resume required Box is Unchecked successfully
+[INFO ] 2023-03-28 23:00:22.231 [company.TG_4145_ClaimOrderForStaffing] [VerifyClaimOrderVisible] - Checking Claim order Button is Visible
+[INFO ] 2023-03-28 23:00:23.500 [company.TG_4145_ClaimOrderForStaffing] [VerifyClaimOrderVisible] - Claim order Button is displayed successfully
+[INFO ] 2023-03-28 23:00:23.500 [company.TG_4145_ClaimOrderForStaffing] [clickClaimOrderButton] - Clicking on Claim order Button
+[INFO ] 2023-03-28 23:00:24.013 [company.TG_4145_ClaimOrderForStaffing] [clickClaimOrderButton] - Claim order button clicked successfully
+[INFO ] 2023-03-28 23:00:26.020 [company.TG_4145_ClaimOrderForStaffing] [verifyNewClaimOrderPage] - While clicking claim order it should navigate to New order
+[INFO ] 2023-03-28 23:00:26.148 [company.TG_4145_ClaimOrderForStaffing] [verifyNewClaimOrderPage] - While clicking claim order successfully navigates to New order
+[INFO ] 2023-03-28 23:00:28.156 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-28 23:00:40.837 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-28 23:00:40.838 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-28 23:00:41.134 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-28 23:00:41.135 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-03-28 23:00:44.301 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-03-28 23:00:49.312 [company.TG_4145_ClaimOrderForStaffing] [verifyNoOfEmployeesClaimNotAcceptAlphabet] - Check for'No.of.Employees to claim' by entering alphabet
+[INFO ] 2023-03-28 23:00:49.494 [company.TG_4145_ClaimOrderForStaffing] [verifyNoOfEmployeesClaimNotAcceptAlphabet] - Alphabets entered in No. of Employees to Claim successfully
+[INFO ] 2023-03-28 23:00:52.501 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-28 23:00:52.664 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-28 23:00:55.680 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-28 23:00:55.787 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-28 23:00:58.794 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-28 23:00:58.894 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-28 23:01:01.901 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-03-28 23:01:05.060 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-03-28 23:01:08.071 [company.TG_4145_ClaimOrderForStaffing] [verifyNoOfEmployeesClaimNotAcceptSpecialCharacters] - Check for'No.of.Employees to claim' by entering alphabet
+[INFO ] 2023-03-28 23:01:08.208 [company.TG_4145_ClaimOrderForStaffing] [verifyNoOfEmployeesClaimNotAcceptSpecialCharacters] - Special Characters entered in No. of Employees to Claim successfully
+[INFO ] 2023-03-28 23:01:08.209 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-28 23:01:08.324 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-28 23:01:11.330 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-28 23:01:11.410 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-28 23:01:14.414 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-28 23:01:14.523 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-28 23:01:17.539 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-03-28 23:01:20.783 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-03-28 23:01:22.793 [company.TG_4145_ClaimOrderForStaffing] [getRemainingEmployeeValue] - Entering No of Employees greater than Remaining Employees
+[INFO ] 2023-03-28 23:01:22.905 [company.TG_4145_ClaimOrderForStaffing] [getRemainingEmployeeValue] - Entered No of Employees greater than Remaining Employees successfully
+[INFO ] 2023-03-28 23:01:22.905 [company.TG_4145_ClaimOrderForStaffing] [enterNoOfEmployeesClaim] - Entering the No. of Employees Claim
+[INFO ] 2023-03-28 23:01:23.176 [company.TG_4145_ClaimOrderForStaffing] [enterNoOfEmployeesClaim] - No. of Employees Claim entered successfully
+[INFO ] 2023-03-28 23:01:26.183 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-28 23:01:26.308 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-28 23:01:29.316 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-28 23:01:29.452 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-28 23:01:31.458 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-03-28 23:01:34.563 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-03-28 23:01:36.569 [company.TG_4145_ClaimOrderForStaffing] [clearField] - Entering the No. of Employees Claim
+[INFO ] 2023-03-28 23:01:36.718 [company.TG_4145_ClaimOrderForStaffing] [enterNoOfEmployeesClaim] - Entering the No. of Employees Claim
+[INFO ] 2023-03-28 23:01:36.792 [company.TG_4145_ClaimOrderForStaffing] [enterNoOfEmployeesClaim] - No. of Employees Claim entered successfully
+[INFO ] 2023-03-28 23:01:36.793 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-28 23:01:36.895 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-28 23:01:36.895 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-28 23:01:37.514 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-28 23:01:37.514 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-28 23:01:37.563 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-28 23:01:37.564 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-03-28 23:01:40.718 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-03-28 23:01:40.719 [company.TG_4145_ClaimOrderForStaffing] [enterESignature] - Entering the E-Signature
+[INFO ] 2023-03-28 23:01:40.934 [company.TG_4145_ClaimOrderForStaffing] [enterESignature] - E-Signature entered successfully
+[INFO ] 2023-03-28 23:01:40.934 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-28 23:01:41.138 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-28 23:01:41.139 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-28 23:01:41.777 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-28 23:01:41.777 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-28 23:01:41.874 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-28 23:01:41.874 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-03-28 23:01:44.998 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-03-28 23:01:45.000 [company.TG_4145_ClaimOrderForStaffing] [clickAgreeContract] - Clicking on Agree to Contract Button
+[INFO ] 2023-03-28 23:01:45.352 [company.TG_4145_ClaimOrderForStaffing] [clickAgreeContract] - Agree to Contract Button clicked successfully
+[INFO ] 2023-03-28 23:01:45.353 [company.TG_4145_ClaimOrderForStaffing] [verifySubmitButtonIsVisible] - Check SubmitClaim Button is Visible
+[INFO ] 2023-03-28 23:01:45.402 [company.TG_4145_ClaimOrderForStaffing] [verifySubmitButtonIsVisible] - Submit claim button  is displayed successfully
+[INFO ] 2023-03-28 23:01:45.403 [company.TG_4145_ClaimOrderForStaffing] [verifyCancelButtonIsVisible] - Check cnacel button is visible
+[INFO ] 2023-03-28 23:01:45.452 [company.TG_4145_ClaimOrderForStaffing] [verifyCancelButtonIsVisible] - Cancel claim button displayed successfully
+[INFO ] 2023-03-28 23:01:45.452 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-28 23:01:45.524 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-28 23:01:45.524 [company.TG_4145_ClaimOrderForStaffing] [verifyEmailSuccessMessage] - Check for submission of Claim Order
+[DEBUG] 2023-03-28 23:02:16.819 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:16.829 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:16.832 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:16.836 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[DEBUG] 2023-03-28 23:02:16.837 [freemarker.cache] [debug] - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+[DEBUG] 2023-03-28 23:02:16.898 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:16.902 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:16.902 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:16.905 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[DEBUG] 2023-03-28 23:02:16.905 [freemarker.cache] [debug] - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+[DEBUG] 2023-03-28 23:02:17.047 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.051 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.051 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.053 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.053 [freemarker.cache] [debug] - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+[DEBUG] 2023-03-28 23:02:17.065 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.067 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.067 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.069 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.069 [freemarker.cache] [debug] - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+[DEBUG] 2023-03-28 23:02:17.071 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.072 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.072 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.073 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.073 [freemarker.cache] [debug] - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+[DEBUG] 2023-03-28 23:02:17.076 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.077 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.077 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.077 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.077 [freemarker.cache] [debug] - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+[DEBUG] 2023-03-28 23:02:17.086 [freemarker.cache] [debug] - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2023-03-28 23:02:17.086 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.087 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.087 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.087 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.087 [freemarker.cache] [debug] - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+[DEBUG] 2023-03-28 23:02:17.100 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.101 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.101 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.101 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.101 [freemarker.cache] [debug] - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+[DEBUG] 2023-03-28 23:02:17.106 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.107 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.107 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.107 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.107 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+[DEBUG] 2023-03-28 23:02:17.108 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.108 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.109 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.109 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.109 [freemarker.cache] [debug] - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+[DEBUG] 2023-03-28 23:02:17.116 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.116 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.116 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.116 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.116 [freemarker.cache] [debug] - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+[DEBUG] 2023-03-28 23:02:17.130 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.131 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.131 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.131 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.131 [freemarker.cache] [debug] - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+[DEBUG] 2023-03-28 23:02:17.217 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.218 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.218 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.219 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.220 [freemarker.cache] [debug] - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+[DEBUG] 2023-03-28 23:02:17.228 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.229 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.229 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.229 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.229 [freemarker.cache] [debug] - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+[DEBUG] 2023-03-28 23:02:17.243 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.244 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.245 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.245 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.245 [freemarker.cache] [debug] - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+[DEBUG] 2023-03-28 23:02:17.315 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.315 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.315 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.316 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.316 [freemarker.cache] [debug] - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+[DEBUG] 2023-03-28 23:02:17.319 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-28 23:02:17.320 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.320 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[DEBUG] 2023-03-28 23:02:17.321 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[DEBUG] 2023-03-28 23:02:17.321 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"

@@ -1,0 +1,116 @@
+[INFO ] 2022-12-22 20:26:32.801 [company.TG_4463_InvCreationStaffing] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2022-12-22 20:26:35.675 [company.TG_4463_InvCreationStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2022-12-22 20:26:36.293 [company.TG_4463_InvCreationStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2022-12-22 20:26:36.293 [company.TG_4463_InvCreationStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2022-12-22 20:26:38.113 [company.TG_4463_InvCreationStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2022-12-22 20:26:38.114 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2022-12-22 20:26:38.522 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2022-12-22 20:26:38.523 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Clicking on New Order Button
+[INFO ] 2022-12-22 20:26:55.374 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - New Order Button clicked successfully
+[INFO ] 2022-12-22 20:26:55.375 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering EstDailyHours
+[INFO ] 2022-12-22 20:27:04.548 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2022-12-22 20:27:04.550 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering StartDate
+[INFO ] 2022-12-22 20:27:10.462 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - StartDate entered successfully
+[INFO ] 2022-12-22 20:27:10.464 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering EndDate
+[INFO ] 2022-12-22 20:27:21.909 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - EndDate entered successfully
+[INFO ] 2022-12-22 20:27:21.913 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering StartTime
+[INFO ] 2022-12-22 20:27:22.797 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - StartTime entered successfully
+[INFO ] 2022-12-22 20:27:22.797 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering Availability
+[INFO ] 2022-12-22 20:27:23.080 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Availabilit entered successfully
+[INFO ] 2022-12-22 20:27:23.080 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering JobSite
+[INFO ] 2022-12-22 20:27:29.541 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - JobSite entered successfully
+[INFO ] 2022-12-22 20:27:29.541 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering JobTitle
+[INFO ] 2022-12-22 20:27:38.788 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - JobTitle entered successfully
+[INFO ] 2022-12-22 20:27:38.793 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering No Of Workers
+[INFO ] 2022-12-22 20:27:43.979 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2022-12-22 20:27:43.980 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering ESignature
+[INFO ] 2022-12-22 20:27:47.212 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - ESignature entered successfully
+[INFO ] 2022-12-22 20:27:47.214 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - clickAgreeContract
+[INFO ] 2022-12-22 20:27:47.387 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - clickAgreeContract successfully
+[INFO ] 2022-12-22 20:27:47.388 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - clickSaveButton
+[INFO ] 2022-12-22 20:27:47.693 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2022-12-22 20:27:56.183 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Job order link present on the home page clicked
+[INFO ] 2022-12-22 20:28:07.222 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Verify Job Order Id and Email Successfully
+[INFO ] 2022-12-22 20:28:18.561 [company.TG_4463_InvCreationStaffing] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow CreateEmployeeFromStaffing
+[INFO ] 2022-12-22 20:28:31.366 [company.TG_4463_InvCreationStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2022-12-22 20:28:31.523 [company.TG_4463_InvCreationStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2022-12-22 20:28:31.523 [company.TG_4463_InvCreationStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2022-12-22 20:28:31.598 [company.TG_4463_InvCreationStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2022-12-22 20:28:31.598 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2022-12-22 20:28:31.714 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2022-12-22 20:29:01.990 [company.TG_4463_InvCreationStaffing] [clickAddNewEployeeButton] - Clicking on Add New Employee Button
+[INFO ] 2022-12-22 20:29:03.018 [company.TG_4463_InvCreationStaffing] [clickAddNewEployeeButton] - Employee button clicked successfully
+[INFO ] 2022-12-22 20:29:08.024 [company.TG_4463_InvCreationStaffing] [enterCompanyName] - Entering Company Name
+[INFO ] 2022-12-22 20:29:08.261 [company.TG_4463_InvCreationStaffing] [enterCompanyName] - Company Name entered successfully
+[INFO ] 2022-12-22 20:29:10.267 [company.TG_4463_InvCreationStaffing] [enterFirstName] - Entering First Name
+[INFO ] 2022-12-22 20:29:10.412 [company.TG_4463_InvCreationStaffing] [enterFirstName] - First Name entered successfully
+[INFO ] 2022-12-22 20:29:12.418 [company.TG_4463_InvCreationStaffing] [enterLastName] - Entering Last Name
+[INFO ] 2022-12-22 20:29:12.516 [company.TG_4463_InvCreationStaffing] [enterLastName] - Last Name entered successfully
+[INFO ] 2022-12-22 20:29:14.522 [company.TG_4463_InvCreationStaffing] [enterDateOfBirthField] - Entering date of birth
+[INFO ] 2022-12-22 20:29:15.704 [company.TG_4463_InvCreationStaffing] [enterDateOfBirthField] - Date of birth entered successfully
+[INFO ] 2022-12-22 20:29:17.711 [company.TG_4463_InvCreationStaffing] [enterEmail] - Entering email
+[INFO ] 2022-12-22 20:29:17.927 [company.TG_4463_InvCreationStaffing] [enterEmail] - Email entered successfully
+[INFO ] 2022-12-22 20:29:19.933 [company.TG_4463_InvCreationStaffing] [selectSearchOnMapsCheckbox] - Selecting search on Maps checkbox
+[INFO ] 2022-12-22 20:29:22.153 [company.TG_4463_InvCreationStaffing] [selectSearchOnMapsCheckbox] - Search on maps checkbox selected
+[INFO ] 2022-12-22 20:29:24.157 [company.TG_4463_InvCreationStaffing] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2022-12-22 20:29:25.420 [company.TG_4463_InvCreationStaffing] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2022-12-22 20:29:27.424 [company.TG_4463_InvCreationStaffing] [clickSaveButton] - Clicking Save button
+[INFO ] 2022-12-22 20:29:27.640 [company.TG_4463_InvCreationStaffing] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2022-12-22 20:30:07.647 [company.TG_4463_InvCreationStaffing] [getEmployeeIdFromEmaployeeDetailsPage] - Fetching employee id
+[INFO ] 2022-12-22 20:30:07.743 [company.TG_4463_InvCreationStaffing] [getEmployeeIdFromEmaployeeDetailsPage] - Employee id fetched successfully
+[INFO ] 2022-12-22 20:30:07.881 [company.TG_4463_InvCreationStaffing] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow ClaimFromStaffing
+[INFO ] 2022-12-22 20:30:07.882 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2022-12-22 20:30:36.680 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Clicking on Claim order Button
+[INFO ] 2022-12-22 20:30:53.230 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Claim order button clicked successfully
+[INFO ] 2022-12-22 20:30:53.233 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Entering the No. of Employees Claim
+[INFO ] 2022-12-22 20:30:58.391 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - No. of Employees Claim entered successfully
+[INFO ] 2022-12-22 20:31:03.396 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Entering the E-Signature
+[INFO ] 2022-12-22 20:31:05.539 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - E-Signature entered successfully
+[INFO ] 2022-12-22 20:31:05.539 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Clicking on Agree to Contract Button
+[INFO ] 2022-12-22 20:31:07.639 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Agree to Contract Button clicked successfully
+[INFO ] 2022-12-22 20:31:07.639 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Clicking on Submit Claim Button
+[INFO ] 2022-12-22 20:31:14.737 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Submit Claim Button clicked successfully
+[INFO ] 2022-12-22 20:31:57.625 [company.TG_4463_InvCreationStaffing] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow ApproveHiring
+[INFO ] 2022-12-22 20:32:05.541 [company.TG_4463_InvCreationStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2022-12-22 20:32:05.678 [company.TG_4463_InvCreationStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2022-12-22 20:32:05.679 [company.TG_4463_InvCreationStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2022-12-22 20:32:05.837 [company.TG_4463_InvCreationStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2022-12-22 20:32:05.837 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2022-12-22 20:32:05.922 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2022-12-22 20:32:05.922 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicking Order menu present on the staffing homepage
+[INFO ] 2022-12-22 20:32:15.205 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2022-12-22 20:32:15.206 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2022-12-22 20:32:29.398 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form 
+[INFO ] 2022-12-22 20:32:32.537 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form successfully
+[INFO ] 2022-12-22 20:32:32.537 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicking the select head count button on the claim order form
+[INFO ] 2022-12-22 20:32:33.639 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicked the select head count button on the claim order form successfully
+[INFO ] 2022-12-22 20:32:33.642 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Entering Approve count should not be greater than Workerscount
+[INFO ] 2022-12-22 20:32:40.172 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Approve count is not more than the workers count
+[INFO ] 2022-12-22 20:32:40.176 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicking on modal submit Button
+[INFO ] 2022-12-22 20:32:40.308 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Modal submit button clicked successfully
+[INFO ] 2022-12-22 20:32:51.654 [company.TG_4463_InvCreationStaffing] [Tag_EndToEndFlowAssignEmployeeFromStaffing] - Started==Starting End To End Flow AssignEmployee
+[INFO ] 2022-12-22 20:33:02.418 [company.TG_4463_InvCreationStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2022-12-22 20:33:02.502 [company.TG_4463_InvCreationStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2022-12-22 20:33:02.502 [company.TG_4463_InvCreationStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2022-12-22 20:33:02.571 [company.TG_4463_InvCreationStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2022-12-22 20:33:02.571 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2022-12-22 20:33:02.661 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2022-12-22 20:33:02.662 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking Order menu present on the staffing homepage
+[INFO ] 2022-12-22 20:33:15.611 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2022-12-22 20:33:15.616 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2022-12-22 20:33:19.704 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - All orders menu present on the staffing hompage clicked successfully.
+[INFO ] 2022-12-22 20:33:38.969 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking Assign employees under the related section
+[INFO ] 2022-12-22 20:33:48.373 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicked assign employees on job order form successfully
+[INFO ] 2022-12-22 20:33:48.376 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Entering Distance radius in new Assign Employee form 
+[INFO ] 2022-12-22 20:33:48.504 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Distance radius in new Assign Employee form entered successfully
+[INFO ] 2022-12-22 20:33:48.505 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking CheckBox ShowAllEmployees
+[INFO ] 2022-12-22 20:33:50.732 [company.TG_4463_InvCreationStaffing] [AssignEmployee] -  ShowAllEmployees CheckBox clicked successfully
+[INFO ] 2022-12-22 20:33:50.732 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking AddRow in new Assign Employee form 
+[INFO ] 2022-12-22 20:33:57.920 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - AddRow button in new Assign Employee form clicked successfully
+[INFO ] 2022-12-22 20:33:57.921 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking edit button on the form under the EmployeeDetails
+[INFO ] 2022-12-22 20:33:58.081 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicked edit button on the form under the EmployeeDetails successfully
+[INFO ] 2022-12-22 20:33:58.457 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - employeeId in new Assign Employee form entered successfully
+[INFO ] 2022-12-22 20:33:58.457 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking Dropdown arrow in the modal
+[INFO ] 2022-12-22 20:33:58.662 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicked Dropdown arrow in the modal successfully
+[INFO ] 2022-12-22 20:34:00.673 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking save new Assign Employee form
+[INFO ] 2022-12-22 20:34:04.794 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - save button in new Assign Employee form clicked successfully

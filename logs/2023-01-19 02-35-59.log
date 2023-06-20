@@ -1,0 +1,62 @@
+[INFO ] 2023-01-19 02:35:59.491 [company.TG_4325_ApproveClaimFromHiring] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2023-01-19 02:36:03.620 [company.TG_4325_ApproveClaimFromHiring] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-19 02:36:04.146 [company.TG_4325_ApproveClaimFromHiring] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-19 02:36:04.147 [company.TG_4325_ApproveClaimFromHiring] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-19 02:36:04.306 [company.TG_4325_ApproveClaimFromHiring] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-19 02:36:04.307 [company.TG_4325_ApproveClaimFromHiring] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-19 02:36:04.868 [company.TG_4325_ApproveClaimFromHiring] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-19 02:36:04.868 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Clicking on New Order Button
+[INFO ] 2023-01-19 02:36:16.327 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - New Order Button clicked successfully
+[INFO ] 2023-01-19 02:36:16.328 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Entering EstDailyHours
+[INFO ] 2023-01-19 02:36:25.613 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2023-01-19 02:36:25.614 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Entering StartDate
+[INFO ] 2023-01-19 02:36:31.257 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - StartDate entered successfully
+[INFO ] 2023-01-19 02:36:31.263 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Entering EndDate
+[INFO ] 2023-01-19 02:36:42.533 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - EndDate entered successfully
+[INFO ] 2023-01-19 02:36:42.537 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Entering StartTime
+[INFO ] 2023-01-19 02:36:43.561 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - StartTime entered successfully
+[INFO ] 2023-01-19 02:36:43.562 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Entering Availability
+[INFO ] 2023-01-19 02:36:43.760 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Availabilit entered successfully
+[INFO ] 2023-01-19 02:36:43.761 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Entering JobSite
+[INFO ] 2023-01-19 02:36:50.743 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - JobSite entered successfully
+[INFO ] 2023-01-19 02:36:50.745 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Entering JobTitle
+[INFO ] 2023-01-19 02:37:00.320 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - JobTitle entered successfully
+[INFO ] 2023-01-19 02:37:00.326 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Entering No Of Workers
+[INFO ] 2023-01-19 02:37:05.510 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2023-01-19 02:37:05.511 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Entering ESignature
+[INFO ] 2023-01-19 02:37:08.670 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - ESignature entered successfully
+[INFO ] 2023-01-19 02:37:08.671 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - clickAgreeContract
+[INFO ] 2023-01-19 02:37:08.920 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - clickAgreeContract successfully
+[INFO ] 2023-01-19 02:37:08.920 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - clickSaveButton
+[INFO ] 2023-01-19 02:37:09.101 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2023-01-19 02:37:17.607 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Job order link present on the home page clicked
+[INFO ] 2023-01-19 02:37:25.819 [company.TG_4325_ApproveClaimFromHiring] [newOrderHiring] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-01-19 02:37:34.437 [company.TG_4325_ApproveClaimFromHiring] [Tag_EndToEndFlowClaimFromStaffing] - Started==Starting End To End Flow ClaimFromStaffing
+[INFO ] 2023-01-19 02:37:42.306 [company.TG_4325_ApproveClaimFromHiring] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-19 02:37:42.485 [company.TG_4325_ApproveClaimFromHiring] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-19 02:37:42.486 [company.TG_4325_ApproveClaimFromHiring] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-19 02:37:42.686 [company.TG_4325_ApproveClaimFromHiring] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-19 02:37:42.687 [company.TG_4325_ApproveClaimFromHiring] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-19 02:37:42.963 [company.TG_4325_ApproveClaimFromHiring] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-19 02:37:42.964 [company.TG_4325_ApproveClaimFromHiring] [ClaimOrderForStaffing] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-01-19 02:38:02.256 [company.TG_4325_ApproveClaimFromHiring] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-01-19 02:38:12.423 [company.TG_4325_ApproveClaimFromHiring] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-01-19 02:38:12.425 [company.TG_4325_ApproveClaimFromHiring] [ClaimOrderForStaffing] - Clicking on Claim order Button
+[INFO ] 2023-01-19 02:38:25.911 [company.TG_4325_ApproveClaimFromHiring] [ClaimOrderForStaffing] - Claim order button clicked successfully
+[INFO ] 2023-01-19 02:38:25.913 [company.TG_4325_ApproveClaimFromHiring] [ClaimOrderForStaffing] - Entering the No. of Employees Claim
+[INFO ] 2023-01-19 02:38:31.258 [company.TG_4325_ApproveClaimFromHiring] [ClaimOrderForStaffing] - No. of Employees Claim entered successfully
+[INFO ] 2023-01-19 02:38:36.265 [company.TG_4325_ApproveClaimFromHiring] [ClaimOrderForStaffing] - Entering the E-Signature
+[INFO ] 2023-01-19 02:38:38.402 [company.TG_4325_ApproveClaimFromHiring] [ClaimOrderForStaffing] - E-Signature entered successfully
+[INFO ] 2023-01-19 02:38:38.402 [company.TG_4325_ApproveClaimFromHiring] [ClaimOrderForStaffing] - Clicking on Agree to Contract Button
+[INFO ] 2023-01-19 02:38:40.571 [company.TG_4325_ApproveClaimFromHiring] [ClaimOrderForStaffing] - Agree to Contract Button clicked successfully
+[INFO ] 2023-01-19 02:38:40.572 [company.TG_4325_ApproveClaimFromHiring] [ClaimOrderForStaffing] - Clicking on Submit Claim Button
+[INFO ] 2023-01-19 02:38:47.753 [company.TG_4325_ApproveClaimFromHiring] [ClaimOrderForStaffing] - Submit Claim Button clicked successfully
+[INFO ] 2023-01-19 02:39:27.062 [company.TG_4325_ApproveClaimFromHiring] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-19 02:39:27.165 [company.TG_4325_ApproveClaimFromHiring] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-19 02:39:27.165 [company.TG_4325_ApproveClaimFromHiring] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-19 02:39:27.253 [company.TG_4325_ApproveClaimFromHiring] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-19 02:39:27.254 [company.TG_4325_ApproveClaimFromHiring] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-19 02:39:27.326 [company.TG_4325_ApproveClaimFromHiring] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-19 02:39:34.339 [company.TG_4325_ApproveClaimFromHiring] [clickOrdersMenuOnHiringHomePage] - Clicking Order menu present on the Hiring homepage
+[INFO ] 2023-01-19 02:39:35.169 [company.TG_4325_ApproveClaimFromHiring] [clickOrdersMenuOnHiringHomePage] - Order menu present on the Hiring hompage clicked successfully.
+[INFO ] 2023-01-19 02:39:38.200 [company.TG_4325_ApproveClaimFromHiring] [selectParticularJobOrderFromListing] - Selecting Particular Joborder on the listing

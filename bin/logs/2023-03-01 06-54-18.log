@@ -1,0 +1,134 @@
+[INFO ] 2023-03-01 18:54:18.450 [company.TG_4145_ClaimOrderForStaffing] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2023-03-01 18:54:22.310 [company.TG_4145_ClaimOrderForStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-01 18:54:23.975 [company.TG_4145_ClaimOrderForStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-01 18:54:23.975 [company.TG_4145_ClaimOrderForStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-01 18:54:24.123 [company.TG_4145_ClaimOrderForStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-01 18:54:24.124 [company.TG_4145_ClaimOrderForStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-01 18:54:24.647 [company.TG_4145_ClaimOrderForStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-01 18:54:24.648 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Clicking on New Order Button
+[INFO ] 2023-03-01 18:54:42.517 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - New Order Button clicked successfully
+[INFO ] 2023-03-01 18:54:42.518 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering EstDailyHours
+[INFO ] 2023-03-01 18:54:51.932 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2023-03-01 18:54:51.935 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering StartDate
+[INFO ] 2023-03-01 18:54:57.567 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - StartDate entered successfully
+[INFO ] 2023-03-01 18:54:57.571 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering EndDate
+[INFO ] 2023-03-01 18:55:08.877 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - EndDate entered successfully
+[INFO ] 2023-03-01 18:55:08.882 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering StartTime
+[INFO ] 2023-03-01 18:55:09.851 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - StartTime entered successfully
+[INFO ] 2023-03-01 18:55:09.852 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering Availability
+[INFO ] 2023-03-01 18:55:10.081 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Availabilit entered successfully
+[INFO ] 2023-03-01 18:55:10.082 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering JobSite
+[INFO ] 2023-03-01 18:55:16.564 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - JobSite entered successfully
+[INFO ] 2023-03-01 18:55:16.565 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering JobTitle
+[INFO ] 2023-03-01 18:55:25.886 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - JobTitle entered successfully
+[INFO ] 2023-03-01 18:55:25.891 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering No Of Workers
+[INFO ] 2023-03-01 18:55:31.007 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2023-03-01 18:55:31.008 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Entering ESignature
+[INFO ] 2023-03-01 18:55:34.299 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - ESignature entered successfully
+[INFO ] 2023-03-01 18:55:34.300 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - clickAgreeContract
+[INFO ] 2023-03-01 18:55:34.445 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - clickAgreeContract successfully
+[INFO ] 2023-03-01 18:55:34.445 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - clickSaveButton
+[INFO ] 2023-03-01 18:55:34.611 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2023-03-01 18:55:43.044 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Job order link present on the home page clicked
+[INFO ] 2023-03-01 18:55:51.238 [company.TG_4145_ClaimOrderForStaffing] [newOrderHiring] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-03-01 18:56:09.380 [company.TG_4145_ClaimOrderForStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-01 18:56:09.517 [company.TG_4145_ClaimOrderForStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-01 18:56:09.517 [company.TG_4145_ClaimOrderForStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-01 18:56:09.719 [company.TG_4145_ClaimOrderForStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-01 18:56:09.719 [company.TG_4145_ClaimOrderForStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-01 18:56:09.964 [company.TG_4145_ClaimOrderForStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-01 18:56:12.973 [company.TG_4145_ClaimOrderForStaffing] [clickJobOrderHomePage] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-03-01 18:56:21.734 [company.TG_4145_ClaimOrderForStaffing] [clickJobOrderHomePage] - All job orders menu present on the staffing hompage clicked successfully and navigates to joborder listing form  .
+[INFO ] 2023-03-01 18:56:23.739 [company.TG_4145_ClaimOrderForStaffing] [verifyJobOrderPage] - Job order form is displayed
+[INFO ] 2023-03-01 18:56:23.855 [company.TG_4145_ClaimOrderForStaffing] [verifyJobOrderPage] - Job orderform is displayed successfully
+[INFO ] 2023-03-01 18:56:23.891 [company.TG_4145_ClaimOrderForStaffing] [verifyHeadCountAvaialblecolumnIsAvailableInJobOrderForm] - Check for column headcount available is present
+[INFO ] 2023-03-01 18:56:23.933 [company.TG_4145_ClaimOrderForStaffing] [verifyHeadCountAvaialblecolumnIsAvailableInJobOrderForm] - Job order form displayed headcount column successfully
+[INFO ] 2023-03-01 18:56:33.961 [company.TG_4145_ClaimOrderForStaffing] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-01 18:56:44.116 [company.TG_4145_ClaimOrderForStaffing] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-01 18:56:46.123 [company.TG_4145_ClaimOrderForStaffing] [VerifyResumeRequiredBoxIsUnchecked] - Checking Resume required Box is Unchecked
+[INFO ] 2023-03-01 18:56:54.736 [company.TG_4145_ClaimOrderForStaffing] [VerifyResumeRequiredBoxIsUnchecked] - Resume required Box is Unchecked successfully
+[INFO ] 2023-03-01 18:56:54.737 [company.TG_4145_ClaimOrderForStaffing] [VerifyClaimOrderVisible] - Checking Claim order Button is Visible
+[INFO ] 2023-03-01 18:56:55.812 [company.TG_4145_ClaimOrderForStaffing] [VerifyClaimOrderVisible] - Claim order Button is displayed successfully
+[INFO ] 2023-03-01 18:56:55.844 [company.TG_4145_ClaimOrderForStaffing] [clickClaimOrderButton] - Clicking on Claim order Button
+[INFO ] 2023-03-01 18:56:55.935 [company.TG_4145_ClaimOrderForStaffing] [clickClaimOrderButton] - Claim order button clicked successfully
+[INFO ] 2023-03-01 18:56:57.942 [company.TG_4145_ClaimOrderForStaffing] [verifyNewClaimOrderPage] - While clicking claim order it should navigate to New order
+[INFO ] 2023-03-01 18:56:58.025 [company.TG_4145_ClaimOrderForStaffing] [verifyNewClaimOrderPage] - While clicking claim order successfully navigates to New order
+[INFO ] 2023-03-01 18:57:00.052 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-01 18:57:07.043 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-01 18:57:07.053 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-01 18:57:07.257 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-01 18:57:07.258 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-03-01 18:57:10.391 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-03-01 18:57:15.446 [company.TG_4145_ClaimOrderForStaffing] [verifyNoOfEmployeesClaimNotAcceptAlphabet] - Check for'No.of.Employees to claim' by entering alphabet
+[INFO ] 2023-03-01 18:57:15.599 [company.TG_4145_ClaimOrderForStaffing] [verifyNoOfEmployeesClaimNotAcceptAlphabet] - Alphabets entered in No. of Employees to Claim successfully
+[INFO ] 2023-03-01 18:57:18.603 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-01 18:57:18.714 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-01 18:57:21.720 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-01 18:57:21.774 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-01 18:57:24.779 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-01 18:57:24.854 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-01 18:57:27.860 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-03-01 18:57:31.088 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-03-01 18:57:34.095 [company.TG_4145_ClaimOrderForStaffing] [verifyNoOfEmployeesClaimNotAcceptSpecialCharacters] - Check for'No.of.Employees to claim' by entering alphabet
+[INFO ] 2023-03-01 18:57:34.304 [company.TG_4145_ClaimOrderForStaffing] [verifyNoOfEmployeesClaimNotAcceptSpecialCharacters] - Special Characters entered in No. of Employees to Claim successfully
+[INFO ] 2023-03-01 18:57:34.305 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-01 18:57:34.404 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-01 18:57:37.412 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-01 18:57:37.556 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-01 18:57:40.562 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-01 18:57:40.628 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-01 18:57:43.638 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-03-01 18:57:46.798 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-03-01 18:57:48.805 [company.TG_4145_ClaimOrderForStaffing] [getRemainingEmployeeValue] - Entering No of Employees greater than Remaining Employees
+[INFO ] 2023-03-01 18:57:48.907 [company.TG_4145_ClaimOrderForStaffing] [getRemainingEmployeeValue] - Entered No of Employees greater than Remaining Employees successfully
+[INFO ] 2023-03-01 18:57:48.907 [company.TG_4145_ClaimOrderForStaffing] [enterNoOfEmployeesClaim] - Entering the No. of Employees Claim
+[INFO ] 2023-03-01 18:57:48.975 [company.TG_4145_ClaimOrderForStaffing] [enterNoOfEmployeesClaim] - No. of Employees Claim entered successfully
+[INFO ] 2023-03-01 18:57:51.982 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-01 18:57:52.111 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-01 18:57:55.121 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-01 18:57:55.178 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-01 18:57:57.184 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-03-01 18:58:00.321 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-03-01 18:58:02.327 [company.TG_4145_ClaimOrderForStaffing] [clearField] - Entering the No. of Employees Claim
+[INFO ] 2023-03-01 18:58:02.440 [company.TG_4145_ClaimOrderForStaffing] [enterNoOfEmployeesClaim] - Entering the No. of Employees Claim
+[INFO ] 2023-03-01 18:58:02.503 [company.TG_4145_ClaimOrderForStaffing] [enterNoOfEmployeesClaim] - No. of Employees Claim entered successfully
+[INFO ] 2023-03-01 18:58:02.539 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-01 18:58:02.617 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-01 18:58:02.618 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-01 18:58:03.193 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-01 18:58:03.193 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-01 18:58:03.225 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-01 18:58:03.225 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-03-01 18:58:06.340 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-03-01 18:58:06.341 [company.TG_4145_ClaimOrderForStaffing] [enterESignature] - Entering the E-Signature
+[INFO ] 2023-03-01 18:58:06.516 [company.TG_4145_ClaimOrderForStaffing] [enterESignature] - E-Signature entered successfully
+[INFO ] 2023-03-01 18:58:06.537 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-01 18:58:06.729 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-01 18:58:06.729 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-01 18:58:07.322 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-01 18:58:07.323 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Check for all mandatory fiels entered
+[INFO ] 2023-03-01 18:58:07.348 [company.TG_4145_ClaimOrderForStaffing] [verifyMandatoryFieldErrorMessage] - Error message displayed successfully
+[INFO ] 2023-03-01 18:58:07.349 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2023-03-01 18:58:10.441 [company.TG_4145_ClaimOrderForStaffing] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2023-03-01 18:58:10.442 [company.TG_4145_ClaimOrderForStaffing] [clickAgreeContract] - Clicking on Agree to Contract Button
+[INFO ] 2023-03-01 18:58:10.800 [company.TG_4145_ClaimOrderForStaffing] [clickAgreeContract] - Agree to Contract Button clicked successfully
+[INFO ] 2023-03-01 18:58:10.819 [company.TG_4145_ClaimOrderForStaffing] [verifySubmitButtonIsVisible] - Check SubmitClaim Button is Visible
+[INFO ] 2023-03-01 18:58:10.861 [company.TG_4145_ClaimOrderForStaffing] [verifySubmitButtonIsVisible] - Submit claim button  is displayed successfully
+[INFO ] 2023-03-01 18:58:10.861 [company.TG_4145_ClaimOrderForStaffing] [verifyCancelButtonIsVisible] - Check cnacel button is visible
+[INFO ] 2023-03-01 18:58:10.901 [company.TG_4145_ClaimOrderForStaffing] [verifyCancelButtonIsVisible] - Cancel claim button displayed successfully
+[INFO ] 2023-03-01 18:58:10.911 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-01 18:58:10.982 [company.TG_4145_ClaimOrderForStaffing] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-01 18:58:10.983 [company.TG_4145_ClaimOrderForStaffing] [verifyEmailSuccessMessage] - Check for submission of Claim Order
+[INFO ] 2023-03-01 18:58:44.547 [company.TG_4145_ClaimOrderForStaffing] [verifyEmailSuccessMessage] - Claim Order Submitted Successfully
+[INFO ] 2023-03-01 18:59:02.094 [company.TG_4145_ClaimOrderForStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-01 18:59:02.275 [company.TG_4145_ClaimOrderForStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-01 18:59:02.276 [company.TG_4145_ClaimOrderForStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-01 18:59:02.352 [company.TG_4145_ClaimOrderForStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-01 18:59:02.352 [company.TG_4145_ClaimOrderForStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-01 18:59:02.469 [company.TG_4145_ClaimOrderForStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-01 18:59:09.490 [company.TG_4145_ClaimOrderForStaffing] [clickOrdersMenuOnHiringHomePage] - Clicking Order menu present on the Hiring homepage
+[INFO ] 2023-03-01 18:59:10.449 [company.TG_4145_ClaimOrderForStaffing] [clickOrdersMenuOnHiringHomePage] - Order menu present on the Hiring hompage clicked successfully.
+[INFO ] 2023-03-01 18:59:27.629 [company.TG_4145_ClaimOrderForStaffing] [clickDeleteJobOrderButton] - Clicking on delete button present on Job Order detials page
+[INFO ] 2023-03-01 18:59:28.787 [company.TG_4145_ClaimOrderForStaffing] [clickDeleteJobOrderButton] - Delete button present on Job Order detials page clicked
+[INFO ] 2023-03-01 18:59:28.982 [company.TG_4145_ClaimOrderForStaffing] [clickAcceptDeleteJobOrderRequestButton] - Clicking on confirm deletion button
+[INFO ] 2023-03-01 18:59:29.027 [company.TG_4145_ClaimOrderForStaffing] [clickAcceptDeleteJobOrderRequestButton] - Confirm deletion button clicked

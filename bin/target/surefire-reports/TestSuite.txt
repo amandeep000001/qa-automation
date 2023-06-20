@@ -1,0 +1,112 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 296, Failures: 36, Errors: 0, Skipped: 260, Time elapsed: 3.82 sec <<< FAILURE! - in TestSuite
+setUp(company.TG_3634_NewCompanyCreationFromStaffing)  Time elapsed: 1.966 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(company.TG_3634_NewCompanyCreationHiring)  Time elapsed: 0.006 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(users.AddNewUserHiring)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(users.AddNewUserStaffing)  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(users.AddNewUserTAG)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(employees.TG_3963_AddNewEmployee)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(jobOrderStaffing.TG_3848_NewOrderStaffing)  Time elapsed: 0.005 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(exclusiveJobOrder.TG_3847_ExclusiveNewOrder)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(exclusiveJobOrder.TG_4476_VerifyExclusiveNewOrder)  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(company.TG_4355_EmployeeOnboarding)  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(company.TG_4418_EmployeeOnboardingTemplate)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(jobOrder.TG_3651_VerifyFieldNewHiringOrder)  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(jobOrder.TG_3847_VerifyFieldNewOrder)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(jobOrder.TG_3854_StartDateTimeField)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(jobOrder.TG_3859_NewOrderHiring)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(jobOrder.TG_3861_OtherFieldHiring)  Time elapsed: 0.01 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(jobOrder.TG_3864_SaveOrder)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(company.TG_4145_ClaimOrderForStaffing)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(company.TG_4325_ApproveClaimFromHiring)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(company.TG_4419_AssignEmployeeFromStaffing)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(timesheets.TG_4290_TimesheetCreation)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(timesheets.TG_4301_Timesheet_Approval)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(company.TG_4463_InvCreationStaffing)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(favoriteCompany.TG_4778_FavoriteStaffingCompany)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(blockCompany.TG_4779_Block_Company)  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(jobTitle_jobSite.TG_4862_JobTitleCreation)  Time elapsed: 0.009 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(timesheets.TG_4423_TimesheetDeny)  Time elapsed: 0.005 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(CRM.TG_5353_Contact_Creation)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(CRM.TG_5352_Lead_Creation)  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(CRM.TG_5489_Hiring_Company_Creation_Via_TAG)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(CRM.TG_5558_Staffing_Company_Creation_Via_TAG)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(CRM.TG_5748_Exclusive_Hiring_Company_Creation_Via_Staffing)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(directOrder.TG_5803_DirectOrderDeny)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(directOrder.TG_5802_DirectOrderPartialClaim)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(jobTitle_jobSite.TG_4863_JobSiteCreation)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+
+setUp(directOrder.TG_5801_DirectOrderFullClaim)  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.IllegalStateException: The path to the driver executable The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://chromedriver.chromium.org/. The latest version can be downloaded from https://chromedriver.chromium.org/downloads
+

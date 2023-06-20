@@ -1,0 +1,71 @@
+[INFO ] 2023-02-06 22:30:29.051 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Logging in
+[INFO ] 2023-02-06 22:30:32.658 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Entering Username
+[INFO ] 2023-02-06 22:30:32.659 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterUsername] - Entering new user's first name
+[INFO ] 2023-02-06 22:30:34.557 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-02-06 22:30:34.559 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Username Entered Successfully
+[INFO ] 2023-02-06 22:30:34.559 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Entering Password
+[INFO ] 2023-02-06 22:30:34.559 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterPassword] - Entering new user's last name
+[INFO ] 2023-02-06 22:30:35.500 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-02-06 22:30:35.613 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Password Entered Successfully
+[INFO ] 2023-02-06 22:30:35.614 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Clicking on Login Button
+[INFO ] 2023-02-06 22:30:35.614 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-02-06 22:30:36.233 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-02-06 22:30:36.242 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Verifying CRM Icon
+[INFO ] 2023-02-06 22:30:36.242 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyCRMTextOnStaffingHomepage] - Check for CRM Icon on Homepage
+[INFO ] 2023-02-06 22:30:46.162 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyCRMTextOnStaffingHomepage] - CRM Icon displayed successfully
+[INFO ] 2023-02-06 22:30:46.175 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - CRM Icon Verified successfully
+[INFO ] 2023-02-06 22:30:46.175 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Clicking on CRM Icon
+[INFO ] 2023-02-06 22:30:46.175 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickCRMIcoOnHomepage] - Clicking on CRM Button
+[INFO ] 2023-02-06 22:30:53.159 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickCRMIcoOnHomepage] - CRM Button clicked successfully
+[INFO ] 2023-02-06 22:30:53.161 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - CRM Icon Clicked Successfully
+[INFO ] 2023-02-06 22:30:55.166 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Clicking on Lead Icon
+[INFO ] 2023-02-06 22:30:55.167 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickLeadIcon] - Clicking on Lead Button
+[INFO ] 2023-02-06 22:30:58.781 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickLeadIcon] - Lead Button clicked successfully
+[INFO ] 2023-02-06 22:30:58.784 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Lead Icon Clicked Successfully
+[INFO ] 2023-02-06 22:31:00.789 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Verify Listing Form
+[INFO ] 2023-02-06 22:31:00.791 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyLeadListingForm] - Check for Lead Title
+[INFO ] 2023-02-06 22:31:00.948 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyLeadListingForm] - Lead Title displayed successfully
+[INFO ] 2023-02-06 22:31:00.949 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Listing Form verified successfully
+[INFO ] 2023-02-06 22:31:02.951 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Clicking on Add Lead Button
+[INFO ] 2023-02-06 22:31:02.952 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickAddLeadButton] - Clicking on Lead Button
+[INFO ] 2023-02-06 22:31:04.444 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickAddLeadButton] - Add Lead Button clicked successfully
+[INFO ] 2023-02-06 22:31:04.449 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Add Lead Button Clicked Successfully
+[INFO ] 2023-02-06 22:31:06.456 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Verifying the Lead Form Title
+[INFO ] 2023-02-06 22:31:06.457 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyLeadForm] - Check for New Lead Form
+[INFO ] 2023-02-06 22:31:06.615 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyLeadForm] - New Lead Form displayed successfully
+[INFO ] 2023-02-06 22:31:06.615 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Lead Form Title is Verified Successfully
+[INFO ] 2023-02-06 22:31:06.937 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Verifying Mandatory Fields
+[INFO ] 2023-02-06 22:31:06.937 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickSaveButton] - Clicking on Save Button
+[INFO ] 2023-02-06 22:31:07.975 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickSaveButton] - Save Button clicked successfully
+[INFO ] 2023-02-06 22:31:09.984 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyMandatoryFieldIsBlank] - Verifying the Mandatory Field Pop-Up Title
+[INFO ] 2023-02-06 22:31:10.073 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyMandatoryFieldIsBlank] - Mandatory Field Pop-Up Title displayed Successfully
+[INFO ] 2023-02-06 22:31:12.079 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Closing the Pop-up
+[INFO ] 2023-02-06 22:31:12.079 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [closeBlankMandatoryFieldDialogBox] - Clicking on Close Pop-Up Icon
+[INFO ] 2023-02-06 22:31:12.508 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [closeBlankMandatoryFieldDialogBox] - Close Pop-Up Icon Clicked Successfully
+[INFO ] 2023-02-06 22:31:12.509 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Pop-up closed Successfully
+[INFO ] 2023-02-06 22:31:14.514 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Entering First Name
+[INFO ] 2023-02-06 22:31:14.515 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterFirstName] - Entering First Name
+[INFO ] 2023-02-06 22:31:15.068 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterFirstName] - First Name Entered Successfully
+[INFO ] 2023-02-06 22:31:15.068 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - First Name Entered Successfully
+[INFO ] 2023-02-06 22:31:15.068 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Entering Last Name
+[INFO ] 2023-02-06 22:31:15.070 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterLastName] - Entering Last Name
+[INFO ] 2023-02-06 22:31:15.232 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterLastName] - Last Name Entered Successfully
+[INFO ] 2023-02-06 22:31:15.235 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Last Name Entered Successfully
+[INFO ] 2023-02-06 22:31:15.235 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Entering Company Type
+[INFO ] 2023-02-06 22:31:15.235 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterCompanyType] - Entering Lead
+[INFO ] 2023-02-06 22:31:15.441 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterCompanyType] - Lead Entered Successfully
+[INFO ] 2023-02-06 22:31:15.441 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Company Type Entered Successfully
+[INFO ] 2023-02-06 22:31:15.441 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Entering Company Name
+[INFO ] 2023-02-06 22:31:15.442 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterCompanyName] - Entering Company Name
+[INFO ] 2023-02-06 22:31:15.615 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterCompanyName] - Company Name Entered Successfully
+[INFO ] 2023-02-06 22:31:15.616 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Company Name Entered Successfully
+[INFO ] 2023-02-06 22:31:15.616 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Entering Email
+[INFO ] 2023-02-06 22:31:15.616 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterEmail] - Entering Email
+[INFO ] 2023-02-06 22:31:15.859 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterEmail] - Email Entered Successfully
+[INFO ] 2023-02-06 22:31:15.860 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Email Entered Successfully
+[INFO ] 2023-02-06 22:31:17.865 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Entering Phone Number
+[INFO ] 2023-02-06 22:31:17.868 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterPhoneNumber] - Entering Phone Number
+[INFO ] 2023-02-06 22:31:17.989 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterPhoneNumber] - Phone Number Entered Successfully
+[INFO ] 2023-02-06 22:31:17.989 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Phone Number Entered Successfully
+[INFO ] 2023-02-06 22:31:17.989 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5466_VerifyLeadCreatedSuccessfully] - Selecting the Search on Maps Checkbox
+[INFO ] 2023-02-06 22:31:17.990 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [selectSearchOnMapsCheckbox] - Selecting search on Maps checkbox

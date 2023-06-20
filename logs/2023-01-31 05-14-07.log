@@ -1,0 +1,42 @@
+[INFO ] 2023-01-31 17:14:08.208 [directOrder.DirectOrderDeny] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Started==Verifying Confirm Job Order Details
+[INFO ] 2023-01-31 17:14:12.031 [directOrder.DirectOrderDeny] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-31 17:14:14.620 [directOrder.DirectOrderDeny] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-31 17:14:14.622 [directOrder.DirectOrderDeny] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-31 17:14:15.127 [directOrder.DirectOrderDeny] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-31 17:14:15.128 [directOrder.DirectOrderDeny] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-31 17:14:25.218 [directOrder.DirectOrderDeny] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-31 17:14:25.228 [directOrder.DirectOrderDeny] [clickStaffingCompanies] - Clicking on Staffing Companies Button
+[INFO ] 2023-01-31 17:14:31.299 [directOrder.DirectOrderDeny] [clickStaffingCompanies] - Staffing Companies Button clicked successfully
+[INFO ] 2023-01-31 17:14:31.302 [directOrder.DirectOrderDeny] [verifyStaffingCompanyList] - Verify Staffing Company List is displayed
+[INFO ] 2023-01-31 17:14:31.866 [directOrder.DirectOrderDeny] [verifyStaffingCompanyList] - Staffing Company List displayed successfully
+[INFO ] 2023-01-31 17:14:36.874 [directOrder.DirectOrderDeny] [clickStaffingCompany] - Clicking on Staffing Company
+[INFO ] 2023-01-31 17:14:38.671 [directOrder.DirectOrderDeny] [clickStaffingCompany] - Staffing Company clicked successfully
+[INFO ] 2023-01-31 17:14:41.679 [directOrder.DirectOrderDeny] [clickPlaceOrderButton] - Clicking on Staffing Company
+[INFO ] 2023-01-31 17:14:41.893 [directOrder.DirectOrderDeny] [clickPlaceOrderButton] - Staffing Company clicked successfully
+[INFO ] 2023-01-31 17:14:41.975 [directOrder.DirectOrderDeny] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2023-01-31 17:14:41.975 [directOrder.DirectOrderDeny] [newOrderHiring] - Clicking on New Order Button
+[INFO ] 2023-01-31 17:14:49.599 [directOrder.DirectOrderDeny] [newOrderHiring] - New Order Button clicked successfully
+[INFO ] 2023-01-31 17:14:49.600 [directOrder.DirectOrderDeny] [newOrderHiring] - Entering EstDailyHours
+[INFO ] 2023-01-31 17:14:56.995 [directOrder.DirectOrderDeny] [newOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2023-01-31 17:14:56.997 [directOrder.DirectOrderDeny] [newOrderHiring] - Entering StartDate
+[INFO ] 2023-01-31 17:15:02.540 [directOrder.DirectOrderDeny] [newOrderHiring] - StartDate entered successfully
+[INFO ] 2023-01-31 17:15:02.544 [directOrder.DirectOrderDeny] [newOrderHiring] - Entering EndDate
+[INFO ] 2023-01-31 17:15:13.994 [directOrder.DirectOrderDeny] [newOrderHiring] - EndDate entered successfully
+[INFO ] 2023-01-31 17:15:14.000 [directOrder.DirectOrderDeny] [newOrderHiring] - Entering StartTime
+[INFO ] 2023-01-31 17:15:15.021 [directOrder.DirectOrderDeny] [newOrderHiring] - StartTime entered successfully
+[INFO ] 2023-01-31 17:15:15.024 [directOrder.DirectOrderDeny] [newOrderHiring] - Entering Availability
+[INFO ] 2023-01-31 17:15:15.367 [directOrder.DirectOrderDeny] [newOrderHiring] - Availabilit entered successfully
+[INFO ] 2023-01-31 17:15:15.368 [directOrder.DirectOrderDeny] [newOrderHiring] - Entering JobSite
+[INFO ] 2023-01-31 17:15:21.661 [directOrder.DirectOrderDeny] [newOrderHiring] - JobSite entered successfully
+[INFO ] 2023-01-31 17:15:21.662 [directOrder.DirectOrderDeny] [newOrderHiring] - Entering JobTitle
+[INFO ] 2023-01-31 17:15:30.908 [directOrder.DirectOrderDeny] [newOrderHiring] - JobTitle entered successfully
+[INFO ] 2023-01-31 17:15:30.912 [directOrder.DirectOrderDeny] [newOrderHiring] - Entering No Of Workers
+[INFO ] 2023-01-31 17:15:36.183 [directOrder.DirectOrderDeny] [newOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2023-01-31 17:15:36.184 [directOrder.DirectOrderDeny] [newOrderHiring] - Entering ESignature
+[INFO ] 2023-01-31 17:15:39.359 [directOrder.DirectOrderDeny] [newOrderHiring] - ESignature entered successfully
+[INFO ] 2023-01-31 17:15:39.360 [directOrder.DirectOrderDeny] [newOrderHiring] - clickAgreeContract
+[INFO ] 2023-01-31 17:15:39.546 [directOrder.DirectOrderDeny] [newOrderHiring] - clickAgreeContract successfully
+[INFO ] 2023-01-31 17:15:39.546 [directOrder.DirectOrderDeny] [newOrderHiring] - clickSaveButton
+[INFO ] 2023-01-31 17:15:39.743 [directOrder.DirectOrderDeny] [newOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2023-01-31 17:15:48.095 [directOrder.DirectOrderDeny] [newOrderHiring] - Job order link present on the home page clicked
+[INFO ] 2023-01-31 17:15:56.353 [directOrder.DirectOrderDeny] [newOrderHiring] - Verify Job Order Id and Email Successfully

@@ -1,0 +1,29 @@
+[INFO ] 2023-01-10 00:23:15.241 [jobOrder.TG_3859_NewOrderHiring] [Tag_VerifyNewOrderbuttonOnHomepage] - Started==Verifying New Order button On Homepage
+[INFO ] 2023-01-10 00:23:17.986 [jobOrder.TG_3859_NewOrderHiring] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-10 00:23:18.731 [jobOrder.TG_3859_NewOrderHiring] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-10 00:23:18.731 [jobOrder.TG_3859_NewOrderHiring] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-10 00:23:18.886 [jobOrder.TG_3859_NewOrderHiring] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-10 00:23:18.887 [jobOrder.TG_3859_NewOrderHiring] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-10 00:23:19.276 [jobOrder.TG_3859_NewOrderHiring] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-10 00:23:19.281 [jobOrder.TG_3859_NewOrderHiring] [newOrder] - Clicking on New Order Button
+[INFO ] 2023-01-10 00:23:26.442 [jobOrder.TG_3859_NewOrderHiring] [newOrder] - New Order Button clicked successfully
+[INFO ] 2023-01-10 00:23:28.451 [jobOrder.TG_3859_NewOrderHiring] [verifynewOrderbutton] - Verify New Order button On Homepage
+[INFO ] 2023-01-10 00:23:28.582 [jobOrder.TG_3859_NewOrderHiring] [verifynewOrderbutton] - Verify New Order button On Homepage successfully
+[INFO ] 2023-01-10 00:23:31.678 [jobOrder.TG_3859_NewOrderHiring] [Tag_VerifyEstimatedDailyHoursfieldVisible] - Started==Verifying Estimated Daily Hours Field Visible
+[INFO ] 2023-01-10 00:23:31.679 [jobOrder.TG_3859_NewOrderHiring] [newOrder] - Clicking on New Order Button
+[INFO ] 2023-01-10 00:23:32.025 [jobOrder.TG_3859_NewOrderHiring] [newOrder] - New Order Button clicked successfully
+[INFO ] 2023-01-10 00:23:34.033 [jobOrder.TG_3859_NewOrderHiring] [verifyEstimatedDailyHoursFieldVisible] - verify Estimated Daily Hours Field Visible
+[INFO ] 2023-01-10 00:23:34.130 [jobOrder.TG_3859_NewOrderHiring] [verifyEstimatedDailyHoursFieldVisible] - verify Estimated Daily Hours Field Visible
+[INFO ] 2023-01-10 00:23:37.179 [jobOrder.TG_3859_NewOrderHiring] [Tag_VerifyCategoryFieldVisibleAndJobTitleFieldVisible] - Started==Verify Category Field and Job Title Field Visible 
+[INFO ] 2023-01-10 00:23:40.186 [jobOrder.TG_3859_NewOrderHiring] [verifyCategoryFieldVisibleAndJobTitleFieldVisible] - Verifying Category Field and Job Title Field
+[INFO ] 2023-01-10 00:23:41.971 [jobOrder.TG_3859_NewOrderHiring] [verifyCategoryFieldVisibleAndJobTitleFieldVisible] - Verifying Job Title Field
+[INFO ] 2023-01-10 00:23:43.253 [jobOrder.TG_3859_NewOrderHiring] [verifyCategoryFieldVisibleAndJobTitleFieldVisible] - Verifying Category Field
+[INFO ] 2023-01-10 00:23:43.921 [jobOrder.TG_3859_NewOrderHiring] [verifyCategoryFieldVisibleAndJobTitleFieldVisible] - Verifyied Category Field and Job Title
+[INFO ] 2023-01-10 00:23:46.976 [jobOrder.TG_3859_NewOrderHiring] [Tag_VerifyCompanyFieldVisible] - Started==Verify Company Field Visible
+[INFO ] 2023-01-10 00:23:46.977 [jobOrder.TG_3859_NewOrderHiring] [verifyCompanyFieldVisible] - Verify Company Field
+[INFO ] 2023-01-10 00:23:47.126 [jobOrder.TG_3859_NewOrderHiring] [verifyCompanyFieldVisible] - Verifyied Company Field
+[INFO ] 2023-01-10 00:23:50.188 [jobOrder.TG_3859_NewOrderHiring] [Tag_VerifyEstimatedDailyHoursFieldNotAcceptHoursMoreThan24] - Started==Verifying Estimated Daily Hours Field should Not Accept Hours More Than 24
+[INFO ] 2023-01-10 00:23:50.190 [jobOrder.TG_3859_NewOrderHiring] [enterEstDailyHours] - Entering the Estimated Daily Hours
+[INFO ] 2023-01-10 00:23:50.324 [jobOrder.TG_3859_NewOrderHiring] [enterEstDailyHours] - Estimated Daily Hours entered successfully
+[INFO ] 2023-01-10 00:23:52.333 [jobOrder.TG_3859_NewOrderHiring] [verifyEstimatedDailyHoursFieldNotAcceptHoursMoreThan24] - Entering the Estimated Daily Hours More Than 24 
+[INFO ] 2023-01-10 00:23:52.756 [jobOrder.TG_3859_NewOrderHiring] [verifyEstimatedDailyHoursFieldNotAcceptHoursMoreThan24] - verifyed Estimated Daily Hours Field Not Accept Hours More Than 24

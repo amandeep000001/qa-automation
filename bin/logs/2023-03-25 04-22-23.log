@@ -1,0 +1,259 @@
+[INFO ] 2023-03-25 16:22:31.831 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2023-03-25 16:22:34.738 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-25 16:22:36.831 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-25 16:22:36.832 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-25 16:22:37.081 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-25 16:22:37.082 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-25 16:22:37.587 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-25 16:22:37.590 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Clicking on New Order Button
+[INFO ] 2023-03-25 16:22:51.355 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - New Order Button clicked successfully
+[INFO ] 2023-03-25 16:22:51.358 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering EstDailyHours
+[INFO ] 2023-03-25 16:23:00.520 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2023-03-25 16:23:00.522 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering StartDate
+[INFO ] 2023-03-25 16:23:06.355 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - StartDate entered successfully
+[INFO ] 2023-03-25 16:23:06.358 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering EndDate
+[INFO ] 2023-03-25 16:23:17.691 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - EndDate entered successfully
+[INFO ] 2023-03-25 16:23:17.694 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering StartTime
+[INFO ] 2023-03-25 16:23:18.810 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - StartTime entered successfully
+[INFO ] 2023-03-25 16:23:18.811 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering Availability
+[INFO ] 2023-03-25 16:23:19.080 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Availabilit entered successfully
+[INFO ] 2023-03-25 16:23:19.080 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering JobSite
+[INFO ] 2023-03-25 16:23:25.293 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - JobSite entered successfully
+[INFO ] 2023-03-25 16:23:25.294 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering JobTitle
+[INFO ] 2023-03-25 16:23:34.328 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - JobTitle entered successfully
+[INFO ] 2023-03-25 16:23:34.330 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering No Of Workers
+[INFO ] 2023-03-25 16:23:39.487 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2023-03-25 16:23:39.487 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Entering ESignature
+[INFO ] 2023-03-25 16:23:42.686 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - ESignature entered successfully
+[INFO ] 2023-03-25 16:23:42.687 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - clickAgreeContract
+[INFO ] 2023-03-25 16:23:42.875 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - clickAgreeContract successfully
+[INFO ] 2023-03-25 16:23:42.875 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - clickSaveButton
+[INFO ] 2023-03-25 16:23:43.240 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2023-03-25 16:23:51.775 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Job order link present on the home page clicked
+[INFO ] 2023-03-25 16:24:00.005 [timesheets.TG_4301_Timesheet_Approval] [newOrderHiring] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-03-25 16:24:11.398 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow CreateEmployeeFromStaffing
+[INFO ] 2023-03-25 16:24:24.201 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-25 16:24:24.348 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-25 16:24:24.349 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-25 16:24:24.568 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-25 16:24:24.568 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-25 16:24:24.677 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-25 16:24:54.605 [timesheets.TG_4301_Timesheet_Approval] [clickAddNewEployeeButton] - Clicking on Add New Employee Button
+[INFO ] 2023-03-25 16:24:55.526 [timesheets.TG_4301_Timesheet_Approval] [clickAddNewEployeeButton] - Employee button clicked successfully
+[INFO ] 2023-03-25 16:25:00.538 [timesheets.TG_4301_Timesheet_Approval] [enterCompanyName] - Entering Company Name
+[INFO ] 2023-03-25 16:25:00.750 [timesheets.TG_4301_Timesheet_Approval] [enterCompanyName] - Company Name entered successfully
+[INFO ] 2023-03-25 16:25:02.756 [timesheets.TG_4301_Timesheet_Approval] [enterFirstName] - Entering First Name
+[INFO ] 2023-03-25 16:25:02.887 [timesheets.TG_4301_Timesheet_Approval] [enterFirstName] - First Name entered successfully
+[INFO ] 2023-03-25 16:25:04.897 [timesheets.TG_4301_Timesheet_Approval] [enterLastName] - Entering Last Name
+[INFO ] 2023-03-25 16:25:05.030 [timesheets.TG_4301_Timesheet_Approval] [enterLastName] - Last Name entered successfully
+[INFO ] 2023-03-25 16:25:07.037 [timesheets.TG_4301_Timesheet_Approval] [enterDateOfBirthField] - Entering date of birth
+[INFO ] 2023-03-25 16:25:08.297 [timesheets.TG_4301_Timesheet_Approval] [enterDateOfBirthField] - Date of birth entered successfully
+[INFO ] 2023-03-25 16:25:10.304 [timesheets.TG_4301_Timesheet_Approval] [enterEmail] - Entering email
+[INFO ] 2023-03-25 16:25:10.764 [timesheets.TG_4301_Timesheet_Approval] [enterEmail] - Email entered successfully
+[INFO ] 2023-03-25 16:25:12.770 [timesheets.TG_4301_Timesheet_Approval] [selectAddressTab] - Clicking Address Tab
+[INFO ] 2023-03-25 16:25:14.934 [timesheets.TG_4301_Timesheet_Approval] [selectAddressTab] - Address Tab clicked successfully
+[INFO ] 2023-03-25 16:25:16.945 [timesheets.TG_4301_Timesheet_Approval] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2023-03-25 16:25:18.222 [timesheets.TG_4301_Timesheet_Approval] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2023-03-25 16:25:20.230 [timesheets.TG_4301_Timesheet_Approval] [clickSaveButton] - Clicking Save button
+[INFO ] 2023-03-25 16:25:20.437 [timesheets.TG_4301_Timesheet_Approval] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-03-25 16:26:00.447 [timesheets.TG_4301_Timesheet_Approval] [getEmployeeNameFromEmaployeeDetailsPage] - Fetching employee Name
+[INFO ] 2023-03-25 16:26:00.551 [timesheets.TG_4301_Timesheet_Approval] [getEmployeeNameFromEmaployeeDetailsPage] - Employee Name fetched successfully
+[INFO ] 2023-03-25 16:26:00.689 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow ClaimFromStaffing
+[INFO ] 2023-03-25 16:26:00.690 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-03-25 16:26:16.507 [timesheets.TG_4301_Timesheet_Approval] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-25 16:26:26.785 [timesheets.TG_4301_Timesheet_Approval] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-25 16:26:26.786 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Clicking on Claim order Button
+[INFO ] 2023-03-25 16:26:38.858 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Claim order button clicked successfully
+[INFO ] 2023-03-25 16:26:38.858 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Entering the No. of Employees Claim
+[INFO ] 2023-03-25 16:26:44.115 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - No. of Employees Claim entered successfully
+[INFO ] 2023-03-25 16:26:49.128 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Entering the E-Signature
+[INFO ] 2023-03-25 16:26:51.359 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - E-Signature entered successfully
+[INFO ] 2023-03-25 16:26:51.361 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Clicking on Agree to Contract Button
+[INFO ] 2023-03-25 16:26:53.513 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Agree to Contract Button clicked successfully
+[INFO ] 2023-03-25 16:26:53.514 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Clicking on Submit Claim Button
+[INFO ] 2023-03-25 16:27:00.728 [timesheets.TG_4301_Timesheet_Approval] [ClaimOrderForStaffing] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-25 16:27:33.523 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow ApproveHiring
+[INFO ] 2023-03-25 16:27:44.206 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-25 16:27:44.536 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-25 16:27:44.537 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-25 16:27:44.630 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-25 16:27:44.632 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-25 16:27:44.709 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-25 16:27:44.710 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-25 16:27:53.570 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-25 16:27:53.571 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-25 16:28:07.744 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form 
+[INFO ] 2023-03-25 16:28:10.868 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form successfully
+[INFO ] 2023-03-25 16:28:10.869 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicking the select head count button on the claim order form
+[INFO ] 2023-03-25 16:28:11.773 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicked the select head count button on the claim order form successfully
+[INFO ] 2023-03-25 16:28:11.774 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Entering Approve count should not be greater than Workerscount
+[INFO ] 2023-03-25 16:28:18.024 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Approve count is not more than the workers count
+[INFO ] 2023-03-25 16:28:18.026 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Clicking on modal submit Button
+[INFO ] 2023-03-25 16:28:23.158 [timesheets.TG_4301_Timesheet_Approval] [ApproveClaimFromHiring] - Modal submit button clicked successfully
+[INFO ] 2023-03-25 16:28:36.835 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow AssignEmployee
+[INFO ] 2023-03-25 16:28:47.522 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-25 16:28:47.675 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-25 16:28:47.675 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-25 16:28:47.921 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-25 16:28:47.922 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-25 16:28:47.997 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-25 16:28:47.997 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-25 16:29:00.484 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-25 16:29:00.486 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-25 16:29:04.651 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - All orders menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-25 16:29:11.693 [timesheets.TG_4301_Timesheet_Approval] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-25 16:29:21.892 [timesheets.TG_4301_Timesheet_Approval] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-25 16:29:21.894 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking Assign employees under the related section
+[INFO ] 2023-03-25 16:29:30.497 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicked assign employees on job order form successfully
+[INFO ] 2023-03-25 16:29:30.500 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Entering Distance radius in new Assign Employee form 
+[INFO ] 2023-03-25 16:29:30.692 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Distance radius in new Assign Employee form entered successfully
+[INFO ] 2023-03-25 16:29:30.693 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking CheckBox ShowAllEmployees
+[INFO ] 2023-03-25 16:29:32.954 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] -  ShowAllEmployees CheckBox clicked successfully
+[INFO ] 2023-03-25 16:29:32.956 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking AddRow in new Assign Employee form 
+[INFO ] 2023-03-25 16:29:40.253 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - AddRow button in new Assign Employee form clicked successfully
+[INFO ] 2023-03-25 16:29:40.254 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking edit button on the form under the EmployeeDetails
+[INFO ] 2023-03-25 16:29:40.454 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicked edit button on the form under the EmployeeDetails successfully
+[INFO ] 2023-03-25 16:29:40.761 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - employeeId in new Assign Employee form entered successfully
+[INFO ] 2023-03-25 16:29:40.762 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking Searched Employee
+[INFO ] 2023-03-25 16:29:45.773 [timesheets.TG_4301_Timesheet_Approval] [clickSearchedEmployee] - Clicking Searched Employee
+[INFO ] 2023-03-25 16:29:45.947 [timesheets.TG_4301_Timesheet_Approval] [clickSearchedEmployee] - Searched Employee clicked Successfully
+[INFO ] 2023-03-25 16:29:45.947 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Searched Employee Clicked Successfully
+[INFO ] 2023-03-25 16:29:45.947 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking Dropdown arrow in the modal
+[INFO ] 2023-03-25 16:29:46.095 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicked Dropdown arrow in the modal successfully
+[INFO ] 2023-03-25 16:29:48.103 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - Clicking save new Assign Employee form
+[INFO ] 2023-03-25 16:29:52.245 [timesheets.TG_4301_Timesheet_Approval] [AssignEmployee] - save button in new Assign Employee form clicked successfully
+[INFO ] 2023-03-25 16:31:38.772 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow TimesheetCreation
+[INFO ] 2023-03-25 16:31:46.415 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-25 16:31:46.549 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-25 16:31:46.549 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-25 16:31:46.651 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-25 16:31:46.652 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-25 16:31:46.765 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-25 16:31:51.778 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Clicking on order Button
+[INFO ] 2023-03-25 16:31:54.567 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] -  Order Button clicked successfully
+[INFO ] 2023-03-25 16:32:10.877 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] -  Clicking On Timesheet Button
+[INFO ] 2023-03-25 16:32:13.987 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Clicked On Timesheet Button successfully
+[INFO ] 2023-03-25 16:32:13.989 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Clicking on addEditButton 
+[INFO ] 2023-03-25 16:32:16.138 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - AddEditButton Clicked Successfully 
+[INFO ] 2023-03-25 16:32:16.139 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Entering current date in Timesheet
+[INFO ] 2023-03-25 16:32:29.002 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Entered current date in Timesheet successfully
+[INFO ] 2023-03-25 16:32:29.009 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Verify Start Time 
+[INFO ] 2023-03-25 16:32:36.374 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Verify Start Time Field successfully
+[INFO ] 2023-03-25 16:32:36.381 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Verify End Time 
+[INFO ] 2023-03-25 16:32:44.028 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Verify End Time Field successfully
+[INFO ] 2023-03-25 16:32:44.028 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] - Submitting Timesheet 
+[INFO ] 2023-03-25 16:33:05.143 [timesheets.TG_4301_Timesheet_Approval] [createTimesheetHiring] -  Timesheet Submit successfully
+[INFO ] 2023-03-25 16:33:11.536 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Verifying Timesheet Available For Approval Popup
+[INFO ] 2023-03-25 16:33:19.244 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-25 16:33:19.378 [timesheets.TG_4301_Timesheet_Approval] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-25 16:33:19.379 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-25 16:33:19.467 [timesheets.TG_4301_Timesheet_Approval] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-25 16:33:19.468 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-25 16:33:19.645 [timesheets.TG_4301_Timesheet_Approval] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-25 16:33:22.648 [timesheets.TG_4301_Timesheet_Approval] [clickOrder] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-25 16:33:30.382 [timesheets.TG_4301_Timesheet_Approval] [clickOrder] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-25 16:33:33.387 [timesheets.TG_4301_Timesheet_Approval] [selectAllOption] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-25 16:33:40.447 [timesheets.TG_4301_Timesheet_Approval] [selectAllOption] - All orders menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-25 16:33:43.459 [timesheets.TG_4301_Timesheet_Approval] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-25 16:33:53.689 [timesheets.TG_4301_Timesheet_Approval] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-25 16:33:56.697 [timesheets.TG_4301_Timesheet_Approval] [ClickingOnTimesheet] -  Clicking On Timesheet
+[INFO ] 2023-03-25 16:34:03.324 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Verifying User Should Navigated To Timesheet Approval Form
+[INFO ] 2023-03-25 16:34:03.330 [timesheets.TG_4301_Timesheet_Approval] [timesheetTitleDisplay] - Verify Timesheet Title
+[INFO ] 2023-03-25 16:34:03.445 [timesheets.TG_4301_Timesheet_Approval] [timesheetTitleDisplay] - Timesheet Title verified
+[INFO ] 2023-03-25 16:34:03.458 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Verifying User Should Get Popup If Try To approve From Actions Button
+[INFO ] 2023-03-25 16:34:03.458 [timesheets.TG_4301_Timesheet_Approval] [clickApprovalRequestGrid] - Clicking on Approval Grid
+[INFO ] 2023-03-25 16:34:03.546 [timesheets.TG_4301_Timesheet_Approval] [clickApprovalRequestGrid] - Timesheet Approval Grid Clicked Successfully
+[INFO ] 2023-03-25 16:34:03.547 [timesheets.TG_4301_Timesheet_Approval] [clickCheckBox] - Clicking on checkbox
+[INFO ] 2023-03-25 16:34:07.232 [timesheets.TG_4301_Timesheet_Approval] [clickCheckBox] - checkbox Clicked Successfully
+[INFO ] 2023-03-25 16:34:07.233 [timesheets.TG_4301_Timesheet_Approval] [verifyEmployeeDetails] - Verify Employee Details
+[INFO ] 2023-03-25 16:34:07.350 [timesheets.TG_4301_Timesheet_Approval] [verifyEmployeeDetails] - Employee Details verified
+[INFO ] 2023-03-25 16:34:07.351 [timesheets.TG_4301_Timesheet_Approval] [Tag_EndToEndFlowNewOrderHiring] - Started==Verifying User Should Get Popup If Try To approve From Actions Button
+[INFO ] 2023-03-25 16:34:07.351 [timesheets.TG_4301_Timesheet_Approval] [clickActionsButton] - Clicking on Action Button
+[INFO ] 2023-03-25 16:34:07.719 [timesheets.TG_4301_Timesheet_Approval] [clickActionsButton] - Action Button Clicked Successfully
+[INFO ] 2023-03-25 16:34:10.723 [timesheets.TG_4301_Timesheet_Approval] [clickApproveButton] - Clicking on approve Button
+[DEBUG] 2023-03-25 16:34:41.770 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:41.778 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.780 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.782 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[DEBUG] 2023-03-25 16:34:41.782 [freemarker.cache] [debug] - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+[DEBUG] 2023-03-25 16:34:41.824 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:41.825 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.826 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.827 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[DEBUG] 2023-03-25 16:34:41.827 [freemarker.cache] [debug] - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+[DEBUG] 2023-03-25 16:34:41.932 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:41.933 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.933 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.934 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[DEBUG] 2023-03-25 16:34:41.934 [freemarker.cache] [debug] - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+[DEBUG] 2023-03-25 16:34:41.942 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:41.944 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.944 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.946 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[DEBUG] 2023-03-25 16:34:41.946 [freemarker.cache] [debug] - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+[DEBUG] 2023-03-25 16:34:41.947 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:41.948 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.948 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.948 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[DEBUG] 2023-03-25 16:34:41.949 [freemarker.cache] [debug] - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+[DEBUG] 2023-03-25 16:34:41.957 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:41.957 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.957 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.957 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[DEBUG] 2023-03-25 16:34:41.958 [freemarker.cache] [debug] - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+[DEBUG] 2023-03-25 16:34:41.962 [freemarker.cache] [debug] - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2023-03-25 16:34:41.963 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:41.963 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.963 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.963 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+[DEBUG] 2023-03-25 16:34:41.963 [freemarker.cache] [debug] - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+[DEBUG] 2023-03-25 16:34:41.978 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:41.979 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.979 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.979 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[DEBUG] 2023-03-25 16:34:41.979 [freemarker.cache] [debug] - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+[DEBUG] 2023-03-25 16:34:41.984 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:41.984 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.985 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.985 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[DEBUG] 2023-03-25 16:34:41.985 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+[DEBUG] 2023-03-25 16:34:41.985 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:41.986 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.986 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.986 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[DEBUG] 2023-03-25 16:34:41.986 [freemarker.cache] [debug] - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+[DEBUG] 2023-03-25 16:34:41.990 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:41.991 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.991 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:41.991 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[DEBUG] 2023-03-25 16:34:41.991 [freemarker.cache] [debug] - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+[DEBUG] 2023-03-25 16:34:42.006 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:42.008 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:42.008 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:42.008 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[DEBUG] 2023-03-25 16:34:42.009 [freemarker.cache] [debug] - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+[DEBUG] 2023-03-25 16:34:42.089 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:42.090 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:42.090 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:42.090 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+[DEBUG] 2023-03-25 16:34:42.090 [freemarker.cache] [debug] - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+[DEBUG] 2023-03-25 16:34:42.096 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:42.096 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:42.096 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:42.096 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[DEBUG] 2023-03-25 16:34:42.096 [freemarker.cache] [debug] - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+[DEBUG] 2023-03-25 16:34:42.111 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:42.113 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:42.113 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:42.114 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[DEBUG] 2023-03-25 16:34:42.114 [freemarker.cache] [debug] - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+[DEBUG] 2023-03-25 16:34:42.131 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:42.132 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:42.132 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:42.132 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[DEBUG] 2023-03-25 16:34:42.132 [freemarker.cache] [debug] - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+[DEBUG] 2023-03-25 16:34:42.138 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-25 16:34:42.139 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:42.140 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[DEBUG] 2023-03-25 16:34:42.141 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[DEBUG] 2023-03-25 16:34:42.142 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"

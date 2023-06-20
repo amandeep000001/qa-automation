@@ -1,0 +1,44 @@
+[INFO ] 2022-12-30 04:48:44.837 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [TG_5303_VerifyNewLeadFormIsOpened] - Logging in
+[INFO ] 2022-12-30 04:48:48.010 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterUsername] - Entering new user's first name
+[INFO ] 2022-12-30 04:48:48.549 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterUsername] - User's first name entered successfully
+[INFO ] 2022-12-30 04:48:48.550 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterPassword] - Entering new user's last name
+[INFO ] 2022-12-30 04:48:49.496 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterPassword] - User's last name entered successfully
+[INFO ] 2022-12-30 04:48:49.497 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2022-12-30 04:48:50.408 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2022-12-30 04:48:50.414 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [TG_5303_VerifyNewLeadFormIsOpened] - Verifying CRM Icon
+[INFO ] 2022-12-30 04:48:50.414 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [verifyCRMIconOnHomepage] - Check for CRM Icon on Homepage
+[INFO ] 2022-12-30 04:48:58.490 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [verifyCRMIconOnHomepage] - CRM Icon displayed successfully
+[INFO ] 2022-12-30 04:48:58.508 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [clickCRMIcoOnHomepage] - Clicking on CRM Button
+[INFO ] 2022-12-30 04:49:04.051 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [clickCRMIcoOnHomepage] - CRM Button clicked successfully
+[INFO ] 2022-12-30 04:49:06.059 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [clickLeadIcon] - Clicking on Lead Button
+[INFO ] 2022-12-30 04:49:08.014 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [clickLeadIcon] - Lead Button clicked successfully
+[INFO ] 2022-12-30 04:49:10.021 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [verifyLeadListingForm] - Check for Lead Title
+[INFO ] 2022-12-30 04:49:10.122 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [verifyLeadListingForm] - Lead Title displayed successfully
+[INFO ] 2022-12-30 04:49:12.126 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [clickAddLeadButton] - Clicking on Lead Button
+[INFO ] 2022-12-30 04:49:13.182 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [clickAddLeadButton] - Add Lead Button clicked successfully
+[INFO ] 2022-12-30 04:49:15.189 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [verifyLeadForm] - Check for New Lead Form
+[INFO ] 2022-12-30 04:49:15.261 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [verifyLeadForm] - New Lead Form displayed successfully
+[INFO ] 2022-12-30 04:49:15.311 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [TG_5318_VerifyLeadIsCreated] - Verifying Mandatory Fields
+[INFO ] 2022-12-30 04:49:15.311 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [clickSaveButton] - Clicking on Save Button
+[INFO ] 2022-12-30 04:49:15.670 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [clickSaveButton] - Save Button clicked successfully
+[INFO ] 2022-12-30 04:49:17.676 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [verifyMandatoryFieldIsBlank] - Verifying the Mandatory Field Pop-Up Title
+[INFO ] 2022-12-30 04:49:17.739 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [verifyMandatoryFieldIsBlank] - Mandatory Field Pop-Up Title displayed Successfully
+[INFO ] 2022-12-30 04:49:19.742 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [closeBlankMandatoryFieldDialogBox] - Clicking on Close Pop-Up Icon
+[INFO ] 2022-12-30 04:49:19.914 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [closeBlankMandatoryFieldDialogBox] - Close Pop-Up Icon Clicked Successfully
+[INFO ] 2022-12-30 04:49:21.920 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterFirstName] - Entering First Name
+[INFO ] 2022-12-30 04:49:22.194 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterFirstName] - First Name Entered Successfully
+[INFO ] 2022-12-30 04:49:22.198 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterLastName] - Entering Last Name
+[INFO ] 2022-12-30 04:49:22.414 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterLastName] - Last Name Entered Successfully
+[INFO ] 2022-12-30 04:49:22.414 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterCompanyName] - Entering Company Name
+[INFO ] 2022-12-30 04:49:22.572 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterCompanyName] - Company Name Entered Successfully
+[INFO ] 2022-12-30 04:49:22.573 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterEmail] - Entering Email
+[INFO ] 2022-12-30 04:49:22.759 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterEmail] - Email Entered Successfully
+[INFO ] 2022-12-30 04:49:24.763 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterPhoneNumber] - Entering Phone Number
+[INFO ] 2022-12-30 04:49:24.903 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterPhoneNumber] - Phone Number Entered Successfully
+[INFO ] 2022-12-30 04:49:24.903 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [selectSearchOnMapsCheckbox] - Selecting search on Maps checkbox
+[INFO ] 2022-12-30 04:49:27.192 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [selectSearchOnMapsCheckbox] - Search on maps checkbox selected
+[INFO ] 2022-12-30 04:49:29.200 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2022-12-30 04:49:30.662 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2022-12-30 04:49:32.668 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [clickSaveButton] - Clicking on Save Button
+[INFO ] 2022-12-30 04:49:32.921 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [clickSaveButton] - Save Button clicked successfully
+[INFO ] 2022-12-30 04:49:35.927 [CRM.TG_5489_Hiring_Company_Creation_Via_TAG] [verifyLeadStatus] - Check for Status as Lead

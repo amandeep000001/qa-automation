@@ -1,0 +1,34 @@
+[INFO ] 2022-12-07 13:56:57.676 [jobOrder.TG_3854_StartDateTimeField] [Tag_VerifyStartDateFieldVisibleAndNotAcceptPastDate] - Started==Verifying Start Date Field should be Visible And Should Not Accept Past Date
+[INFO ] 2022-12-07 13:57:01.955 [jobOrder.TG_3854_StartDateTimeField] [enterUsername] - Entering new user's first name
+[INFO ] 2022-12-07 13:57:02.590 [jobOrder.TG_3854_StartDateTimeField] [enterUsername] - User's first name entered successfully
+[INFO ] 2022-12-07 13:57:02.590 [jobOrder.TG_3854_StartDateTimeField] [enterPassword] - Entering new user's last name
+[INFO ] 2022-12-07 13:57:03.452 [jobOrder.TG_3854_StartDateTimeField] [enterPassword] - User's last name entered successfully
+[INFO ] 2022-12-07 13:57:03.453 [jobOrder.TG_3854_StartDateTimeField] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2022-12-07 13:57:05.227 [jobOrder.TG_3854_StartDateTimeField] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2022-12-07 13:57:05.249 [jobOrder.TG_3854_StartDateTimeField] [newOrder] - Clicking on New Order Button
+[INFO ] 2022-12-07 13:57:26.241 [jobOrder.TG_3854_StartDateTimeField] [newOrder] - New Order Button clicked successfully
+[INFO ] 2022-12-07 13:57:26.243 [jobOrder.TG_3854_StartDateTimeField] [enterStartDate] - Entering Start Date 
+[INFO ] 2022-12-07 13:57:31.271 [jobOrder.TG_3854_StartDateTimeField] [enterStartDate] - Start Date entered successfully
+[INFO ] 2022-12-07 13:57:34.730 [jobOrder.TG_3854_StartDateTimeField] [verifyStartDateFieldVisibleAndNotAcceptPastDate] - Verifying Start Date Field should be Visible And Should Not Accept Past Date
+[INFO ] 2022-12-07 13:57:39.923 [jobOrder.TG_3854_StartDateTimeField] [verifyStartDateFieldVisibleAndNotAcceptPastDate] - Verifyied Start Date Field should be Visible And Should Not Accept Past Date
+[INFO ] 2022-12-07 13:57:43.440 [jobOrder.TG_3854_StartDateTimeField] [Tag_VerifyEndDateFieldVisibleAndNotAcceptPastDate] - Started==Verifying End Date Field should be Visible And Should Not Accept Past Date
+[INFO ] 2022-12-07 13:57:43.441 [jobOrder.TG_3854_StartDateTimeField] [newOrder] - Clicking on New Order Button
+[INFO ] 2022-12-07 13:57:43.922 [jobOrder.TG_3854_StartDateTimeField] [newOrder] - New Order Button clicked successfully
+[INFO ] 2022-12-07 13:57:43.922 [jobOrder.TG_3854_StartDateTimeField] [enterEndDate] - Entering End Date 
+[INFO ] 2022-12-07 13:57:47.524 [jobOrder.TG_3854_StartDateTimeField] [enterEndDate] - End Date entered successfully
+[INFO ] 2022-12-07 13:57:50.810 [jobOrder.TG_3854_StartDateTimeField] [verifyEndDateFieldVisibleAndNotAcceptPastDate] - Verifying End Date Field should be Visible And Should Not Accept Past Date
+[INFO ] 2022-12-07 13:57:52.952 [jobOrder.TG_3854_StartDateTimeField] [verifyEndDateFieldVisibleAndNotAcceptPastDate] - Verifyied End Date Field  Visible And Should Not Accept Past Date
+[INFO ] 2022-12-07 13:57:56.137 [jobOrder.TG_3854_StartDateTimeField] [Tag_VerifyStartTimeFieldShouldVisible] - Started==Verify Start Time eField Should be Visible And Mandatory
+[INFO ] 2022-12-07 13:57:56.138 [jobOrder.TG_3854_StartDateTimeField] [newOrder] - Clicking on New Order Button
+[INFO ] 2022-12-07 13:57:56.852 [jobOrder.TG_3854_StartDateTimeField] [newOrder] - New Order Button clicked successfully
+[INFO ] 2022-12-07 13:57:56.852 [jobOrder.TG_3854_StartDateTimeField] [verifyStartTimeFieldShouldVisible] - Verifying Start Time Field should be Visible
+[INFO ] 2022-12-07 13:57:57.146 [jobOrder.TG_3854_StartDateTimeField] [verifyStartTimeFieldShouldVisible] - Verifying Start Time Field should be Visible
+[INFO ] 2022-12-07 13:58:00.194 [jobOrder.TG_3854_StartDateTimeField] [Tag_VerifyJobSiteFieldShouldVisible] - Started==Verify Job Site Field Should be Visible And Mandatory
+[INFO ] 2022-12-07 13:58:00.195 [jobOrder.TG_3854_StartDateTimeField] [newOrder] - Clicking on New Order Button
+[INFO ] 2022-12-07 13:58:00.449 [jobOrder.TG_3854_StartDateTimeField] [newOrder] - New Order Button clicked successfully
+[INFO ] 2022-12-07 13:58:00.450 [jobOrder.TG_3854_StartDateTimeField] [verifyJobSiteFieldShouldVisible] - Verifying Job Site Field should be Visible
+[INFO ] 2022-12-07 13:58:00.528 [jobOrder.TG_3854_StartDateTimeField] [verifyJobSiteFieldShouldVisible] - Verifying Job Site Field should be Visible
+[INFO ] 2022-12-07 13:58:03.555 [jobOrder.TG_3854_StartDateTimeField] [Tag_VerifyStartTimeFieldNotAcceptPastTime] - Started==Verifying Start Time Field should Not Accept Past Time
+[INFO ] 2022-12-07 13:58:03.556 [jobOrder.TG_3854_StartDateTimeField] [newOrder] - Clicking on New Order Button
+[INFO ] 2022-12-07 13:58:03.976 [jobOrder.TG_3854_StartDateTimeField] [newOrder] - New Order Button clicked successfully
+[INFO ] 2022-12-07 13:58:04.978 [jobOrder.TG_3854_StartDateTimeField] [enterStartTime] - Entering Start time 

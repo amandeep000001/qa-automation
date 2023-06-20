@@ -1,0 +1,98 @@
+[INFO ] 2023-02-02 15:15:23.399 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Started==Verifying Confirm Job Order Details
+[INFO ] 2023-02-02 15:15:27.533 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Entering Username
+[INFO ] 2023-02-02 15:15:27.534 [directOrder.TG_5802_DirectOrderParialClaim] [enterUsername] - Entering new user's first name
+[INFO ] 2023-02-02 15:15:28.201 [directOrder.TG_5802_DirectOrderParialClaim] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-02-02 15:15:28.203 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Username Entered Successfully
+[INFO ] 2023-02-02 15:15:28.203 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Entering Password
+[INFO ] 2023-02-02 15:15:28.204 [directOrder.TG_5802_DirectOrderParialClaim] [enterPassword] - Entering new user's last name
+[INFO ] 2023-02-02 15:15:28.520 [directOrder.TG_5802_DirectOrderParialClaim] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-02-02 15:15:28.521 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Password Entered Successfully
+[INFO ] 2023-02-02 15:15:28.522 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Clicking on Login Button
+[INFO ] 2023-02-02 15:15:28.522 [directOrder.TG_5802_DirectOrderParialClaim] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-02-02 15:15:28.935 [directOrder.TG_5802_DirectOrderParialClaim] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-02-02 15:15:28.936 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Login Button Clicked Successfully
+[INFO ] 2023-02-02 15:15:28.936 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Clicking on Staffing Companies
+[INFO ] 2023-02-02 15:15:28.936 [directOrder.TG_5802_DirectOrderParialClaim] [clickStaffingCompanies] - Clicking on Staffing Companies Button
+[INFO ] 2023-02-02 15:15:43.705 [directOrder.TG_5802_DirectOrderParialClaim] [clickStaffingCompanies] - Staffing Companies Button clicked successfully
+[INFO ] 2023-02-02 15:15:43.712 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Staffing Companies Clickied Successfully
+[INFO ] 2023-02-02 15:15:43.712 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Verifying Staffing Companies List
+[INFO ] 2023-02-02 15:15:43.712 [directOrder.TG_5802_DirectOrderParialClaim] [verifyStaffingCompanyList] - Verify Staffing Company List is displayed
+[INFO ] 2023-02-02 15:15:44.346 [directOrder.TG_5802_DirectOrderParialClaim] [verifyStaffingCompanyList] - Staffing Company List displayed successfully
+[INFO ] 2023-02-02 15:15:44.346 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Staffing Companies List verified successfully
+[INFO ] 2023-02-02 15:15:49.352 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Clicking Staffing Company
+[INFO ] 2023-02-02 15:15:49.355 [directOrder.TG_5802_DirectOrderParialClaim] [clickStaffingCompany] - Clicking on Staffing Company
+[INFO ] 2023-02-02 15:15:51.114 [directOrder.TG_5802_DirectOrderParialClaim] [clickStaffingCompany] - Staffing Company clicked successfully
+[INFO ] 2023-02-02 15:15:51.116 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Staffing Company Clickied Successfully
+[INFO ] 2023-02-02 15:15:54.123 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Clicking on Place Order Button
+[INFO ] 2023-02-02 15:15:54.126 [directOrder.TG_5802_DirectOrderParialClaim] [clickPlaceOrderButton] - Clicking on Staffing Company
+[INFO ] 2023-02-02 15:15:54.379 [directOrder.TG_5802_DirectOrderParialClaim] [clickPlaceOrderButton] - Staffing Company clicked successfully
+[INFO ] 2023-02-02 15:15:54.379 [directOrder.TG_5802_DirectOrderParialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Place Order Button Clickied Successfully
+[INFO ] 2023-02-02 15:15:54.469 [directOrder.TG_5802_DirectOrderParialClaim] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2023-02-02 15:15:54.469 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - Entering EstDailyHours
+[INFO ] 2023-02-02 15:16:03.063 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2023-02-02 15:16:03.065 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - Entering StartDate
+[INFO ] 2023-02-02 15:16:08.747 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - StartDate entered successfully
+[INFO ] 2023-02-02 15:16:08.750 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - Entering EndDate
+[INFO ] 2023-02-02 15:16:20.177 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - EndDate entered successfully
+[INFO ] 2023-02-02 15:16:20.180 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - Entering StartTime
+[INFO ] 2023-02-02 15:16:21.013 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - StartTime entered successfully
+[INFO ] 2023-02-02 15:16:21.013 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - Entering Availability
+[INFO ] 2023-02-02 15:16:21.227 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - Availabilit entered successfully
+[INFO ] 2023-02-02 15:16:21.227 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - Entering JobSite
+[INFO ] 2023-02-02 15:16:27.416 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - JobSite entered successfully
+[INFO ] 2023-02-02 15:16:27.417 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - Entering JobTitle
+[INFO ] 2023-02-02 15:16:36.506 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - JobTitle entered successfully
+[INFO ] 2023-02-02 15:16:36.513 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - Entering No Of Workers
+[INFO ] 2023-02-02 15:16:41.691 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2023-02-02 15:16:41.692 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - Entering ESignature
+[INFO ] 2023-02-02 15:16:44.870 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - ESignature entered successfully
+[INFO ] 2023-02-02 15:16:44.870 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - clickAgreeContract
+[INFO ] 2023-02-02 15:16:45.081 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - clickAgreeContract successfully
+[INFO ] 2023-02-02 15:16:45.081 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - clickSaveButton
+[INFO ] 2023-02-02 15:16:45.292 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2023-02-02 15:16:54.111 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - Job order link present on the home page clicked
+[INFO ] 2023-02-02 15:17:05.031 [directOrder.TG_5802_DirectOrderParialClaim] [newDirectOrderHiring] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-02-02 15:17:18.555 [directOrder.TG_5802_DirectOrderParialClaim] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Entering Username
+[INFO ] 2023-02-02 15:17:18.558 [directOrder.TG_5802_DirectOrderParialClaim] [enterUsername] - Entering new user's first name
+[INFO ] 2023-02-02 15:17:18.702 [directOrder.TG_5802_DirectOrderParialClaim] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-02-02 15:17:18.703 [directOrder.TG_5802_DirectOrderParialClaim] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Username Entered Successfully
+[INFO ] 2023-02-02 15:17:18.703 [directOrder.TG_5802_DirectOrderParialClaim] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Entering Password
+[INFO ] 2023-02-02 15:17:18.703 [directOrder.TG_5802_DirectOrderParialClaim] [enterPassword] - Entering new user's last name
+[INFO ] 2023-02-02 15:17:18.948 [directOrder.TG_5802_DirectOrderParialClaim] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-02-02 15:17:18.948 [directOrder.TG_5802_DirectOrderParialClaim] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Password Entered Successfully
+[INFO ] 2023-02-02 15:17:18.948 [directOrder.TG_5802_DirectOrderParialClaim] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Clicking on Login Button
+[INFO ] 2023-02-02 15:17:18.949 [directOrder.TG_5802_DirectOrderParialClaim] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-02-02 15:17:19.289 [directOrder.TG_5802_DirectOrderParialClaim] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-02-02 15:17:19.300 [directOrder.TG_5802_DirectOrderParialClaim] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Login Button Clicked Successfully
+[INFO ] 2023-02-02 15:17:22.310 [directOrder.TG_5802_DirectOrderParialClaim] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Clicking on Notifications Icon
+[INFO ] 2023-02-02 15:17:22.319 [directOrder.TG_5802_DirectOrderParialClaim] [clickNotificationIcon] - Clicking on Notifications
+[INFO ] 2023-02-02 15:17:26.871 [directOrder.TG_5802_DirectOrderParialClaim] [clickNotificationIcon] - Notifications clicked successfully
+[INFO ] 2023-02-02 15:17:26.879 [directOrder.TG_5802_DirectOrderParialClaim] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Notifications Icon Clicked Successfully
+[INFO ] 2023-02-02 15:17:28.885 [directOrder.TG_5802_DirectOrderParialClaim] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Verifying Notification Text
+[INFO ] 2023-02-02 15:17:28.887 [directOrder.TG_5802_DirectOrderParialClaim] [verifyNotificationText] - Verify Direct Order Text in Notification
+[INFO ] 2023-02-02 15:17:28.965 [directOrder.TG_5802_DirectOrderParialClaim] [verifyNotificationText] - Direct Order Text in Notification displayed successfully
+[INFO ] 2023-02-02 15:17:28.973 [directOrder.TG_5802_DirectOrderParialClaim] [TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm] - Notification Text Clicked Successfully
+[INFO ] 2023-02-02 15:17:28.975 [directOrder.TG_5802_DirectOrderParialClaim] [clickJobOrderHomePage] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-02-02 15:17:32.047 [directOrder.TG_5802_DirectOrderParialClaim] [clickJobOrderHomePage] - All job orders menu present on the staffing hompage clicked successfully and navigates to joborder listing form  .
+[INFO ] 2023-02-02 15:17:34.063 [directOrder.TG_5802_DirectOrderParialClaim] [verifyJobOrderPage] - Job order form is displayed
+[INFO ] 2023-02-02 15:17:34.184 [directOrder.TG_5802_DirectOrderParialClaim] [verifyJobOrderPage] - Job orderform is displayed successfully
+[INFO ] 2023-02-02 15:17:44.200 [directOrder.TG_5802_DirectOrderParialClaim] [selectParticularJobOrderFromListing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-02-02 15:17:54.484 [directOrder.TG_5802_DirectOrderParialClaim] [selectParticularJobOrderFromListing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-02-02 15:17:59.497 [directOrder.TG_5802_DirectOrderParialClaim] [clickOrdersMenuOnStaffingHomePage] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-02-02 15:17:59.669 [directOrder.TG_5802_DirectOrderParialClaim] [clickOrdersMenuOnStaffingHomePage] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-02-02 15:18:01.678 [directOrder.TG_5802_DirectOrderParialClaim] [clickDirectOrderNav] - Clicking on Direct Orders
+[INFO ] 2023-02-02 15:18:02.440 [directOrder.TG_5802_DirectOrderParialClaim] [clickDirectOrderNav] - Direct orders clicked successfully
+[INFO ] 2023-02-02 15:18:04.452 [directOrder.TG_5802_DirectOrderParialClaim] [selectParticularJobOrderFromListing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-02-02 15:18:14.623 [directOrder.TG_5802_DirectOrderParialClaim] [selectParticularJobOrderFromListing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-02-02 15:18:19.697 [directOrder.TG_5802_DirectOrderParialClaim] [clickClaimOrderButton] - Clicking on Direct Orders
+[INFO ] 2023-02-02 15:18:24.936 [directOrder.TG_5802_DirectOrderParialClaim] [clickClaimOrderButton] - Claim order button clicked successfully
+[INFO ] 2023-02-02 15:18:26.946 [directOrder.TG_5802_DirectOrderParialClaim] [enterNoOfEmployeesClaim] - Entering the No. of Employees Claim
+[INFO ] 2023-02-02 15:18:27.212 [directOrder.TG_5802_DirectOrderParialClaim] [enterNoOfEmployeesClaim] - No. of Employees Claim entered successfully
+[INFO ] 2023-02-02 15:18:29.221 [directOrder.TG_5802_DirectOrderParialClaim] [enterESignature] - Entering the E-Signature
+[INFO ] 2023-02-02 15:18:29.367 [directOrder.TG_5802_DirectOrderParialClaim] [enterESignature] - E-Signature entered successfully
+[INFO ] 2023-02-02 15:18:31.378 [directOrder.TG_5802_DirectOrderParialClaim] [clickAgreeContract] - Clicking on Agree to Contract Button
+[INFO ] 2023-02-02 15:18:31.532 [directOrder.TG_5802_DirectOrderParialClaim] [clickAgreeContract] - Agree to Contract Button clicked successfully
+[INFO ] 2023-02-02 15:18:33.540 [directOrder.TG_5802_DirectOrderParialClaim] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-02-02 15:18:33.690 [directOrder.TG_5802_DirectOrderParialClaim] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-02-02 15:18:43.708 [directOrder.TG_5802_DirectOrderParialClaim] [verifyEmailSuccessMessage] - Check for submission of Claim Order
+[INFO ] 2023-02-02 15:19:12.665 [directOrder.TG_5802_DirectOrderParialClaim] [verifyEmailSuccessMessage] - Claim Order Submitted Successfully

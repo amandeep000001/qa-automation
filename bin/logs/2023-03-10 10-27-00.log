@@ -1,0 +1,218 @@
+[INFO ] 2023-03-10 22:27:00.762 [company.TG_4463_InvCreationStaffing] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow NewOrderHiring
+[INFO ] 2023-03-10 22:27:04.005 [company.TG_4463_InvCreationStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 22:27:05.887 [company.TG_4463_InvCreationStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 22:27:05.887 [company.TG_4463_InvCreationStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 22:27:06.104 [company.TG_4463_InvCreationStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 22:27:06.104 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 22:27:06.586 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 22:27:06.586 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Clicking on New Order Button
+[INFO ] 2023-03-10 22:27:21.626 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - New Order Button clicked successfully
+[INFO ] 2023-03-10 22:27:21.627 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering EstDailyHours
+[INFO ] 2023-03-10 22:27:30.714 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - EstDailyHours entered successfully
+[INFO ] 2023-03-10 22:27:30.715 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering StartDate
+[INFO ] 2023-03-10 22:27:36.414 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - StartDate entered successfully
+[INFO ] 2023-03-10 22:27:36.417 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering EndDate
+[INFO ] 2023-03-10 22:27:47.828 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - EndDate entered successfully
+[INFO ] 2023-03-10 22:27:47.831 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering StartTime
+[INFO ] 2023-03-10 22:27:48.800 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - StartTime entered successfully
+[INFO ] 2023-03-10 22:27:48.801 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering Availability
+[INFO ] 2023-03-10 22:27:49.013 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Availabilit entered successfully
+[INFO ] 2023-03-10 22:27:49.014 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering JobSite
+[INFO ] 2023-03-10 22:27:55.419 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - JobSite entered successfully
+[INFO ] 2023-03-10 22:27:55.420 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering JobTitle
+[INFO ] 2023-03-10 22:28:04.603 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - JobTitle entered successfully
+[INFO ] 2023-03-10 22:28:04.605 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering No Of Workers
+[INFO ] 2023-03-10 22:28:09.757 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - NoOfWorkers entered successfully
+[INFO ] 2023-03-10 22:28:09.758 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Entering ESignature
+[INFO ] 2023-03-10 22:28:12.950 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - ESignature entered successfully
+[INFO ] 2023-03-10 22:28:12.951 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - clickAgreeContract
+[INFO ] 2023-03-10 22:28:13.128 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - clickAgreeContract successfully
+[INFO ] 2023-03-10 22:28:13.128 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - clickSaveButton
+[INFO ] 2023-03-10 22:28:13.296 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - SaveButton Clicked successfully
+[INFO ] 2023-03-10 22:28:21.787 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Job order link present on the home page clicked
+[INFO ] 2023-03-10 22:28:30.008 [company.TG_4463_InvCreationStaffing] [newOrderHiring] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-03-10 22:28:41.406 [company.TG_4463_InvCreationStaffing] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow CreateEmployeeFromStaffing
+[INFO ] 2023-03-10 22:28:54.172 [company.TG_4463_InvCreationStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 22:28:54.292 [company.TG_4463_InvCreationStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 22:28:54.293 [company.TG_4463_InvCreationStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 22:28:54.380 [company.TG_4463_InvCreationStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 22:28:54.380 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 22:28:54.473 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 22:29:24.296 [company.TG_4463_InvCreationStaffing] [clickAddNewEployeeButton] - Clicking on Add New Employee Button
+[INFO ] 2023-03-10 22:29:25.235 [company.TG_4463_InvCreationStaffing] [clickAddNewEployeeButton] - Employee button clicked successfully
+[INFO ] 2023-03-10 22:29:30.243 [company.TG_4463_InvCreationStaffing] [enterCompanyName] - Entering Company Name
+[INFO ] 2023-03-10 22:29:30.499 [company.TG_4463_InvCreationStaffing] [enterCompanyName] - Company Name entered successfully
+[INFO ] 2023-03-10 22:29:32.505 [company.TG_4463_InvCreationStaffing] [enterFirstName] - Entering First Name
+[INFO ] 2023-03-10 22:29:32.631 [company.TG_4463_InvCreationStaffing] [enterFirstName] - First Name entered successfully
+[INFO ] 2023-03-10 22:29:34.639 [company.TG_4463_InvCreationStaffing] [enterLastName] - Entering Last Name
+[INFO ] 2023-03-10 22:29:34.755 [company.TG_4463_InvCreationStaffing] [enterLastName] - Last Name entered successfully
+[INFO ] 2023-03-10 22:29:36.761 [company.TG_4463_InvCreationStaffing] [enterDateOfBirthField] - Entering date of birth
+[INFO ] 2023-03-10 22:29:37.927 [company.TG_4463_InvCreationStaffing] [enterDateOfBirthField] - Date of birth entered successfully
+[INFO ] 2023-03-10 22:29:39.933 [company.TG_4463_InvCreationStaffing] [enterEmail] - Entering email
+[INFO ] 2023-03-10 22:29:40.099 [company.TG_4463_InvCreationStaffing] [enterEmail] - Email entered successfully
+[INFO ] 2023-03-10 22:29:42.105 [company.TG_4463_InvCreationStaffing] [selectAddressTab] - Clicking Address Tab
+[INFO ] 2023-03-10 22:29:44.247 [company.TG_4463_InvCreationStaffing] [selectAddressTab] - Address Tab clicked successfully
+[INFO ] 2023-03-10 22:29:46.253 [company.TG_4463_InvCreationStaffing] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2023-03-10 22:29:47.524 [company.TG_4463_InvCreationStaffing] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2023-03-10 22:29:49.530 [company.TG_4463_InvCreationStaffing] [clickSaveButton] - Clicking Save button
+[INFO ] 2023-03-10 22:29:49.743 [company.TG_4463_InvCreationStaffing] [clickSaveButton] - Save button clicked successfully
+[INFO ] 2023-03-10 22:30:29.751 [company.TG_4463_InvCreationStaffing] [getEmployeeNameFromEmaployeeDetailsPage] - Fetching employee Name
+[INFO ] 2023-03-10 22:30:29.845 [company.TG_4463_InvCreationStaffing] [getEmployeeNameFromEmaployeeDetailsPage] - Employee Name fetched successfully
+[INFO ] 2023-03-10 22:30:30.016 [company.TG_4463_InvCreationStaffing] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow ClaimFromStaffing
+[INFO ] 2023-03-10 22:30:30.016 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-03-10 22:30:46.057 [company.TG_4463_InvCreationStaffing] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-10 22:30:56.236 [company.TG_4463_InvCreationStaffing] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-10 22:30:56.239 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Clicking on Claim order Button
+[INFO ] 2023-03-10 22:31:10.828 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Claim order button clicked successfully
+[INFO ] 2023-03-10 22:31:10.828 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Entering the No. of Employees Claim
+[INFO ] 2023-03-10 22:31:15.972 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - No. of Employees Claim entered successfully
+[INFO ] 2023-03-10 22:31:20.973 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Entering the E-Signature
+[INFO ] 2023-03-10 22:31:23.133 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - E-Signature entered successfully
+[INFO ] 2023-03-10 22:31:23.134 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Clicking on Agree to Contract Button
+[INFO ] 2023-03-10 22:31:25.244 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Agree to Contract Button clicked successfully
+[INFO ] 2023-03-10 22:31:25.244 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Clicking on Submit Claim Button
+[INFO ] 2023-03-10 22:31:32.377 [company.TG_4463_InvCreationStaffing] [ClaimOrderForStaffing] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-10 22:32:05.374 [company.TG_4463_InvCreationStaffing] [Tag_EndToEndFlowNewOrderHiring] - Started==Starting End To End Flow ApproveHiring
+[INFO ] 2023-03-10 22:32:13.107 [company.TG_4463_InvCreationStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 22:32:13.253 [company.TG_4463_InvCreationStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 22:32:13.254 [company.TG_4463_InvCreationStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 22:32:13.380 [company.TG_4463_InvCreationStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 22:32:13.380 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 22:32:13.460 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 22:32:13.460 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-10 22:32:23.602 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 22:32:23.603 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-10 22:32:37.848 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form 
+[INFO ] 2023-03-10 22:32:41.017 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicking on the claim button navigates to claim order form successfully
+[INFO ] 2023-03-10 22:32:41.017 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicking the select head count button on the claim order form
+[INFO ] 2023-03-10 22:32:41.996 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicked the select head count button on the claim order form successfully
+[INFO ] 2023-03-10 22:32:41.999 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Entering Approve count should not be greater than Workerscount
+[INFO ] 2023-03-10 22:32:49.925 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Approve count is not more than the workers count
+[INFO ] 2023-03-10 22:32:49.929 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Clicking on modal submit Button
+[INFO ] 2023-03-10 22:32:55.048 [company.TG_4463_InvCreationStaffing] [ApproveClaimFromHiring] - Modal submit button clicked successfully
+[INFO ] 2023-03-10 22:33:07.492 [company.TG_4463_InvCreationStaffing] [Tag_EndToEndFlowAssignEmployeeFromStaffing] - Started==Starting End To End Flow AssignEmployee
+[INFO ] 2023-03-10 22:33:18.265 [company.TG_4463_InvCreationStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 22:33:18.381 [company.TG_4463_InvCreationStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 22:33:18.381 [company.TG_4463_InvCreationStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 22:33:18.445 [company.TG_4463_InvCreationStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 22:33:18.445 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 22:33:18.567 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 22:33:18.567 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-10 22:33:32.121 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 22:33:32.126 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-10 22:33:35.810 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - All orders menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 22:33:42.819 [company.TG_4463_InvCreationStaffing] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-10 22:33:52.931 [company.TG_4463_InvCreationStaffing] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-10 22:33:52.931 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking Assign employees under the related section
+[INFO ] 2023-03-10 22:34:03.730 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicked assign employees on job order form successfully
+[INFO ] 2023-03-10 22:34:03.732 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Entering Distance radius in new Assign Employee form 
+[INFO ] 2023-03-10 22:34:03.850 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Distance radius in new Assign Employee form entered successfully
+[INFO ] 2023-03-10 22:34:03.851 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking CheckBox ShowAllEmployees
+[INFO ] 2023-03-10 22:34:05.980 [company.TG_4463_InvCreationStaffing] [AssignEmployee] -  ShowAllEmployees CheckBox clicked successfully
+[INFO ] 2023-03-10 22:34:05.980 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking AddRow in new Assign Employee form 
+[INFO ] 2023-03-10 22:34:13.188 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - AddRow button in new Assign Employee form clicked successfully
+[INFO ] 2023-03-10 22:34:13.190 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking edit button on the form under the EmployeeDetails
+[INFO ] 2023-03-10 22:34:13.399 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicked edit button on the form under the EmployeeDetails successfully
+[INFO ] 2023-03-10 22:34:13.669 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - employeeId in new Assign Employee form entered successfully
+[INFO ] 2023-03-10 22:34:13.670 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking Searched Employee
+[INFO ] 2023-03-10 22:34:18.677 [company.TG_4463_InvCreationStaffing] [clickSearchedEmployee] - Clicking Searched Employee
+[INFO ] 2023-03-10 22:34:18.769 [company.TG_4463_InvCreationStaffing] [clickSearchedEmployee] - Searched Employee clicked Successfully
+[INFO ] 2023-03-10 22:34:18.769 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Searched Employee Clicked Successfully
+[INFO ] 2023-03-10 22:34:18.769 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking Dropdown arrow in the modal
+[INFO ] 2023-03-10 22:34:18.870 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicked Dropdown arrow in the modal successfully
+[INFO ] 2023-03-10 22:34:20.876 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - Clicking save new Assign Employee form
+[INFO ] 2023-03-10 22:34:25.002 [company.TG_4463_InvCreationStaffing] [AssignEmployee] - save button in new Assign Employee form clicked successfully
+[INFO ] 2023-03-10 22:36:11.326 [company.TG_4463_InvCreationStaffing] [Tag_EndToEndFlowAssignEmployeeFromStaffing] - Started==Starting End To End Flow TimesheetCreation
+[INFO ] 2023-03-10 22:36:20.224 [company.TG_4463_InvCreationStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 22:36:20.326 [company.TG_4463_InvCreationStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 22:36:20.327 [company.TG_4463_InvCreationStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 22:36:20.427 [company.TG_4463_InvCreationStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 22:36:20.428 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 22:36:20.485 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 22:36:25.497 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] - Clicking on order Button
+[INFO ] 2023-03-10 22:36:28.357 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] -  Order Button clicked successfully
+[INFO ] 2023-03-10 22:36:44.561 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] -  Clicking On Timesheet Button
+[INFO ] 2023-03-10 22:36:47.717 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] - Clicked On Timesheet Button successfully
+[INFO ] 2023-03-10 22:36:47.718 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] - Clicking on addEditButton 
+[INFO ] 2023-03-10 22:36:49.863 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] - AddEditButton Clicked Successfully 
+[INFO ] 2023-03-10 22:36:49.864 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] - Entering current date in Timesheet
+[INFO ] 2023-03-10 22:37:02.312 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] - Entered current date in Timesheet successfully
+[INFO ] 2023-03-10 22:37:02.318 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] - Verify Start Time 
+[INFO ] 2023-03-10 22:37:09.671 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] - Verify Start Time Field successfully
+[INFO ] 2023-03-10 22:37:09.673 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] - Verify End Time 
+[INFO ] 2023-03-10 22:37:17.208 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] - Verify End Time Field successfully
+[INFO ] 2023-03-10 22:37:17.208 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] - Submitting Timesheet 
+[INFO ] 2023-03-10 22:37:21.031 [company.TG_4463_InvCreationStaffing] [createTimesheetHiring] -  Timesheet Submit successfully
+[INFO ] 2023-03-10 22:37:32.252 [company.TG_4463_InvCreationStaffing] [Tag_EndToEndFlowAssignEmployeeFromStaffing] - Started==Starting End To End Flow approveTimesheet
+[INFO ] 2023-03-10 22:37:39.969 [company.TG_4463_InvCreationStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 22:37:40.072 [company.TG_4463_InvCreationStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 22:37:40.072 [company.TG_4463_InvCreationStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 22:37:40.147 [company.TG_4463_InvCreationStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 22:37:40.148 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 22:37:40.392 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 22:37:43.394 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-10 22:37:51.926 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 22:37:51.927 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-10 22:37:58.881 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - All orders menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 22:37:58.887 [company.TG_4463_InvCreationStaffing] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-10 22:38:09.005 [company.TG_4463_InvCreationStaffing] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-10 22:38:09.006 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - Clicking On Timesheet
+[INFO ] 2023-03-10 22:38:21.622 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - Click On Timesheet successfully
+[INFO ] 2023-03-10 22:38:21.626 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - Clicking on Approval Grid
+[INFO ] 2023-03-10 22:38:24.748 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - Timesheet Approval Grid Clicked Successfully
+[INFO ] 2023-03-10 22:38:24.750 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - Clicking on checkbox
+[INFO ] 2023-03-10 22:38:27.890 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - checkbox Clicked Successfully
+[INFO ] 2023-03-10 22:38:27.892 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - Clicking On Actions
+[INFO ] 2023-03-10 22:38:34.043 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - Click On Actions successfully
+[INFO ] 2023-03-10 22:38:34.046 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - Selecting Approve Timesheet Option
+[INFO ] 2023-03-10 22:38:40.203 [company.TG_4463_InvCreationStaffing] [approveTimesheetFromStaffing] - Select Approve Timesheet Option successfully
+[INFO ] 2023-03-10 22:39:00.005 [company.TG_4463_InvCreationStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 22:39:00.142 [company.TG_4463_InvCreationStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 22:39:00.142 [company.TG_4463_InvCreationStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 22:39:00.209 [company.TG_4463_InvCreationStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 22:39:00.209 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 22:39:00.278 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 22:39:03.287 [company.TG_4463_InvCreationStaffing] [clickOrdersMenuOnStaffingHomePage] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-10 22:39:07.737 [company.TG_4463_InvCreationStaffing] [clickOrdersMenuOnStaffingHomePage] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 22:39:10.744 [company.TG_4463_InvCreationStaffing] [clickAllOrdersOnStaffingHomePage] - Clicking All orders menu present on the staffing homepage
+[INFO ] 2023-03-10 22:39:13.506 [company.TG_4463_InvCreationStaffing] [clickAllOrdersOnStaffingHomePage] - All orders menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-10 22:39:16.521 [company.TG_4463_InvCreationStaffing] [selectParticularJobOrderFromListingStaffing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-10 22:39:26.655 [company.TG_4463_InvCreationStaffing] [selectParticularJobOrderFromListingStaffing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-10 22:39:31.710 [company.TG_4463_InvCreationStaffing] [clickCreateInvoice] - Clicking on create invoice button 
+[INFO ] 2023-03-10 22:39:33.710 [company.TG_4463_InvCreationStaffing] [clickCreateInvoice] - Create Invoice button clicked successfully
+[INFO ] 2023-03-10 22:39:33.711 [company.TG_4463_InvCreationStaffing] [VerifyNewInvoice] - Verify New invoice is visible
+[INFO ] 2023-03-10 22:39:35.417 [company.TG_4463_InvCreationStaffing] [VerifyNewInvoice] - Title New Invoice is displayed in form successfully.
+[INFO ] 2023-03-10 22:39:35.425 [company.TG_4463_InvCreationStaffing] [VerifyCancelButton] - Verify cancel button is visible
+[INFO ] 2023-03-10 22:39:37.390 [company.TG_4463_InvCreationStaffing] [VerifyCancelButton] - Cancel Button is displayed in form successfully.
+[INFO ] 2023-03-10 22:39:37.391 [company.TG_4463_InvCreationStaffing] [VerifySaveButton] - Verifysave button is visible
+[INFO ] 2023-03-10 22:39:37.448 [company.TG_4463_InvCreationStaffing] [VerifySaveButton] - Svae button is displayed in form successfully.
+[INFO ] 2023-03-10 22:39:37.448 [company.TG_4463_InvCreationStaffing] [clickSaveButton] - Clicking save new Assign Employee form
+[INFO ] 2023-03-10 22:39:41.657 [company.TG_4463_InvCreationStaffing] [clickSaveButton] - save button in new Assign Employee form clicked successfully
+[INFO ] 2023-03-10 22:39:41.658 [company.TG_4463_InvCreationStaffing] [VerifyDraftText] - Verify Draft text is visible
+[INFO ] 2023-03-10 22:39:42.956 [company.TG_4463_InvCreationStaffing] [VerifyDraftText] - Draft text is displayed in form successfully.
+[INFO ] 2023-03-10 22:39:42.957 [company.TG_4463_InvCreationStaffing] [verifySubmitThisDocumentMessage] - Check for 'Submit this document to confirm”' message Displayed
+[INFO ] 2023-03-10 22:39:43.012 [company.TG_4463_InvCreationStaffing] [verifySubmitThisDocumentMessage] - Message displayed successfully
+[INFO ] 2023-03-10 22:39:43.015 [company.TG_4463_InvCreationStaffing] [clickSubmitButton] - Clicking on submit button 
+[INFO ] 2023-03-10 22:39:43.119 [company.TG_4463_InvCreationStaffing] [clickSubmitButton] - Submit button clicked successfully
+[INFO ] 2023-03-10 22:39:43.120 [company.TG_4463_InvCreationStaffing] [VerifyYesButtonConfirmModal] - Verify yes button is visible in confirm modal
+[INFO ] 2023-03-10 22:39:43.330 [company.TG_4463_InvCreationStaffing] [VerifyYesButtonConfirmModal] - Yes Button is displayed in confirm modal
+[INFO ] 2023-03-10 22:39:43.331 [company.TG_4463_InvCreationStaffing] [VerifyNoButtonConfirmModal] - Verify No button is visible in confirm modal
+[INFO ] 2023-03-10 22:39:43.373 [company.TG_4463_InvCreationStaffing] [VerifyNoButtonConfirmModal] - No Button is displayed in confirm modal
+[INFO ] 2023-03-10 22:39:43.373 [company.TG_4463_InvCreationStaffing] [clickYesButtonConfirmModal] - Clicking yes button  in confirm modal
+[INFO ] 2023-03-10 22:39:49.694 [company.TG_4463_InvCreationStaffing] [clickYesButtonConfirmModal] - yes button  in confirm modal clicked successfully
+[INFO ] 2023-03-10 22:39:49.702 [company.TG_4463_InvCreationStaffing] [verifyEmailSuccessMessage] - Check for submission of Claim Order
+[INFO ] 2023-03-10 22:39:55.336 [company.TG_4463_InvCreationStaffing] [verifyEmailSuccessMessage] - Claim Order Submitted Successfully
+[INFO ] 2023-03-10 22:40:20.307 [company.TG_4463_InvCreationStaffing] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-10 22:40:20.386 [company.TG_4463_InvCreationStaffing] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-10 22:40:20.387 [company.TG_4463_InvCreationStaffing] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-10 22:40:20.474 [company.TG_4463_InvCreationStaffing] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-10 22:40:20.474 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-10 22:40:20.542 [company.TG_4463_InvCreationStaffing] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-10 22:40:27.557 [company.TG_4463_InvCreationStaffing] [clickOrdersMenuOnHiringHomePage] - Clicking Order menu present on the Hiring homepage
+[INFO ] 2023-03-10 22:40:28.244 [company.TG_4463_InvCreationStaffing] [clickOrdersMenuOnHiringHomePage] - Order menu present on the Hiring hompage clicked successfully.
+[INFO ] 2023-03-10 22:40:46.455 [company.TG_4463_InvCreationStaffing] [clickDeleteJobOrderButton] - Clicking on delete button present on Job Order detials page
+[INFO ] 2023-03-10 22:40:46.624 [company.TG_4463_InvCreationStaffing] [clickDeleteJobOrderButton] - Delete button present on Job Order detials page clicked
+[INFO ] 2023-03-10 22:40:49.845 [company.TG_4463_InvCreationStaffing] [clickAcceptDeleteJobOrderRequestButton] - Clicking on confirm deletion button
+[INFO ] 2023-03-10 22:40:49.992 [company.TG_4463_InvCreationStaffing] [clickAcceptDeleteJobOrderRequestButton] - Confirm deletion button clicked
+[INFO ] 2023-03-10 22:40:49.992 [company.TG_4463_InvCreationStaffing] [verifyJobOrderDeleted] - Verifying that job order deleted via pop-up
+[INFO ] 2023-03-10 22:40:50.360 [company.TG_4463_InvCreationStaffing] [verifyJobOrderDeleted] - Verified that order deleted successfully

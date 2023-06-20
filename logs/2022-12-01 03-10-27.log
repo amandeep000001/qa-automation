@@ -1,0 +1,36 @@
+[INFO ] 2022-12-01 15:10:27.757 [jobOrder.TG_3864_SaveOrder] [Tag_VerifyConfirmJobOrderDetails] - Started==Verifying Confirm Job Order Details
+[INFO ] 2022-12-01 15:10:33.194 [jobOrder.TG_3864_SaveOrder] [enterUsername] - Entering new user's first name
+[INFO ] 2022-12-01 15:10:34.749 [jobOrder.TG_3864_SaveOrder] [enterUsername] - User's first name entered successfully
+[INFO ] 2022-12-01 15:10:34.749 [jobOrder.TG_3864_SaveOrder] [enterPassword] - Entering new user's last name
+[INFO ] 2022-12-01 15:10:36.773 [jobOrder.TG_3864_SaveOrder] [enterPassword] - User's last name entered successfully
+[INFO ] 2022-12-01 15:10:36.775 [jobOrder.TG_3864_SaveOrder] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2022-12-01 15:10:39.104 [jobOrder.TG_3864_SaveOrder] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2022-12-01 15:10:39.105 [jobOrder.TG_3864_SaveOrder] [newOrder] - Clicking on New Order Button
+[INFO ] 2022-12-01 15:11:12.632 [jobOrder.TG_3864_SaveOrder] [newOrder] - New Order Button clicked successfully
+[INFO ] 2022-12-01 15:11:12.640 [jobOrder.TG_3864_SaveOrder] [enterEstDailyHours] - Entering EstDailyHours
+[INFO ] 2022-12-01 15:11:22.867 [jobOrder.TG_3864_SaveOrder] [enterEstDailyHours] - EstDailyHours entered successfully
+[INFO ] 2022-12-01 15:11:24.871 [jobOrder.TG_3864_SaveOrder] [enterStartDate] - Entering StartDate
+[INFO ] 2022-12-01 15:11:30.639 [jobOrder.TG_3864_SaveOrder] [enterStartDate] - StartDate entered successfully
+[INFO ] 2022-12-01 15:11:32.646 [jobOrder.TG_3864_SaveOrder] [enterEndDate] - Entering EndDate
+[INFO ] 2022-12-01 15:11:37.997 [jobOrder.TG_3864_SaveOrder] [enterEndDate] - EndDate entered successfully
+[INFO ] 2022-12-01 15:11:40.002 [jobOrder.TG_3864_SaveOrder] [enterStartTime] - Entering StartTime
+[INFO ] 2022-12-01 15:11:41.217 [jobOrder.TG_3864_SaveOrder] [enterStartTime] - StartTime entered successfully
+[INFO ] 2022-12-01 15:11:43.223 [jobOrder.TG_3864_SaveOrder] [enterAvailability] - Entering Availability
+[INFO ] 2022-12-01 15:11:43.553 [jobOrder.TG_3864_SaveOrder] [enterAvailability] - Availabilit entered successfully
+[INFO ] 2022-12-01 15:11:43.553 [jobOrder.TG_3864_SaveOrder] [enterJobSite] - Entering JobSite
+[INFO ] 2022-12-01 15:11:48.535 [jobOrder.TG_3864_SaveOrder] [enterJobSite] - JobSite entered successfully
+[INFO ] 2022-12-01 15:11:50.539 [jobOrder.TG_3864_SaveOrder] [enterJobTitle] - Entering JobTitle
+[INFO ] 2022-12-01 15:11:52.092 [jobOrder.TG_3864_SaveOrder] [enterJobTitle] - JobTitle entered successfully
+[INFO ] 2022-12-01 15:11:54.097 [jobOrder.TG_3864_SaveOrder] [enterNoOfWorker] - Entering No Of Workers
+[INFO ] 2022-12-01 15:11:54.209 [jobOrder.TG_3864_SaveOrder] [enterNoOfWorker] - NoOfWorkers entered successfully
+[INFO ] 2022-12-01 15:11:56.213 [jobOrder.TG_3864_SaveOrder] [enterESignature] - Entering ESignature
+[INFO ] 2022-12-01 15:11:56.421 [jobOrder.TG_3864_SaveOrder] [enterESignature] - ESignature entered successfully
+[INFO ] 2022-12-01 15:11:56.421 [jobOrder.TG_3864_SaveOrder] [clickAgreeContract] - clickAgreeContract
+[INFO ] 2022-12-01 15:11:56.580 [jobOrder.TG_3864_SaveOrder] [clickAgreeContract] - clickAgreeContract successfully
+[INFO ] 2022-12-01 15:12:02.551 [jobOrder.TG_3864_SaveOrder] [Tag_VerifySaveAndCancelButton] - Started==Verify Save And Cancel Button
+[INFO ] 2022-12-01 15:12:02.552 [jobOrder.TG_3864_SaveOrder] [verifyConfirmationPopupShouldHaveConfirmAndButton] - Verify Confirmation Popup Should Have Confirm  Buttons
+[INFO ] 2022-12-01 15:12:03.607 [jobOrder.TG_3864_SaveOrder] [verifyConfirmationPopupShouldHaveConfirmAndButton] - Verify Confirmation Popup Should Have Confirm  Buttons successfully
+[INFO ] 2022-12-01 15:12:03.608 [jobOrder.TG_3864_SaveOrder] [verifyConfirmationPopupShouldHaveCancelButton] - Verify Confirmation Popup Should Have Cancel Buttons
+[INFO ] 2022-12-01 15:12:04.640 [jobOrder.TG_3864_SaveOrder] [verifyConfirmationPopupShouldHaveCancelButton] - Verify Confirmation Popup Should Have Cancel Buttons
+[INFO ] 2022-12-01 15:12:07.694 [jobOrder.TG_3864_SaveOrder] [Tag_VerifyClickingCancelNothingSave] - Started==Verify Clicking on Cancel Nothing Should Save
+[INFO ] 2022-12-01 15:12:07.695 [jobOrder.TG_3864_SaveOrder] [clickingCancelButton] - Clicking on cancel button

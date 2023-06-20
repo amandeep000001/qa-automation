@@ -1,0 +1,36 @@
+[INFO ] 2022-12-11 18:40:21.359 [users.AddNewUserHiring] [VerifyMandatoryFields] - Started==Verifying mandatory fields in Add New User form
+[INFO ] 2022-12-11 18:40:26.026 [users.AddNewUserHiring] [VerifyMandatoryFields] - Logging into the application using username: ankit_tag@yopmail.com
+[INFO ] 2022-12-11 18:40:26.027 [users.AddNewUserHiring] [enterUsername] - Entering new user's first name
+[INFO ] 2022-12-11 18:40:26.835 [users.AddNewUserHiring] [enterUsername] - User's first name entered successfully
+[INFO ] 2022-12-11 18:40:26.836 [users.AddNewUserHiring] [enterPassword] - Entering new user's last name
+[INFO ] 2022-12-11 18:40:27.514 [users.AddNewUserHiring] [enterPassword] - User's last name entered successfully
+[INFO ] 2022-12-11 18:40:27.514 [users.AddNewUserHiring] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2022-12-11 18:40:28.367 [users.AddNewUserHiring] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2022-12-11 18:40:28.368 [users.AddNewUserHiring] [VerifyMandatoryFields] - User: ankit_tag@yopmail.com logged in successfully
+[INFO ] 2022-12-11 18:40:31.382 [users.AddNewUserHiring] [clickUsersLinkOnHomePage] - Clicking Users link present on the homepage
+[INFO ] 2022-12-11 18:40:38.245 [users.AddNewUserHiring] [clickUsersLinkOnHomePage] - Users link present on the hompage clicked successfully.
+[INFO ] 2022-12-11 18:40:49.296 [users.AddNewUserHiring] [clearCompanyTypeField] - Clearing company type field
+[INFO ] 2022-12-11 18:40:49.361 [users.AddNewUserHiring] [clearCompanyTypeField] - Company Type field cleared Successfully
+[INFO ] 2022-12-11 18:40:49.361 [users.AddNewUserHiring] [clickLastNameField] - Clicking Last Name field
+[INFO ] 2022-12-11 18:40:49.503 [users.AddNewUserHiring] [clickLastNameField] - Last Name  field clicked successfully
+[INFO ] 2022-12-11 18:40:49.503 [users.AddNewUserHiring] [clickSavebutton] - Clicking save button
+[INFO ] 2022-12-11 18:40:49.691 [users.AddNewUserHiring] [clickSavebutton] - Save button clicked successfully
+[INFO ] 2022-12-11 18:40:53.377 [users.AddNewUserHiring] [verifyCreateNewUser] - Started==Verify user creation
+[INFO ] 2022-12-11 18:40:53.378 [users.AddNewUserHiring] [enterCompanyType] - Entering Company Type
+[INFO ] 2022-12-11 18:40:53.664 [users.AddNewUserHiring] [enterCompanyType] - Company Type Entered Successfully
+[INFO ] 2022-12-11 18:40:53.665 [users.AddNewUserHiring] [clickLastNameField] - Clicking Last Name field
+[INFO ] 2022-12-11 18:40:53.759 [users.AddNewUserHiring] [clickLastNameField] - Last Name  field clicked successfully
+[INFO ] 2022-12-11 18:40:56.766 [users.AddNewUserHiring] [enterUserEmail] - Entering user email address
+[INFO ] 2022-12-11 18:40:56.993 [users.AddNewUserHiring] [enterUserEmail] - Email entered successfully
+[INFO ] 2022-12-11 18:40:56.994 [users.AddNewUserHiring] [enterFirstNameField] - Entering First Name field
+[INFO ] 2022-12-11 18:40:57.285 [users.AddNewUserHiring] [enterFirstNameField] - First Name  entered successfully
+[INFO ] 2022-12-11 18:40:57.285 [users.AddNewUserHiring] [enterLastNameField] - Entering Last Name field
+[INFO ] 2022-12-11 18:40:57.433 [users.AddNewUserHiring] [enterLastNameField] - Last Name entered successfully
+[INFO ] 2022-12-11 18:41:01.902 [users.AddNewUserHiring] [clickLastNameField] - Clicking Last Name field
+[INFO ] 2022-12-11 18:41:01.983 [users.AddNewUserHiring] [clickLastNameField] - Last Name  field clicked successfully
+[INFO ] 2022-12-11 18:41:01.983 [users.AddNewUserHiring] [clickSavebutton] - Clicking save button
+[INFO ] 2022-12-11 18:41:02.070 [users.AddNewUserHiring] [clickSavebutton] - Save button clicked successfully
+[INFO ] 2022-12-11 18:42:13.690 [users.AddNewUserHiring] [clickFilterIcon] - clicking filter icon present on the listing page
+[INFO ] 2022-12-11 18:42:13.874 [users.AddNewUserHiring] [clickFilterIcon] - Filter icon clicked successfully
+[INFO ] 2022-12-11 18:42:13.875 [users.AddNewUserHiring] [clickClearFilterIcon] - clicking Clear Filter icon present on the listing page
+[INFO ] 2022-12-11 18:42:13.921 [users.AddNewUserHiring] [clickClearFilterIcon] - Clear Filter icon clicked successfully

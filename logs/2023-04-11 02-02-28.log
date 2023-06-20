@@ -1,0 +1,159 @@
+[INFO ] 2023-04-11 02:02:42.784 [directOrder.TG_5802_DirectOrderPartialClaim] [enterUsername] - Entering new user's first name
+[INFO ] 2023-04-11 02:02:44.857 [directOrder.TG_5802_DirectOrderPartialClaim] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-04-11 02:02:44.859 [directOrder.TG_5802_DirectOrderPartialClaim] [enterPassword] - Entering new user's last name
+[INFO ] 2023-04-11 02:02:45.183 [directOrder.TG_5802_DirectOrderPartialClaim] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-04-11 02:02:45.183 [directOrder.TG_5802_DirectOrderPartialClaim] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-04-11 02:02:45.806 [directOrder.TG_5802_DirectOrderPartialClaim] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-04-11 02:02:45.808 [directOrder.TG_5802_DirectOrderPartialClaim] [clickStaffingCompanies] - Clicking on Staffing Companies Button
+[INFO ] 2023-04-11 02:02:56.909 [directOrder.TG_5802_DirectOrderPartialClaim] [clickStaffingCompanies] - Staffing Companies Button clicked successfully
+[INFO ] 2023-04-11 02:02:56.911 [directOrder.TG_5802_DirectOrderPartialClaim] [verifyStaffingCompanyList] - Verify Staffing Company List is displayed
+[INFO ] 2023-04-11 02:03:00.992 [directOrder.TG_5802_DirectOrderPartialClaim] [verifyStaffingCompanyList] - Staffing Company List displayed successfully
+[INFO ] 2023-04-11 02:03:09.005 [directOrder.TG_5802_DirectOrderPartialClaim] [clickHundredFilter] - Clicking on 100 records button
+[INFO ] 2023-04-11 02:03:09.322 [directOrder.TG_5802_DirectOrderPartialClaim] [clickHundredFilter] - 100 records button clicked Successfully
+[INFO ] 2023-04-11 02:03:14.333 [directOrder.TG_5802_DirectOrderPartialClaim] [clickStaffingCompanyDirectOrder] - Clicking on Staffing Companies Button
+[INFO ] 2023-04-11 02:03:15.629 [directOrder.TG_5802_DirectOrderPartialClaim] [clickStaffingCompanyDirectOrder] - Staffing Companies Button clicked successfully
+[INFO ] 2023-04-11 02:03:18.638 [directOrder.TG_5802_DirectOrderPartialClaim] [clickPlaceOrderButton] - Clicking on Staffing Company
+[INFO ] 2023-04-11 02:03:20.375 [directOrder.TG_5802_DirectOrderPartialClaim] [clickPlaceOrderButton] - Staffing Company clicked successfully
+[INFO ] 2023-04-11 02:03:20.376 [directOrder.TG_5802_DirectOrderPartialClaim] [enterEstDailyHours] - Entering EstDailyHours
+[INFO ] 2023-04-11 02:03:29.369 [directOrder.TG_5802_DirectOrderPartialClaim] [enterEstDailyHours] - EstDailyHours entered successfully
+[INFO ] 2023-04-11 02:03:31.383 [directOrder.TG_5802_DirectOrderPartialClaim] [enterStartDate] - Entering StartDate
+[INFO ] 2023-04-11 02:03:37.223 [directOrder.TG_5802_DirectOrderPartialClaim] [enterStartDate] - StartDate entered successfully
+[INFO ] 2023-04-11 02:03:39.230 [directOrder.TG_5802_DirectOrderPartialClaim] [enterEndDate] - Entering EndDate
+[INFO ] 2023-04-11 02:03:44.680 [directOrder.TG_5802_DirectOrderPartialClaim] [enterEndDate] - EndDate entered successfully
+[INFO ] 2023-04-11 02:03:46.694 [directOrder.TG_5802_DirectOrderPartialClaim] [enterStartTime] - Entering StartTime
+[INFO ] 2023-04-11 02:03:47.594 [directOrder.TG_5802_DirectOrderPartialClaim] [enterStartTime] - StartTime entered successfully
+[INFO ] 2023-04-11 02:03:49.603 [directOrder.TG_5802_DirectOrderPartialClaim] [enterAvailability] - Entering Availability
+[INFO ] 2023-04-11 02:03:50.125 [directOrder.TG_5802_DirectOrderPartialClaim] [enterAvailability] - Availabilit entered successfully
+[INFO ] 2023-04-11 02:03:50.126 [directOrder.TG_5802_DirectOrderPartialClaim] [enterJobSite] - Entering JobSite
+[INFO ] 2023-04-11 02:03:54.444 [directOrder.TG_5802_DirectOrderPartialClaim] [enterJobSite] - JobSite entered successfully
+[INFO ] 2023-04-11 02:03:56.454 [directOrder.TG_5802_DirectOrderPartialClaim] [enterJobTitle] - Entering JobTitle
+[INFO ] 2023-04-11 02:03:57.470 [directOrder.TG_5802_DirectOrderPartialClaim] [enterJobTitle] - JobTitle entered successfully
+[INFO ] 2023-04-11 02:03:59.480 [directOrder.TG_5802_DirectOrderPartialClaim] [enterNoOfWorker] - Entering No Of Workers
+[INFO ] 2023-04-11 02:03:59.832 [directOrder.TG_5802_DirectOrderPartialClaim] [enterNoOfWorker] - NoOfWorkers entered successfully
+[INFO ] 2023-04-11 02:04:01.838 [directOrder.TG_5802_DirectOrderPartialClaim] [enterESignature] - Entering ESignature
+[INFO ] 2023-04-11 02:04:02.088 [directOrder.TG_5802_DirectOrderPartialClaim] [enterESignature] - ESignature entered successfully
+[INFO ] 2023-04-11 02:04:02.089 [directOrder.TG_5802_DirectOrderPartialClaim] [clickAgreeContract] - clickAgreeContract
+[INFO ] 2023-04-11 02:04:02.386 [directOrder.TG_5802_DirectOrderPartialClaim] [clickAgreeContract] - clickAgreeContract successfully
+[INFO ] 2023-04-11 02:04:05.391 [directOrder.TG_5802_DirectOrderPartialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Started==Verifying Job Order Id And Popup that Email Sent Successfully
+[INFO ] 2023-04-11 02:04:28.544 [directOrder.TG_5802_DirectOrderPartialClaim] [getTextHiringId] - Job order link present on the home page clicked
+[INFO ] 2023-04-11 02:04:37.368 [directOrder.TG_5802_DirectOrderPartialClaim] [getTextHiringId] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-04-11 02:04:49.496 [directOrder.TG_5802_DirectOrderPartialClaim] [enterUsername] - Entering new user's first name
+[INFO ] 2023-04-11 02:04:49.694 [directOrder.TG_5802_DirectOrderPartialClaim] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-04-11 02:04:49.697 [directOrder.TG_5802_DirectOrderPartialClaim] [enterPassword] - Entering new user's last name
+[INFO ] 2023-04-11 02:04:49.859 [directOrder.TG_5802_DirectOrderPartialClaim] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-04-11 02:04:49.860 [directOrder.TG_5802_DirectOrderPartialClaim] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-04-11 02:04:50.202 [directOrder.TG_5802_DirectOrderPartialClaim] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-04-11 02:04:53.211 [directOrder.TG_5802_DirectOrderPartialClaim] [clickNotificationIcon] - Clicking on Notifications
+[INFO ] 2023-04-11 02:04:55.498 [directOrder.TG_5802_DirectOrderPartialClaim] [clickNotificationIcon] - Notifications clicked successfully
+[INFO ] 2023-04-11 02:04:57.507 [directOrder.TG_5802_DirectOrderPartialClaim] [verifyNotificationText] - Verify Direct Order Text in Notification
+[INFO ] 2023-04-11 02:04:57.741 [directOrder.TG_5802_DirectOrderPartialClaim] [verifyNotificationText] - Direct Order Text in Notification displayed successfully
+[INFO ] 2023-04-11 02:04:57.752 [directOrder.TG_5802_DirectOrderPartialClaim] [clickJobOrderHomePage] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-04-11 02:05:00.839 [directOrder.TG_5802_DirectOrderPartialClaim] [clickJobOrderHomePage] - All job orders menu present on the staffing hompage clicked successfully and navigates to joborder listing form  .
+[INFO ] 2023-04-11 02:05:02.852 [directOrder.TG_5802_DirectOrderPartialClaim] [verifyJobOrderPage] - Job order form is displayed
+[INFO ] 2023-04-11 02:05:02.985 [directOrder.TG_5802_DirectOrderPartialClaim] [verifyJobOrderPage] - Job orderform is displayed successfully
+[INFO ] 2023-04-11 02:05:12.997 [directOrder.TG_5802_DirectOrderPartialClaim] [selectParticularJobOrderFromListing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-04-11 02:05:23.283 [directOrder.TG_5802_DirectOrderPartialClaim] [selectParticularJobOrderFromListing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-04-11 02:05:28.294 [directOrder.TG_5802_DirectOrderPartialClaim] [clickOrdersMenuOnStaffingHomePage] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-04-11 02:05:28.472 [directOrder.TG_5802_DirectOrderPartialClaim] [clickOrdersMenuOnStaffingHomePage] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-04-11 02:05:30.492 [directOrder.TG_5802_DirectOrderPartialClaim] [clickDirectOrderNav] - Clicking on Direct Orders
+[INFO ] 2023-04-11 02:05:31.267 [directOrder.TG_5802_DirectOrderPartialClaim] [clickDirectOrderNav] - Direct orders clicked successfully
+[INFO ] 2023-04-11 02:05:33.279 [directOrder.TG_5802_DirectOrderPartialClaim] [selectParticularJobOrderFromListing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-04-11 02:05:43.518 [directOrder.TG_5802_DirectOrderPartialClaim] [selectParticularJobOrderFromListing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-04-11 02:05:48.534 [directOrder.TG_5802_DirectOrderPartialClaim] [clickClaimOrderButton] - Clicking on Claim order Button
+[INFO ] 2023-04-11 02:05:48.699 [directOrder.TG_5802_DirectOrderPartialClaim] [clickClaimOrderButton] - Claim order button clicked successfully
+[INFO ] 2023-04-11 02:05:50.709 [directOrder.TG_5802_DirectOrderPartialClaim] [enterNoOfEmployeesClaim] - Entering the No. of Employees Claim
+[INFO ] 2023-04-11 02:05:51.006 [directOrder.TG_5802_DirectOrderPartialClaim] [enterNoOfEmployeesClaim] - No. of Employees Claim entered successfully
+[INFO ] 2023-04-11 02:05:53.017 [directOrder.TG_5802_DirectOrderPartialClaim] [enterESignature] - Entering the E-Signature
+[INFO ] 2023-04-11 02:05:53.186 [directOrder.TG_5802_DirectOrderPartialClaim] [enterESignature] - E-Signature entered successfully
+[INFO ] 2023-04-11 02:05:55.201 [directOrder.TG_5802_DirectOrderPartialClaim] [clickAgreeContract] - Clicking on Agree to Contract Button
+[INFO ] 2023-04-11 02:05:55.407 [directOrder.TG_5802_DirectOrderPartialClaim] [clickAgreeContract] - Agree to Contract Button clicked successfully
+[INFO ] 2023-04-11 02:06:05.422 [directOrder.TG_5802_DirectOrderPartialClaim] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-04-11 02:06:05.629 [directOrder.TG_5802_DirectOrderPartialClaim] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-04-11 02:07:15.760 [directOrder.TG_5802_DirectOrderPartialClaim] [autoApproveText] - Verify Auto Approve Text
+[INFO ] 2023-04-11 02:07:26.468 [directOrder.TG_5802_DirectOrderPartialClaim] [autoApproveText] - Auto Approve Text displayed successfully
+[DEBUG] 2023-04-11 02:07:28.292 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.307 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.313 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.317 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.318 [freemarker.cache] [debug] - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+[DEBUG] 2023-04-11 02:07:28.454 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.454 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.460 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.481 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.481 [freemarker.cache] [debug] - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+[DEBUG] 2023-04-11 02:07:28.690 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.692 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.692 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.693 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.694 [freemarker.cache] [debug] - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+[DEBUG] 2023-04-11 02:07:28.713 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.715 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.715 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.717 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.717 [freemarker.cache] [debug] - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+[DEBUG] 2023-04-11 02:07:28.721 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.722 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.722 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.723 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.724 [freemarker.cache] [debug] - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+[DEBUG] 2023-04-11 02:07:28.729 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.731 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.731 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.732 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.732 [freemarker.cache] [debug] - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+[DEBUG] 2023-04-11 02:07:28.738 [freemarker.cache] [debug] - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2023-04-11 02:07:28.739 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.739 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.739 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.741 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.741 [freemarker.cache] [debug] - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+[DEBUG] 2023-04-11 02:07:28.753 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.754 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.755 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.755 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.756 [freemarker.cache] [debug] - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+[DEBUG] 2023-04-11 02:07:28.761 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.764 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.768 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.768 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.768 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+[DEBUG] 2023-04-11 02:07:28.771 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.772 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.772 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.774 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.774 [freemarker.cache] [debug] - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+[DEBUG] 2023-04-11 02:07:28.784 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.784 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.784 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.785 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.785 [freemarker.cache] [debug] - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+[DEBUG] 2023-04-11 02:07:28.854 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.854 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.855 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.855 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.855 [freemarker.cache] [debug] - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+[DEBUG] 2023-04-11 02:07:28.938 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.940 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.941 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.941 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.941 [freemarker.cache] [debug] - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+[DEBUG] 2023-04-11 02:07:28.949 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.950 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.950 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.951 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.951 [freemarker.cache] [debug] - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+[DEBUG] 2023-04-11 02:07:28.961 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.961 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.962 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.963 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.963 [freemarker.cache] [debug] - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+[DEBUG] 2023-04-11 02:07:28.986 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.987 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.988 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.988 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.988 [freemarker.cache] [debug] - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+[DEBUG] 2023-04-11 02:07:28.989 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-11 02:07:28.990 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.991 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[DEBUG] 2023-04-11 02:07:28.991 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[DEBUG] 2023-04-11 02:07:28.991 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"

@@ -1,0 +1,33 @@
+[INFO ] 2023-02-24 14:31:48.882 [users.AddNewUserHiring] [VerifyMandatoryFields] - Started==Verifying mandatory fields in Add New User form
+[INFO ] 2023-02-24 14:31:54.541 [users.AddNewUserHiring] [VerifyMandatoryFields] - Logging into the application using username: ankit_tag@yopmail.com
+[INFO ] 2023-02-24 14:31:54.543 [users.AddNewUserHiring] [enterUsername] - Entering new user's first name
+[INFO ] 2023-02-24 14:31:56.474 [users.AddNewUserHiring] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-02-24 14:31:56.482 [users.AddNewUserHiring] [enterPassword] - Entering new user's last name
+[INFO ] 2023-02-24 14:31:56.745 [users.AddNewUserHiring] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-02-24 14:31:56.746 [users.AddNewUserHiring] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-02-24 14:31:57.323 [users.AddNewUserHiring] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-02-24 14:31:57.323 [users.AddNewUserHiring] [VerifyMandatoryFields] - User: ankit_tag@yopmail.com logged in successfully
+[INFO ] 2023-02-24 14:32:00.331 [users.AddNewUserHiring] [clickUsersLinkOnHomePage] - Clicking Users link present on the homepage
+[INFO ] 2023-02-24 14:32:13.635 [users.AddNewUserHiring] [clickUsersLinkOnHomePage] - Users link present on the hompage clicked successfully.
+[INFO ] 2023-02-24 14:32:24.065 [users.AddNewUserHiring] [clearCompanyTypeField] - Clearing company type field
+[INFO ] 2023-02-24 14:32:24.282 [users.AddNewUserHiring] [clearCompanyTypeField] - Company Type field cleared Successfully
+[INFO ] 2023-02-24 14:32:24.282 [users.AddNewUserHiring] [clickLastNameField] - Clicking Last Name field
+[INFO ] 2023-02-24 14:32:24.507 [users.AddNewUserHiring] [clickLastNameField] - Last Name  field clicked successfully
+[INFO ] 2023-02-24 14:32:24.507 [users.AddNewUserHiring] [clickSavebutton] - Clicking save button
+[INFO ] 2023-02-24 14:32:24.896 [users.AddNewUserHiring] [clickSavebutton] - Save button clicked successfully
+[INFO ] 2023-02-24 14:32:28.501 [users.AddNewUserHiring] [verifyCreateNewUser] - Started==Verify user creation
+[INFO ] 2023-02-24 14:32:28.501 [users.AddNewUserHiring] [enterCompanyType] - Entering Company Type
+[INFO ] 2023-02-24 14:32:28.889 [users.AddNewUserHiring] [enterCompanyType] - Company Type Entered Successfully
+[INFO ] 2023-02-24 14:32:28.889 [users.AddNewUserHiring] [clickLastNameField] - Clicking Last Name field
+[INFO ] 2023-02-24 14:32:28.993 [users.AddNewUserHiring] [clickLastNameField] - Last Name  field clicked successfully
+[INFO ] 2023-02-24 14:32:32.002 [users.AddNewUserHiring] [enterUserEmail] - Entering user email address
+[INFO ] 2023-02-24 14:32:32.237 [users.AddNewUserHiring] [enterUserEmail] - Email entered successfully
+[INFO ] 2023-02-24 14:32:32.237 [users.AddNewUserHiring] [enterFirstNameField] - Entering First Name field
+[INFO ] 2023-02-24 14:32:32.540 [users.AddNewUserHiring] [enterFirstNameField] - First Name  entered successfully
+[INFO ] 2023-02-24 14:32:32.542 [users.AddNewUserHiring] [enterLastNameField] - Entering Last Name field
+[INFO ] 2023-02-24 14:32:32.663 [users.AddNewUserHiring] [enterLastNameField] - Last Name entered successfully
+[INFO ] 2023-02-24 14:32:37.146 [users.AddNewUserHiring] [clickSavebutton] - Clicking save button
+[INFO ] 2023-02-24 14:32:37.221 [users.AddNewUserHiring] [clickSavebutton] - Save button clicked successfully
+[INFO ] 2023-02-24 14:33:42.373 [users.AddNewUserHiring] [verifyUserCreatedOrNot] - Verifying Pop Up Text
+[INFO ] 2023-02-24 14:33:42.645 [users.AddNewUserHiring] [verifyUserCreatedOrNot] - Getting the Pop Up text
+[INFO ] 2023-02-24 14:33:54.495 [users.AddNewUserHiring] [TG_234_PasswordSetup] - Started==new user password setup

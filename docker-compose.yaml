@@ -1,0 +1,34 @@
+version: "3.9"
+
+services:
+
+   healenium:
+     image: healenium/hlm-backend:3.2.5
+     container_name: healenium
+     restart: on-failure
+     ports:
+       - "7878:7878"
+     environment:
+       - SPRING_POSTGRES_DB=bizbook_test
+       - SPRING_POSTGRES_SCHEMA=healenium
+       - SPRING_POSTGRES_USER=bizbook
+       - SPRING_POSTGRES_PASSWORD=bizbook123
+       - SPRING_POSTGRES_DB_HOST=bizbook-dev-db-cluster.ccoyob2ajd8x.us-east-1.rds.amazonaws.com
+       - KEY_SELECTOR_URL=true
+       - COLLECT_METRICS=true
+       - SPRING_SERVER_PORT=7878
+     networks:
+       - healenium
+
+   selector-imitator:
+    image: healenium/hlm-selector-imitator:1.1
+    container_name: selector-imitator
+    restart: on-failure
+    ports:
+      - "8000:8000"
+    networks:
+      - healenium
+
+networks:
+  healenium:
+    name: healenium

@@ -1,0 +1,76 @@
+[INFO ] 2023-04-05 21:29:20.558 [jobOrder.TG_6129_RepeatOpenOrder] [enterUsername] - Entering new user's first name
+[INFO ] 2023-04-05 21:29:21.131 [jobOrder.TG_6129_RepeatOpenOrder] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-04-05 21:29:21.132 [jobOrder.TG_6129_RepeatOpenOrder] [enterPassword] - Entering new user's last name
+[INFO ] 2023-04-05 21:29:21.312 [jobOrder.TG_6129_RepeatOpenOrder] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-04-05 21:29:21.313 [jobOrder.TG_6129_RepeatOpenOrder] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-04-05 21:29:21.763 [jobOrder.TG_6129_RepeatOpenOrder] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-04-05 21:29:24.769 [jobOrder.TG_6129_RepeatOpenOrder] [clickOrdersMenuOnHiringHomePage] - Clicking Order menu present on the Hiring homepage
+[INFO ] 2023-04-05 21:29:33.643 [jobOrder.TG_6129_RepeatOpenOrder] [clickOrdersMenuOnHiringHomePage] - Order menu present on the Hiring hompage clicked successfully.
+[INFO ] 2023-04-05 21:29:43.655 [jobOrder.TG_6129_RepeatOpenOrder] [clickCompletedOrdersTab] - Clicking on the Completed Orders Tab 
+[INFO ] 2023-04-05 21:29:44.107 [jobOrder.TG_6129_RepeatOpenOrder] [clickCompletedOrdersTab] - Completed Tab Clicked Successfully
+[INFO ] 2023-04-05 21:29:59.118 [jobOrder.TG_6129_RepeatOpenOrder] [clickCompletedOrder] - Clicking on the Completed Order 
+[INFO ] 2023-04-05 21:30:01.307 [jobOrder.TG_6129_RepeatOpenOrder] [clickCompletedOrder] - Completed Order Clicked Successfully
+[INFO ] 2023-04-05 21:30:01.313 [jobOrder.TG_6129_RepeatOpenOrder] [getJobSiteText] - Getting Job site text
+[INFO ] 2023-04-05 21:30:03.321 [jobOrder.TG_6129_RepeatOpenOrder] [getJobSiteText] - Got the text successfully
+[INFO ] 2023-04-05 21:30:03.322 [jobOrder.TG_6129_RepeatOpenOrder] [getJobTitleText] - Getting Job Title text
+[INFO ] 2023-04-05 21:30:03.460 [jobOrder.TG_6129_RepeatOpenOrder] [getJobTitleText] - Got the text successfully
+[INFO ] 2023-04-05 21:30:03.461 [jobOrder.TG_6129_RepeatOpenOrder] [getJobIndustryText] - Getting Job Industry text
+[INFO ] 2023-04-05 21:30:03.910 [jobOrder.TG_6129_RepeatOpenOrder] [getJobIndustryText] - Got the text successfully
+[INFO ] 2023-04-05 21:30:03.912 [jobOrder.TG_6129_RepeatOpenOrder] [getEstHoursText] - Getting getEstHoursText
+[INFO ] 2023-04-05 21:30:04.030 [jobOrder.TG_6129_RepeatOpenOrder] [getEstHoursText] - Got the text successfully
+[INFO ] 2023-04-05 21:30:04.031 [jobOrder.TG_6129_RepeatOpenOrder] [getNoOfWorkers] - Getting Number of Workers
+[INFO ] 2023-04-05 21:30:04.188 [jobOrder.TG_6129_RepeatOpenOrder] [getNoOfWorkers] - Got the text successfully
+[INFO ] 2023-04-05 21:30:04.188 [jobOrder.TG_6129_RepeatOpenOrder] [getESignature] - Getting ESignature Value
+[INFO ] 2023-04-05 21:30:04.308 [jobOrder.TG_6129_RepeatOpenOrder] [getESignature] - Got the text successfully
+[INFO ] 2023-04-05 21:30:06.321 [jobOrder.TG_6129_RepeatOpenOrder] [clickRepeatOrderButton] - Clicking on the Repeat Order Button
+[INFO ] 2023-04-05 21:30:06.670 [jobOrder.TG_6129_RepeatOpenOrder] [clickRepeatOrderButton] - Repeat Order Button Clicked Successfully
+[INFO ] 2023-04-05 21:30:06.671 [jobOrder.TG_6129_RepeatOpenOrder] [clickOpenOrderCheckbox] - Clicking on the Open Order Checkbox
+[INFO ] 2023-04-05 21:30:07.628 [jobOrder.TG_6129_RepeatOpenOrder] [clickOpenOrderCheckbox] - Open Order Checkbox Clicked Successfully
+[INFO ] 2023-04-05 21:30:07.629 [jobOrder.TG_6129_RepeatOpenOrder] [clickProceedButton] - Clicking on the Proceed Button
+[INFO ] 2023-04-05 21:30:07.973 [jobOrder.TG_6129_RepeatOpenOrder] [clickProceedButton] - Proceed Button Clicked Successfully
+[INFO ] 2023-04-05 21:30:07.975 [jobOrder.TG_6129_RepeatOpenOrder] [verifyJobSiteTextIsPresent] - Verifying same Job Site present
+[INFO ] 2023-04-05 21:30:08.399 [jobOrder.TG_6129_RepeatOpenOrder] [verifyJobSiteTextIsPresent] - Same job site is present
+[INFO ] 2023-04-05 21:30:08.402 [jobOrder.TG_6129_RepeatOpenOrder] [verifyJobTitleTextIsPresent] - Verifying same Job Title present
+[INFO ] 2023-04-05 21:30:08.533 [jobOrder.TG_6129_RepeatOpenOrder] [verifyJobTitleTextIsPresent] - Same job Title is present
+[INFO ] 2023-04-05 21:30:08.533 [jobOrder.TG_6129_RepeatOpenOrder] [verifyJobIndustryTextIsPresent] - Verifying same Job Industry present
+[INFO ] 2023-04-05 21:30:08.627 [jobOrder.TG_6129_RepeatOpenOrder] [verifyJobIndustryTextIsPresent] - Same job Industry is present
+[INFO ] 2023-04-05 21:30:08.627 [jobOrder.TG_6129_RepeatOpenOrder] [verifyEstHoursTextIsPresent] - Verifying same Estimated Hours present
+[INFO ] 2023-04-05 21:30:08.656 [jobOrder.TG_6129_RepeatOpenOrder] [verifyEstHoursTextIsPresent] - Same Estimated Hours is present
+[INFO ] 2023-04-05 21:30:08.656 [jobOrder.TG_6129_RepeatOpenOrder] [verifynoOfWorkersTextIsPresent] - Verifying same Number of Workers present
+[INFO ] 2023-04-05 21:30:08.676 [jobOrder.TG_6129_RepeatOpenOrder] [verifynoOfWorkersTextIsPresent] - Same Number of Workers is present
+[INFO ] 2023-04-05 21:30:08.676 [jobOrder.TG_6129_RepeatOpenOrder] [verifyESignatureTextIsPresent] - Verifying same Esignature present
+[INFO ] 2023-04-05 21:30:08.695 [jobOrder.TG_6129_RepeatOpenOrder] [verifyESignatureTextIsPresent] - Same Esignature is present
+[INFO ] 2023-04-05 21:30:12.705 [jobOrder.TG_6129_RepeatOpenOrder] [enterStartDate] - Entering StartDate
+[INFO ] 2023-04-05 21:30:18.042 [jobOrder.TG_6129_RepeatOpenOrder] [enterStartDate] - StartDate entered successfully
+[INFO ] 2023-04-05 21:30:20.052 [jobOrder.TG_6129_RepeatOpenOrder] [enterEndDate] - Entering EndDate
+[INFO ] 2023-04-05 21:30:25.316 [jobOrder.TG_6129_RepeatOpenOrder] [enterEndDate] - EndDate entered successfully
+[INFO ] 2023-04-05 21:30:27.322 [jobOrder.TG_6129_RepeatOpenOrder] [enterAvailability] - Entering Availability
+[INFO ] 2023-04-05 21:30:27.665 [jobOrder.TG_6129_RepeatOpenOrder] [enterAvailability] - Availabilit entered successfully
+[INFO ] 2023-04-05 21:30:44.156 [jobOrder.TG_6129_RepeatOpenOrder] [getTextHiringId] - Job order link present on the home page clicked
+[INFO ] 2023-04-05 21:30:52.889 [jobOrder.TG_6129_RepeatOpenOrder] [getTextHiringId] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-04-05 21:31:04.749 [jobOrder.TG_6129_RepeatOpenOrder] [enterUsername] - Entering new user's first name
+[INFO ] 2023-04-05 21:31:04.955 [jobOrder.TG_6129_RepeatOpenOrder] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-04-05 21:31:04.957 [jobOrder.TG_6129_RepeatOpenOrder] [enterPassword] - Entering new user's last name
+[INFO ] 2023-04-05 21:31:05.067 [jobOrder.TG_6129_RepeatOpenOrder] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-04-05 21:31:05.067 [jobOrder.TG_6129_RepeatOpenOrder] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-04-05 21:31:05.250 [jobOrder.TG_6129_RepeatOpenOrder] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-04-05 21:31:05.250 [jobOrder.TG_6129_RepeatOpenOrder] [clickJobOrderHomePage] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-04-05 21:31:12.965 [jobOrder.TG_6129_RepeatOpenOrder] [clickJobOrderHomePage] - All job orders menu present on the staffing hompage clicked successfully and navigates to joborder listing form  .
+[INFO ] 2023-04-05 21:31:14.974 [jobOrder.TG_6129_RepeatOpenOrder] [verifyJobOrderPage] - Job order form is displayed
+[INFO ] 2023-04-05 21:31:15.085 [jobOrder.TG_6129_RepeatOpenOrder] [verifyJobOrderPage] - Job orderform is displayed successfully
+[INFO ] 2023-04-05 21:31:25.092 [jobOrder.TG_6129_RepeatOpenOrder] [selectParticularJobOrderFromListing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-04-05 21:31:35.254 [jobOrder.TG_6129_RepeatOpenOrder] [selectParticularJobOrderFromListing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-04-05 21:31:59.114 [jobOrder.TG_6129_RepeatOpenOrder] [enterUsername] - Entering new user's first name
+[INFO ] 2023-04-05 21:31:59.216 [jobOrder.TG_6129_RepeatOpenOrder] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-04-05 21:31:59.221 [jobOrder.TG_6129_RepeatOpenOrder] [enterPassword] - Entering new user's last name
+[INFO ] 2023-04-05 21:31:59.343 [jobOrder.TG_6129_RepeatOpenOrder] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-04-05 21:31:59.344 [jobOrder.TG_6129_RepeatOpenOrder] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-04-05 21:31:59.432 [jobOrder.TG_6129_RepeatOpenOrder] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-04-05 21:32:06.446 [jobOrder.TG_6129_RepeatOpenOrder] [clickOrdersMenuOnHiringHomePage] - Clicking Order menu present on the Hiring homepage
+[INFO ] 2023-04-05 21:32:06.991 [jobOrder.TG_6129_RepeatOpenOrder] [clickOrdersMenuOnHiringHomePage] - Order menu present on the Hiring hompage clicked successfully.
+[INFO ] 2023-04-05 21:32:25.194 [jobOrder.TG_6129_RepeatOpenOrder] [clickDeleteJobOrderButton] - Clicking on delete button present on Job Order detials page
+[INFO ] 2023-04-05 21:32:25.359 [jobOrder.TG_6129_RepeatOpenOrder] [clickDeleteJobOrderButton] - Delete button present on Job Order detials page clicked
+[INFO ] 2023-04-05 21:32:28.519 [jobOrder.TG_6129_RepeatOpenOrder] [clickAcceptDeleteJobOrderRequestButton] - Clicking on confirm deletion button
+[INFO ] 2023-04-05 21:32:28.637 [jobOrder.TG_6129_RepeatOpenOrder] [clickAcceptDeleteJobOrderRequestButton] - Confirm deletion button clicked
+[INFO ] 2023-04-05 21:32:28.637 [jobOrder.TG_6129_RepeatOpenOrder] [verifyJobOrderDeleted] - Verifying that job order deleted via pop-up
+[INFO ] 2023-04-05 21:32:28.920 [jobOrder.TG_6129_RepeatOpenOrder] [verifyJobOrderDeleted] - Verified that order deleted successfully

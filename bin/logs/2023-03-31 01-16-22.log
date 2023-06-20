@@ -1,0 +1,166 @@
+[INFO ] 2023-03-31 01:16:31.889 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Logging in
+[INFO ] 2023-03-31 01:16:35.304 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Entering Username
+[INFO ] 2023-03-31 01:16:35.306 [CRM.TG_5353_Contact_Creation] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-31 01:16:37.303 [CRM.TG_5353_Contact_Creation] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-31 01:16:37.303 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Username Entered Successfully
+[INFO ] 2023-03-31 01:16:37.304 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Entering Password
+[INFO ] 2023-03-31 01:16:37.305 [CRM.TG_5353_Contact_Creation] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-31 01:16:37.608 [CRM.TG_5353_Contact_Creation] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-31 01:16:37.608 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Password Entered Successfully
+[INFO ] 2023-03-31 01:16:37.608 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Clicking on Login Button
+[INFO ] 2023-03-31 01:16:37.608 [CRM.TG_5353_Contact_Creation] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-31 01:16:38.282 [CRM.TG_5353_Contact_Creation] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-31 01:16:38.299 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Verifying CRM Icon
+[INFO ] 2023-03-31 01:16:38.299 [CRM.TG_5353_Contact_Creation] [verifyCRMTextOnHomepage] - Check for CRM Icon on Homepage
+[INFO ] 2023-03-31 01:16:53.954 [CRM.TG_5353_Contact_Creation] [verifyCRMTextOnHomepage] - CRM Icon displayed successfully
+[INFO ] 2023-03-31 01:16:53.962 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - CRM Icon Clicked Successfully
+[INFO ] 2023-03-31 01:16:53.963 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Clicking on CRM Icon
+[INFO ] 2023-03-31 01:16:53.963 [CRM.TG_5353_Contact_Creation] [clickCRMIcon] - Clicking on CRM Button
+[INFO ] 2023-03-31 01:16:54.653 [CRM.TG_5353_Contact_Creation] [clickCRMIcon] - CRM Button clicked successfully
+[INFO ] 2023-03-31 01:16:54.653 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - CRM Icon Clicked Successfully
+[INFO ] 2023-03-31 01:16:56.677 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Clicking on Contact Icon
+[INFO ] 2023-03-31 01:16:56.681 [CRM.TG_5353_Contact_Creation] [clickContactIcon] - Clicking on Contact Button
+[INFO ] 2023-03-31 01:16:58.369 [CRM.TG_5353_Contact_Creation] [clickContactIcon] - Contact Button clicked successfully
+[INFO ] 2023-03-31 01:16:58.369 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Contact Icon Clicked Successfully
+[INFO ] 2023-03-31 01:17:00.375 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Verify Listing Form
+[INFO ] 2023-03-31 01:17:00.376 [CRM.TG_5353_Contact_Creation] [verifyContactListingForm] - Check for Contact Title
+[INFO ] 2023-03-31 01:17:02.370 [CRM.TG_5353_Contact_Creation] [verifyContactListingForm] - Contact Title displayed successfully
+[INFO ] 2023-03-31 01:17:02.370 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Listing Form verified successfully
+[INFO ] 2023-03-31 01:17:04.376 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Clicking on Add Contact Button
+[INFO ] 2023-03-31 01:17:04.377 [CRM.TG_5353_Contact_Creation] [clickAddContactButton] - Clicking on Contact Button
+[INFO ] 2023-03-31 01:17:05.629 [CRM.TG_5353_Contact_Creation] [clickAddContactButton] - Add Contact Button clicked successfully
+[INFO ] 2023-03-31 01:17:05.630 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Add Contact Button Clicked Successfully
+[INFO ] 2023-03-31 01:17:07.648 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Verifying the Contact Form Title
+[INFO ] 2023-03-31 01:17:07.649 [CRM.TG_5353_Contact_Creation] [verifyContactForm] - Check for New Contact Form
+[INFO ] 2023-03-31 01:17:07.765 [CRM.TG_5353_Contact_Creation] [verifyContactForm] - New Contact Form displayed successfully
+[INFO ] 2023-03-31 01:17:07.766 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Contact Form Title is Verified Successfully
+[INFO ] 2023-03-31 01:17:07.766 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Verify Mandatory Fields and Creation of Contact
+[INFO ] 2023-03-31 01:17:07.767 [CRM.TG_5353_Contact_Creation] [clickSaveButton] - Clicking on Contact Button
+[INFO ] 2023-03-31 01:17:08.171 [CRM.TG_5353_Contact_Creation] [clickSaveButton] - Add Contact Button clicked successfully
+[INFO ] 2023-03-31 01:17:10.177 [CRM.TG_5353_Contact_Creation] [verifyMandatoryFieldIsBlank] - Verifying the Mandatory Field Pop-Up Title
+[INFO ] 2023-03-31 01:17:10.275 [CRM.TG_5353_Contact_Creation] [verifyMandatoryFieldIsBlank] - Mandatory Field Pop-Up Title displayed Successfully
+[INFO ] 2023-03-31 01:17:12.283 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Closing the Pop-up
+[INFO ] 2023-03-31 01:17:12.285 [CRM.TG_5353_Contact_Creation] [closeBlankMandatoryFieldDialogBox] - Clicking on Close Pop-Up Icon
+[INFO ] 2023-03-31 01:17:12.493 [CRM.TG_5353_Contact_Creation] [closeBlankMandatoryFieldDialogBox] - Close Pop-Up Icon Clicked Successfully
+[INFO ] 2023-03-31 01:17:12.493 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Pop-up closed Successfully
+[INFO ] 2023-03-31 01:17:14.500 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Closing the Pop-up
+[INFO ] 2023-03-31 01:17:14.503 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Entering Contact Name
+[INFO ] 2023-03-31 01:17:14.504 [CRM.TG_5353_Contact_Creation] [enterContactName] - Entering Contact Name
+[INFO ] 2023-03-31 01:17:14.695 [CRM.TG_5353_Contact_Creation] [enterContactName] - Contact Name Entered Successfully
+[INFO ] 2023-03-31 01:17:14.695 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Contact Name Entered Succesfully
+[INFO ] 2023-03-31 01:17:16.702 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Entering Email
+[INFO ] 2023-03-31 01:17:16.703 [CRM.TG_5353_Contact_Creation] [enterEmail] - Entering Email
+[INFO ] 2023-03-31 01:17:17.080 [CRM.TG_5353_Contact_Creation] [enterEmail] - Email Entered Successfully
+[INFO ] 2023-03-31 01:17:17.080 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Email Entered Successfully
+[INFO ] 2023-03-31 01:17:19.087 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Entering Phone Number
+[INFO ] 2023-03-31 01:17:19.089 [CRM.TG_5353_Contact_Creation] [enterPhoneNumber] - Entering Phone Number
+[INFO ] 2023-03-31 01:17:19.385 [CRM.TG_5353_Contact_Creation] [enterPhoneNumber] - Phone Number Entered Successfully
+[INFO ] 2023-03-31 01:17:19.386 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Phone Number Entered Successfully
+[INFO ] 2023-03-31 01:17:21.393 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Entering Lead
+[INFO ] 2023-03-31 01:17:21.395 [CRM.TG_5353_Contact_Creation] [enterLead] - Entering Lead
+[INFO ] 2023-03-31 01:17:21.553 [CRM.TG_5353_Contact_Creation] [enterLead] - Lead Entered Successfully
+[INFO ] 2023-03-31 01:17:21.553 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Lead Entered Successfully
+[INFO ] 2023-03-31 01:17:23.562 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Entering Address
+[INFO ] 2023-03-31 01:17:23.565 [CRM.TG_5353_Contact_Creation] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2023-03-31 01:17:24.855 [CRM.TG_5353_Contact_Creation] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2023-03-31 01:17:24.856 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Address Entered Successfully
+[INFO ] 2023-03-31 01:17:26.867 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Clicking on Save Button
+[INFO ] 2023-03-31 01:17:26.870 [CRM.TG_5353_Contact_Creation] [clickSaveButton] - Clicking on Contact Button
+[INFO ] 2023-03-31 01:17:27.028 [CRM.TG_5353_Contact_Creation] [clickSaveButton] - Add Contact Button clicked successfully
+[INFO ] 2023-03-31 01:17:27.029 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Save Button Clicked Successfully
+[INFO ] 2023-03-31 01:17:30.039 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Clicking Contact Link
+[INFO ] 2023-03-31 01:17:30.046 [CRM.TG_5353_Contact_Creation] [clickContactLinkforListingForm] - Click on Contact for Listing form
+[INFO ] 2023-03-31 01:17:30.388 [CRM.TG_5353_Contact_Creation] [clickContactLinkforListingForm] - Contact for Listing form clicked Successfully
+[INFO ] 2023-03-31 01:17:30.388 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Contact Link Clicked Successfully
+[INFO ] 2023-03-31 01:17:30.390 [CRM.TG_5353_Contact_Creation] [clickFiveHundredFilter] - Clicking on 500 filter
+[INFO ] 2023-03-31 01:17:30.529 [CRM.TG_5353_Contact_Creation] [clickFiveHundredFilter] - 500 filter clicked successfully
+[INFO ] 2023-03-31 01:17:35.531 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Verify Created Contact
+[INFO ] 2023-03-31 01:17:35.533 [CRM.TG_5353_Contact_Creation] [verifyContactCreatedOnListingPage] - Check for Created Contact
+[INFO ] 2023-03-31 01:17:35.638 [CRM.TG_5353_Contact_Creation] [verifyContactCreatedOnListingPage] - Created Contact displayed successfully
+[INFO ] 2023-03-31 01:17:35.638 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Created Contact Verified Successfully
+[DEBUG] 2023-03-31 01:17:35.978 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:35.982 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:35.983 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:35.984 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[DEBUG] 2023-03-31 01:17:35.984 [freemarker.cache] [debug] - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+[DEBUG] 2023-03-31 01:17:36.030 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.032 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.033 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.034 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.034 [freemarker.cache] [debug] - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+[DEBUG] 2023-03-31 01:17:36.140 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.141 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.141 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.142 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.142 [freemarker.cache] [debug] - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+[DEBUG] 2023-03-31 01:17:36.153 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.155 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.155 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.156 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.157 [freemarker.cache] [debug] - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+[DEBUG] 2023-03-31 01:17:36.160 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.160 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.161 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.161 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.161 [freemarker.cache] [debug] - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+[DEBUG] 2023-03-31 01:17:36.173 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.175 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.175 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.175 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.175 [freemarker.cache] [debug] - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+[DEBUG] 2023-03-31 01:17:36.185 [freemarker.cache] [debug] - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2023-03-31 01:17:36.186 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.186 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.187 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.189 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.189 [freemarker.cache] [debug] - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+[DEBUG] 2023-03-31 01:17:36.199 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.201 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.201 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.202 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.202 [freemarker.cache] [debug] - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+[DEBUG] 2023-03-31 01:17:36.207 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.208 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.208 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.208 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.208 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+[DEBUG] 2023-03-31 01:17:36.209 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.210 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.211 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.212 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.212 [freemarker.cache] [debug] - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+[DEBUG] 2023-03-31 01:17:36.220 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.220 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.220 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.221 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.221 [freemarker.cache] [debug] - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+[DEBUG] 2023-03-31 01:17:36.232 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.233 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.234 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.234 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.234 [freemarker.cache] [debug] - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+[DEBUG] 2023-03-31 01:17:36.305 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.307 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.307 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.308 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.308 [freemarker.cache] [debug] - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+[DEBUG] 2023-03-31 01:17:36.316 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.316 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.316 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.317 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.317 [freemarker.cache] [debug] - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+[DEBUG] 2023-03-31 01:17:36.332 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.333 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.333 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.334 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.334 [freemarker.cache] [debug] - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+[DEBUG] 2023-03-31 01:17:36.355 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.356 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.356 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.356 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.356 [freemarker.cache] [debug] - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+[DEBUG] 2023-03-31 01:17:36.358 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-31 01:17:36.358 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.358 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[DEBUG] 2023-03-31 01:17:36.359 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[DEBUG] 2023-03-31 01:17:36.359 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"

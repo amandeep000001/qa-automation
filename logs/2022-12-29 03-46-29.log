@@ -1,0 +1,66 @@
+[INFO ] 2022-12-29 03:46:32.040 [company.TG_4418_EmployeeOnboardingTemplate] [enterUsername] - Entering new user's first name
+[INFO ] 2022-12-29 03:46:32.945 [company.TG_4418_EmployeeOnboardingTemplate] [enterUsername] - User's first name entered successfully
+[INFO ] 2022-12-29 03:46:32.946 [company.TG_4418_EmployeeOnboardingTemplate] [enterPassword] - Entering new user's last name
+[INFO ] 2022-12-29 03:46:33.389 [company.TG_4418_EmployeeOnboardingTemplate] [enterPassword] - User's last name entered successfully
+[INFO ] 2022-12-29 03:46:33.390 [company.TG_4418_EmployeeOnboardingTemplate] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2022-12-29 03:46:34.167 [company.TG_4418_EmployeeOnboardingTemplate] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2022-12-29 03:46:37.190 [company.TG_4418_EmployeeOnboardingTemplate] [clickATSMenuOnStaffingHomePage] - Clicking Order menu present on the staffing homepage
+[INFO ] 2022-12-29 03:46:49.311 [company.TG_4418_EmployeeOnboardingTemplate] [clickATSMenuOnStaffingHomePage] - ATS menu present on the staffing hompage clicked successfully.
+[INFO ] 2022-12-29 03:46:49.314 [company.TG_4418_EmployeeOnboardingTemplate] [clickSetUpOptionUnderTheATS] - Clicking on the set up menu under the ATS option
+[INFO ] 2022-12-29 03:46:49.762 [company.TG_4418_EmployeeOnboardingTemplate] [clickSetUpOptionUnderTheATS] - clicked set up menu under the ATS option present on the staffing homepage successfully.
+[INFO ] 2022-12-29 03:46:49.762 [company.TG_4418_EmployeeOnboardingTemplate] [verifyEmployeeOnboardingTemplateTitle] - Verify EmployeeOnboardingTemplateTitle on the employee-onboarding Template page
+[INFO ] 2022-12-29 03:46:50.542 [company.TG_4418_EmployeeOnboardingTemplate] [verifyEmployeeOnboardingTemplateTitle] - EmployeeOnboardingTemplateTitle menu displayed successfully
+[INFO ] 2022-12-29 03:46:52.661 [company.TG_4418_EmployeeOnboardingTemplate] [clickAddEmployeeOnboardingTemplate] - Clicking AddEmployeeOnboarding present on the  employee-onboarding page
+[INFO ] 2022-12-29 03:46:53.425 [company.TG_4418_EmployeeOnboardingTemplate] [clickAddEmployeeOnboardingTemplate] - Add Employee Onboarding button clicked successfully.
+[INFO ] 2022-12-29 03:46:53.427 [company.TG_4418_EmployeeOnboardingTemplate] [verifyNewEmployeeOnboardingTemplateTitle] - Verify New Employee Onboarding Template Title while clicking add Employee Onboarding Template Button
+[INFO ] 2022-12-29 03:46:53.736 [company.TG_4418_EmployeeOnboardingTemplate] [verifyNewEmployeeOnboardingTemplateTitle] - New Employee Onboarding Template Title displayed while clicking add Employee Onboarding Template Button successfully
+[INFO ] 2022-12-29 03:46:55.767 [company.TG_4418_EmployeeOnboardingTemplate] [verifyCompanyFeildMandatory] - Verify Company field mandatory and auto-populate
+[INFO ] 2022-12-29 03:46:55.838 [company.TG_4418_EmployeeOnboardingTemplate] [verifyCompanyFeildMandatory] - Verified Company field mandatory and auto-populated successfully
+[INFO ] 2022-12-29 03:46:55.838 [company.TG_4418_EmployeeOnboardingTemplate] [verifyCompanyFeildAutoPopulated] - Verify Company Feild auto populated in new Employee Onboarding Template
+[INFO ] 2022-12-29 03:46:55.947 [company.TG_4418_EmployeeOnboardingTemplate] [verifyCompanyFeildAutoPopulated] - Company Feild auto populated in new Employee Onboarding Template successfully.
+[INFO ] 2022-12-29 03:46:55.968 [company.TG_4418_EmployeeOnboardingTemplate] [enterTemplateName] - Entering TemplateName 
+[INFO ] 2022-12-29 03:46:56.078 [company.TG_4418_EmployeeOnboardingTemplate] [enterTemplateName] - TemplateName entered successfully
+[INFO ] 2022-12-29 03:46:56.078 [company.TG_4418_EmployeeOnboardingTemplate] [clickAddRowButton] - Clicking Add Row button on the form under the Activities Panel
+[INFO ] 2022-12-29 03:46:56.455 [company.TG_4418_EmployeeOnboardingTemplate] [clickAddRowButton] - Clicked Add Row button on the form under the Activities Panel successfully
+[INFO ] 2022-12-29 03:46:58.491 [company.TG_4418_EmployeeOnboardingTemplate] [clickEditButton] - Clicking edit button on the form under the Activities Panel
+[INFO ] 2022-12-29 03:46:58.881 [company.TG_4418_EmployeeOnboardingTemplate] [clickEditButton] - Clicked edit button on the form under the Activities Panel successfully
+[INFO ] 2022-12-29 03:46:58.882 [company.TG_4418_EmployeeOnboardingTemplate] [verifyEditModal] - Verify new Modal should open on clicking edit button
+[INFO ] 2022-12-29 03:46:59.034 [company.TG_4418_EmployeeOnboardingTemplate] [verifyEditModal] - new Modal opened on clicking edit button successfully.
+[INFO ] 2022-12-29 03:47:01.082 [company.TG_4418_EmployeeOnboardingTemplate] [verifyActivityNameModal] - Checking Activity name is Visible in modal
+[INFO ] 2022-12-29 03:47:01.149 [company.TG_4418_EmployeeOnboardingTemplate] [verifyActivityNameModal] - Activity name is Visible in modal displayed successfully
+[INFO ] 2022-12-29 03:47:01.149 [company.TG_4418_EmployeeOnboardingTemplate] [clickDropModalClose] - Clicking Dropdown arrow in the modal
+[INFO ] 2022-12-29 03:47:01.419 [company.TG_4418_EmployeeOnboardingTemplate] [clickDropModalClose] - Clicked Dropdown arrow in the modal successfully
+[INFO ] 2022-12-29 03:47:01.419 [company.TG_4418_EmployeeOnboardingTemplate] [clickSaveButton] - Clicking save button on the form
+[INFO ] 2022-12-29 03:47:03.817 [company.TG_4418_EmployeeOnboardingTemplate] [clickSaveButton] - Clicked save button on the form successfully
+[INFO ] 2022-12-29 03:47:03.819 [company.TG_4418_EmployeeOnboardingTemplate] [verifyMissingFieldPopUp] - Verify Missing field dialog while clicking save Button
+[INFO ] 2022-12-29 03:47:03.957 [company.TG_4418_EmployeeOnboardingTemplate] [verifyMissingFieldPopUp] - Missing field dialog displayed while clicking save Button successfully.
+[INFO ] 2022-12-29 03:47:05.997 [company.TG_4418_EmployeeOnboardingTemplate] [clickCloseIcon] - Clicking on Close Icon
+[INFO ] 2022-12-29 03:47:08.256 [company.TG_4418_EmployeeOnboardingTemplate] [clickCloseIcon] - Close Icon clicked successfully
+[INFO ] 2022-12-29 03:47:08.258 [company.TG_4418_EmployeeOnboardingTemplate] [clickEditButton] - Clicking edit button on the form under the Activities Panel
+[INFO ] 2022-12-29 03:47:08.660 [company.TG_4418_EmployeeOnboardingTemplate] [clickEditButton] - Clicked edit button on the form under the Activities Panel successfully
+[INFO ] 2022-12-29 03:47:08.660 [company.TG_4418_EmployeeOnboardingTemplate] [enterActivityName] - Entering Activity name
+[INFO ] 2022-12-29 03:47:08.925 [company.TG_4418_EmployeeOnboardingTemplate] [enterActivityName] - Activity name entered successfully
+[INFO ] 2022-12-29 03:47:08.926 [company.TG_4418_EmployeeOnboardingTemplate] [verifyUserVisible] - Checking user is Visible
+[INFO ] 2022-12-29 03:47:09.076 [company.TG_4418_EmployeeOnboardingTemplate] [verifyUserVisible] - Employee Onboarding Template is displayed successfully
+[INFO ] 2022-12-29 03:47:09.077 [company.TG_4418_EmployeeOnboardingTemplate] [enterUserFeildValue] - Entering user field value 
+[INFO ] 2022-12-29 03:47:11.498 [company.TG_4418_EmployeeOnboardingTemplate] [enterUserFeildValue] - entered successfully
+[INFO ] 2022-12-29 03:47:13.566 [company.TG_4418_EmployeeOnboardingTemplate] [verifyDocumentRequiredVisible] - Checking Document Required is Visible
+[INFO ] 2022-12-29 03:47:13.673 [company.TG_4418_EmployeeOnboardingTemplate] [verifyDocumentRequiredVisible] - Document Required is displayed successfully
+[INFO ] 2022-12-29 03:47:15.684 [company.TG_4418_EmployeeOnboardingTemplate] [clickCheckBoxDocumentRequired] - Clicking CheckBox DocumentRequired in modal
+[INFO ] 2022-12-29 03:47:17.921 [company.TG_4418_EmployeeOnboardingTemplate] [clickCheckBoxDocumentRequired] - CheckBox clicked in modal successfully
+[INFO ] 2022-12-29 03:47:19.944 [company.TG_4418_EmployeeOnboardingTemplate] [enterDocument] - Clicking Document dropdown in modal
+[INFO ] 2022-12-29 03:47:20.173 [company.TG_4418_EmployeeOnboardingTemplate] [enterDocument] - Document dropdown in modal clicked successfully
+[INFO ] 2022-12-29 03:47:20.174 [company.TG_4418_EmployeeOnboardingTemplate] [verifyAttachment] - Verify attachment auto populated on selecting dropdown value
+[INFO ] 2022-12-29 03:47:20.214 [company.TG_4418_EmployeeOnboardingTemplate] [verifyAttachment] - Attachment auto populated on selecting dropdown valuesuccessfully.
+[INFO ] 2022-12-29 03:47:22.231 [company.TG_4418_EmployeeOnboardingTemplate] [clickAttachButton] - Clicking attach button in modal
+[INFO ] 2022-12-29 03:47:22.393 [company.TG_4418_EmployeeOnboardingTemplate] [clickAttachButton] - Attach Button clicked in modal successfully
+[INFO ] 2022-12-29 03:47:22.394 [company.TG_4418_EmployeeOnboardingTemplate] [enterMyDevice] - Attaching a pdf file in the attachment
+[INFO ] 2022-12-29 03:47:29.623 [company.TG_4418_EmployeeOnboardingTemplate] [enterMyDevice] - Attached a pdf file in the attachment successfully
+[INFO ] 2022-12-29 03:47:29.624 [company.TG_4418_EmployeeOnboardingTemplate] [clickUploadButton] - Clicking Upload button in modal
+[INFO ] 2022-12-29 03:47:29.852 [company.TG_4418_EmployeeOnboardingTemplate] [clickUploadButton] - Upload Button clicked inmodal successfully
+[INFO ] 2022-12-29 03:47:29.853 [company.TG_4418_EmployeeOnboardingTemplate] [clickDropModalClose] - Clicking Dropdown arrow in the modal
+[INFO ] 2022-12-29 03:47:30.411 [company.TG_4418_EmployeeOnboardingTemplate] [clickDropModalClose] - Clicked Dropdown arrow in the modal successfully
+[INFO ] 2022-12-29 03:47:32.433 [company.TG_4418_EmployeeOnboardingTemplate] [clickSaveButton] - Clicking save button on the form
+[INFO ] 2022-12-29 03:47:34.516 [company.TG_4418_EmployeeOnboardingTemplate] [clickSaveButton] - Clicked save button on the form successfully
+[INFO ] 2022-12-29 03:47:36.540 [company.TG_4418_EmployeeOnboardingTemplate] [verifyNewEntry] - Verify new entry created after clicking save Button
+[INFO ] 2022-12-29 03:47:44.647 [company.TG_4418_EmployeeOnboardingTemplate] [verifyNewEntry] - New entry created after clicking save Button successfully.

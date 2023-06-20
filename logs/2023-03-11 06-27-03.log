@@ -1,0 +1,73 @@
+[INFO ] 2023-03-11 18:27:08.353 [directOrder.TG_5802_DirectOrderPartialClaim] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-11 18:27:09.882 [directOrder.TG_5802_DirectOrderPartialClaim] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-11 18:27:09.883 [directOrder.TG_5802_DirectOrderPartialClaim] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-11 18:27:10.921 [directOrder.TG_5802_DirectOrderPartialClaim] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-11 18:27:10.922 [directOrder.TG_5802_DirectOrderPartialClaim] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-11 18:27:11.573 [directOrder.TG_5802_DirectOrderPartialClaim] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-11 18:27:11.574 [directOrder.TG_5802_DirectOrderPartialClaim] [clickStaffingCompanies] - Clicking on Staffing Companies Button
+[INFO ] 2023-03-11 18:27:28.061 [directOrder.TG_5802_DirectOrderPartialClaim] [clickStaffingCompanies] - Staffing Companies Button clicked successfully
+[INFO ] 2023-03-11 18:27:28.071 [directOrder.TG_5802_DirectOrderPartialClaim] [verifyStaffingCompanyList] - Verify Staffing Company List is displayed
+[INFO ] 2023-03-11 18:27:29.137 [directOrder.TG_5802_DirectOrderPartialClaim] [verifyStaffingCompanyList] - Staffing Company List displayed successfully
+[INFO ] 2023-03-11 18:27:37.145 [directOrder.TG_5802_DirectOrderPartialClaim] [clickHundredFilter] - Clicking on 100 records button
+[INFO ] 2023-03-11 18:27:37.309 [directOrder.TG_5802_DirectOrderPartialClaim] [clickHundredFilter] - 100 records button clicked Successfully
+[INFO ] 2023-03-11 18:27:42.316 [directOrder.TG_5802_DirectOrderPartialClaim] [clickStaffingCompanyDirectOrder] - Clicking on Staffing Companies Button
+[INFO ] 2023-03-11 18:27:43.964 [directOrder.TG_5802_DirectOrderPartialClaim] [clickStaffingCompanyDirectOrder] - Staffing Companies Button clicked successfully
+[INFO ] 2023-03-11 18:27:46.971 [directOrder.TG_5802_DirectOrderPartialClaim] [clickPlaceOrderButton] - Clicking on Staffing Company
+[INFO ] 2023-03-11 18:27:47.124 [directOrder.TG_5802_DirectOrderPartialClaim] [clickPlaceOrderButton] - Staffing Company clicked successfully
+[INFO ] 2023-03-11 18:27:47.124 [directOrder.TG_5802_DirectOrderPartialClaim] [enterEstDailyHours] - Entering EstDailyHours
+[INFO ] 2023-03-11 18:27:55.901 [directOrder.TG_5802_DirectOrderPartialClaim] [enterEstDailyHours] - EstDailyHours entered successfully
+[INFO ] 2023-03-11 18:27:57.914 [directOrder.TG_5802_DirectOrderPartialClaim] [enterStartDate] - Entering StartDate
+[INFO ] 2023-03-11 18:28:03.594 [directOrder.TG_5802_DirectOrderPartialClaim] [enterStartDate] - StartDate entered successfully
+[INFO ] 2023-03-11 18:28:05.600 [directOrder.TG_5802_DirectOrderPartialClaim] [enterEndDate] - Entering EndDate
+[INFO ] 2023-03-11 18:28:11.118 [directOrder.TG_5802_DirectOrderPartialClaim] [enterEndDate] - EndDate entered successfully
+[INFO ] 2023-03-11 18:28:13.132 [directOrder.TG_5802_DirectOrderPartialClaim] [enterStartTime] - Entering StartTime
+[INFO ] 2023-03-11 18:28:13.990 [directOrder.TG_5802_DirectOrderPartialClaim] [enterStartTime] - StartTime entered successfully
+[INFO ] 2023-03-11 18:28:15.998 [directOrder.TG_5802_DirectOrderPartialClaim] [enterAvailability] - Entering Availability
+[INFO ] 2023-03-11 18:28:16.325 [directOrder.TG_5802_DirectOrderPartialClaim] [enterAvailability] - Availabilit entered successfully
+[INFO ] 2023-03-11 18:28:16.326 [directOrder.TG_5802_DirectOrderPartialClaim] [enterJobSite] - Entering JobSite
+[INFO ] 2023-03-11 18:28:20.654 [directOrder.TG_5802_DirectOrderPartialClaim] [enterJobSite] - JobSite entered successfully
+[INFO ] 2023-03-11 18:28:22.663 [directOrder.TG_5802_DirectOrderPartialClaim] [enterJobTitle] - Entering JobTitle
+[INFO ] 2023-03-11 18:28:23.762 [directOrder.TG_5802_DirectOrderPartialClaim] [enterJobTitle] - JobTitle entered successfully
+[INFO ] 2023-03-11 18:28:25.769 [directOrder.TG_5802_DirectOrderPartialClaim] [enterNoOfWorker] - Entering No Of Workers
+[INFO ] 2023-03-11 18:28:25.890 [directOrder.TG_5802_DirectOrderPartialClaim] [enterNoOfWorker] - NoOfWorkers entered successfully
+[INFO ] 2023-03-11 18:28:27.897 [directOrder.TG_5802_DirectOrderPartialClaim] [enterESignature] - Entering ESignature
+[INFO ] 2023-03-11 18:28:28.154 [directOrder.TG_5802_DirectOrderPartialClaim] [enterESignature] - ESignature entered successfully
+[INFO ] 2023-03-11 18:28:28.154 [directOrder.TG_5802_DirectOrderPartialClaim] [clickAgreeContract] - clickAgreeContract
+[INFO ] 2023-03-11 18:28:28.320 [directOrder.TG_5802_DirectOrderPartialClaim] [clickAgreeContract] - clickAgreeContract successfully
+[INFO ] 2023-03-11 18:28:31.327 [directOrder.TG_5802_DirectOrderPartialClaim] [VerifyUserRedirectToNewOrderFormViaDirectOrder] - Started==Verifying Job Order Id And Popup that Email Sent Successfully
+[INFO ] 2023-03-11 18:28:54.613 [directOrder.TG_5802_DirectOrderPartialClaim] [getTextHiringId] - Job order link present on the home page clicked
+[INFO ] 2023-03-11 18:29:02.757 [directOrder.TG_5802_DirectOrderPartialClaim] [getTextHiringId] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-03-11 18:29:15.153 [directOrder.TG_5802_DirectOrderPartialClaim] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-11 18:29:15.261 [directOrder.TG_5802_DirectOrderPartialClaim] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-11 18:29:15.262 [directOrder.TG_5802_DirectOrderPartialClaim] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-11 18:29:15.365 [directOrder.TG_5802_DirectOrderPartialClaim] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-11 18:29:15.366 [directOrder.TG_5802_DirectOrderPartialClaim] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-11 18:29:16.230 [directOrder.TG_5802_DirectOrderPartialClaim] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-11 18:29:19.249 [directOrder.TG_5802_DirectOrderPartialClaim] [clickNotificationIcon] - Clicking on Notifications
+[INFO ] 2023-03-11 18:29:23.575 [directOrder.TG_5802_DirectOrderPartialClaim] [clickNotificationIcon] - Notifications clicked successfully
+[INFO ] 2023-03-11 18:29:25.598 [directOrder.TG_5802_DirectOrderPartialClaim] [verifyNotificationText] - Verify Direct Order Text in Notification
+[INFO ] 2023-03-11 18:29:25.726 [directOrder.TG_5802_DirectOrderPartialClaim] [verifyNotificationText] - Direct Order Text in Notification displayed successfully
+[INFO ] 2023-03-11 18:29:25.752 [directOrder.TG_5802_DirectOrderPartialClaim] [clickJobOrderHomePage] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-03-11 18:29:30.262 [directOrder.TG_5802_DirectOrderPartialClaim] [clickJobOrderHomePage] - All job orders menu present on the staffing hompage clicked successfully and navigates to joborder listing form  .
+[INFO ] 2023-03-11 18:29:32.275 [directOrder.TG_5802_DirectOrderPartialClaim] [verifyJobOrderPage] - Job order form is displayed
+[INFO ] 2023-03-11 18:29:32.376 [directOrder.TG_5802_DirectOrderPartialClaim] [verifyJobOrderPage] - Job orderform is displayed successfully
+[INFO ] 2023-03-11 18:29:42.387 [directOrder.TG_5802_DirectOrderPartialClaim] [selectParticularJobOrderFromListing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-11 18:29:52.560 [directOrder.TG_5802_DirectOrderPartialClaim] [selectParticularJobOrderFromListing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-11 18:29:57.571 [directOrder.TG_5802_DirectOrderPartialClaim] [clickOrdersMenuOnStaffingHomePage] - Clicking Order menu present on the staffing homepage
+[INFO ] 2023-03-11 18:29:57.741 [directOrder.TG_5802_DirectOrderPartialClaim] [clickOrdersMenuOnStaffingHomePage] - Order menu present on the staffing hompage clicked successfully.
+[INFO ] 2023-03-11 18:29:59.748 [directOrder.TG_5802_DirectOrderPartialClaim] [clickDirectOrderNav] - Clicking on Direct Orders
+[INFO ] 2023-03-11 18:30:00.624 [directOrder.TG_5802_DirectOrderPartialClaim] [clickDirectOrderNav] - Direct orders clicked successfully
+[INFO ] 2023-03-11 18:30:02.633 [directOrder.TG_5802_DirectOrderPartialClaim] [selectParticularJobOrderFromListing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-03-11 18:30:12.756 [directOrder.TG_5802_DirectOrderPartialClaim] [selectParticularJobOrderFromListing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-03-11 18:30:17.765 [directOrder.TG_5802_DirectOrderPartialClaim] [clickClaimOrderButton] - Clicking on Claim order Button
+[INFO ] 2023-03-11 18:30:19.740 [directOrder.TG_5802_DirectOrderPartialClaim] [clickClaimOrderButton] - Claim order button clicked successfully
+[INFO ] 2023-03-11 18:30:21.748 [directOrder.TG_5802_DirectOrderPartialClaim] [enterNoOfEmployeesClaim] - Entering the No. of Employees Claim
+[INFO ] 2023-03-11 18:30:21.997 [directOrder.TG_5802_DirectOrderPartialClaim] [enterNoOfEmployeesClaim] - No. of Employees Claim entered successfully
+[INFO ] 2023-03-11 18:30:24.004 [directOrder.TG_5802_DirectOrderPartialClaim] [enterESignature] - Entering the E-Signature
+[INFO ] 2023-03-11 18:30:24.202 [directOrder.TG_5802_DirectOrderPartialClaim] [enterESignature] - E-Signature entered successfully
+[INFO ] 2023-03-11 18:30:26.208 [directOrder.TG_5802_DirectOrderPartialClaim] [clickAgreeContract] - Clicking on Agree to Contract Button
+[INFO ] 2023-03-11 18:30:26.371 [directOrder.TG_5802_DirectOrderPartialClaim] [clickAgreeContract] - Agree to Contract Button clicked successfully
+[INFO ] 2023-03-11 18:30:36.384 [directOrder.TG_5802_DirectOrderPartialClaim] [clickSubmitClaim] - Clicking on Submit Claim Button
+[INFO ] 2023-03-11 18:30:36.503 [directOrder.TG_5802_DirectOrderPartialClaim] [clickSubmitClaim] - Submit Claim Button clicked successfully
+[INFO ] 2023-03-11 18:31:46.521 [directOrder.TG_5802_DirectOrderPartialClaim] [autoApproveText] - Verify Auto Approve Text
+[INFO ] 2023-03-11 18:31:56.681 [directOrder.TG_5802_DirectOrderPartialClaim] [autoApproveText] - Auto Approve Text displayed successfully

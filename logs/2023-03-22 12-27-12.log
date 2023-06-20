@@ -1,0 +1,174 @@
+[INFO ] 2023-03-22 00:27:20.769 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Logging in
+[INFO ] 2023-03-22 00:27:24.378 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Entering Username
+[INFO ] 2023-03-22 00:27:24.379 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterUsername] - Entering new user's first name
+[INFO ] 2023-03-22 00:27:26.360 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-03-22 00:27:26.360 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Username Entered Successfully
+[INFO ] 2023-03-22 00:27:26.361 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Entering Password
+[INFO ] 2023-03-22 00:27:26.362 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterPassword] - Entering new user's last name
+[INFO ] 2023-03-22 00:27:26.607 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-03-22 00:27:26.607 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Password Entered Successfully
+[INFO ] 2023-03-22 00:27:26.607 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Clicking on Login Button
+[INFO ] 2023-03-22 00:27:26.607 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-03-22 00:27:27.141 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-03-22 00:27:27.161 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Verifying CRM Icon
+[INFO ] 2023-03-22 00:27:27.161 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyCRMTextOnStaffingHomepage] - Check for CRM Icon on Homepage
+[INFO ] 2023-03-22 00:27:39.519 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyCRMTextOnStaffingHomepage] - CRM Icon displayed successfully
+[INFO ] 2023-03-22 00:27:39.523 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - CRM Icon Verified successfully
+[INFO ] 2023-03-22 00:27:39.523 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Clicking on CRM Icon
+[INFO ] 2023-03-22 00:27:39.523 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickCRMIcoOnHomepage] - Clicking on CRM Button
+[INFO ] 2023-03-22 00:27:39.887 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickCRMIcoOnHomepage] - CRM Button clicked successfully
+[INFO ] 2023-03-22 00:27:39.887 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - CRM Icon Clicked Successfully
+[INFO ] 2023-03-22 00:27:41.892 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Clicking on Lead Icon
+[INFO ] 2023-03-22 00:27:41.893 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickLeadIcon] - Clicking on Lead Button
+[INFO ] 2023-03-22 00:27:44.846 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickLeadIcon] - Lead Button clicked successfully
+[INFO ] 2023-03-22 00:27:44.846 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Lead Icon Clicked Successfully
+[INFO ] 2023-03-22 00:27:46.853 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Verify Listing Form
+[INFO ] 2023-03-22 00:27:46.856 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyLeadListingForm] - Check for Lead Title
+[INFO ] 2023-03-22 00:27:46.992 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyLeadListingForm] - Lead Title displayed successfully
+[INFO ] 2023-03-22 00:27:46.992 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Listing Form verified successfully
+[INFO ] 2023-03-22 00:27:48.998 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Clicking on Add Lead Button
+[INFO ] 2023-03-22 00:27:48.998 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickAddLeadButton] - Clicking on Lead Button
+[INFO ] 2023-03-22 00:27:50.143 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickAddLeadButton] - Add Lead Button clicked successfully
+[INFO ] 2023-03-22 00:27:50.143 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Add Lead Button Clicked Successfully
+[INFO ] 2023-03-22 00:27:52.150 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Verifying the Lead Form Title
+[INFO ] 2023-03-22 00:27:52.150 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyLeadForm] - Check for New Lead Form
+[INFO ] 2023-03-22 00:27:52.298 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyLeadForm] - New Lead Form displayed successfully
+[INFO ] 2023-03-22 00:27:52.299 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Lead Form Title is Verified Successfully
+[INFO ] 2023-03-22 00:27:52.299 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Verifying Mandatory Fields
+[INFO ] 2023-03-22 00:27:52.299 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickSaveButton] - Clicking on Save Button
+[INFO ] 2023-03-22 00:27:52.665 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickSaveButton] - Save Button clicked successfully
+[INFO ] 2023-03-22 00:27:54.672 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyMandatoryFieldIsBlank] - Verifying the Mandatory Field Pop-Up Title
+[INFO ] 2023-03-22 00:27:54.763 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyMandatoryFieldIsBlank] - Mandatory Field Pop-Up Title displayed Successfully
+[INFO ] 2023-03-22 00:27:56.773 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Closing the Pop-up
+[INFO ] 2023-03-22 00:27:56.777 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [closeBlankMandatoryFieldDialogBox] - Clicking on Close Pop-Up Icon
+[INFO ] 2023-03-22 00:27:57.055 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [closeBlankMandatoryFieldDialogBox] - Close Pop-Up Icon Clicked Successfully
+[INFO ] 2023-03-22 00:27:57.056 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Pop-up closed Successfully
+[INFO ] 2023-03-22 00:27:59.080 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Entering First Name
+[INFO ] 2023-03-22 00:27:59.082 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterFirstName] - Entering First Name
+[INFO ] 2023-03-22 00:27:59.342 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterFirstName] - First Name Entered Successfully
+[INFO ] 2023-03-22 00:27:59.342 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - First Name Entered Successfully
+[INFO ] 2023-03-22 00:27:59.342 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Entering Last Name
+[INFO ] 2023-03-22 00:27:59.343 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterLastName] - Entering Last Name
+[INFO ] 2023-03-22 00:27:59.461 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterLastName] - Last Name Entered Successfully
+[INFO ] 2023-03-22 00:27:59.461 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Last Name Entered Successfully
+[INFO ] 2023-03-22 00:27:59.461 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Entering Company Type
+[INFO ] 2023-03-22 00:27:59.461 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterCompanyType] - Entering Lead
+[INFO ] 2023-03-22 00:27:59.602 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterCompanyType] - Lead Entered Successfully
+[INFO ] 2023-03-22 00:27:59.602 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Company Type Entered Successfully
+[INFO ] 2023-03-22 00:27:59.602 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Entering Company Name
+[INFO ] 2023-03-22 00:27:59.602 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterCompanyName] - Entering Company Name
+[INFO ] 2023-03-22 00:27:59.822 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterCompanyName] - Company Name Entered Successfully
+[INFO ] 2023-03-22 00:27:59.823 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Company Name Entered Successfully
+[INFO ] 2023-03-22 00:27:59.824 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Entering Email
+[INFO ] 2023-03-22 00:27:59.824 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterEmail] - Entering Email
+[INFO ] 2023-03-22 00:28:00.159 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterEmail] - Email Entered Successfully
+[INFO ] 2023-03-22 00:28:00.160 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Email Entered Successfully
+[INFO ] 2023-03-22 00:28:02.174 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Entering Phone Number
+[INFO ] 2023-03-22 00:28:02.177 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterPhoneNumber] - Entering Phone Number
+[INFO ] 2023-03-22 00:28:02.343 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterPhoneNumber] - Phone Number Entered Successfully
+[INFO ] 2023-03-22 00:28:02.344 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Phone Number Entered Successfully
+[INFO ] 2023-03-22 00:28:04.349 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Entering Employee Address
+[INFO ] 2023-03-22 00:28:04.350 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2023-03-22 00:28:05.681 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2023-03-22 00:28:05.681 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Employee Address Entered Successfull
+[INFO ] 2023-03-22 00:28:07.687 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Clicking on Save Button
+[INFO ] 2023-03-22 00:28:07.687 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickSaveButton] - Clicking on Save Button
+[INFO ] 2023-03-22 00:28:07.866 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickSaveButton] - Save Button clicked successfully
+[INFO ] 2023-03-22 00:28:07.866 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Save Button Clicked Successfully
+[INFO ] 2023-03-22 00:28:10.876 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Verify the LEAD Status
+[INFO ] 2023-03-22 00:28:10.881 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyLeadStatus] - Check for Status as Lead
+[INFO ] 2023-03-22 00:28:10.990 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyLeadStatus] - Status verified as Lead successfully
+[INFO ] 2023-03-22 00:28:10.990 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - LEAD Status verified Successfully
+[INFO ] 2023-03-22 00:28:12.997 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Clicking Lead Link for Listing form
+[INFO ] 2023-03-22 00:28:12.997 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickLeadLinkforListingForm] - Click on Lead for Listing form
+[INFO ] 2023-03-22 00:28:13.350 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [clickLeadLinkforListingForm] - Lead for Listing form clicked Successfully
+[INFO ] 2023-03-22 00:28:13.351 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Lead Link for Listing form clicked Successfully
+[INFO ] 2023-03-22 00:28:13.351 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully] - Verify Lead created Successfully or not
+[INFO ] 2023-03-22 00:28:13.351 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyCreatedLead] - Check for Created Lead
+[INFO ] 2023-03-22 00:28:13.483 [CRM.TG_5558_Staffing_Company_Creation_Via_TAG] [verifyCreatedLead] - Created Lead displayed successfully
+[DEBUG] 2023-03-22 00:28:14.548 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.554 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.555 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.556 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.556 [freemarker.cache] [debug] - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+[DEBUG] 2023-03-22 00:28:14.600 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.601 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.601 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.603 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.603 [freemarker.cache] [debug] - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+[DEBUG] 2023-03-22 00:28:14.702 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.703 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.703 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.705 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.705 [freemarker.cache] [debug] - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+[DEBUG] 2023-03-22 00:28:14.716 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.716 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.717 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.718 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.718 [freemarker.cache] [debug] - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+[DEBUG] 2023-03-22 00:28:14.720 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.721 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.721 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.722 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.722 [freemarker.cache] [debug] - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+[DEBUG] 2023-03-22 00:28:14.730 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.730 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.731 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.733 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.733 [freemarker.cache] [debug] - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+[DEBUG] 2023-03-22 00:28:14.742 [freemarker.cache] [debug] - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2023-03-22 00:28:14.743 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.743 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.744 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.744 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.744 [freemarker.cache] [debug] - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+[DEBUG] 2023-03-22 00:28:14.753 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.753 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.753 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.754 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.755 [freemarker.cache] [debug] - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+[DEBUG] 2023-03-22 00:28:14.759 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.760 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.760 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.760 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.760 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+[DEBUG] 2023-03-22 00:28:14.761 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.762 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.762 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.762 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.763 [freemarker.cache] [debug] - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+[DEBUG] 2023-03-22 00:28:14.768 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.768 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.768 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.769 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.769 [freemarker.cache] [debug] - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+[DEBUG] 2023-03-22 00:28:14.782 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.782 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.782 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.782 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.783 [freemarker.cache] [debug] - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+[DEBUG] 2023-03-22 00:28:14.863 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.864 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.864 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.865 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.865 [freemarker.cache] [debug] - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+[DEBUG] 2023-03-22 00:28:14.876 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.876 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.876 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.876 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.876 [freemarker.cache] [debug] - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+[DEBUG] 2023-03-22 00:28:14.893 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.894 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.894 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.895 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.896 [freemarker.cache] [debug] - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+[DEBUG] 2023-03-22 00:28:14.905 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.906 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.906 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.906 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.906 [freemarker.cache] [debug] - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+[DEBUG] 2023-03-22 00:28:14.909 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-03-22 00:28:14.910 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.910 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[DEBUG] 2023-03-22 00:28:14.910 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[DEBUG] 2023-03-22 00:28:14.910 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"

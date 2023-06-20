@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [TAG Regression Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.sf.utility.EmailableReport"/>
+    <listener class-name="com.sf.utility.RetryListenerClass"/>
+    <listener class-name="com.sf.utility.ExecutionListener"/>
+  </listeners>
+  <test thread-count="1" name="Regression Test Flows(failed)" verbose="0">
+    <classes>
+      <class name="company.TG_4145_ClaimOrderForStaffing">
+        <methods>
+          <include name="TG_3869_VerifyUserclicksJobOrderItNavigatestoJobOrderForm"/>
+          <include name="TG_3928_VerifyPopupToFillMandatoryField"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="Tag_EndToEndFlowNewOrderHiring"/>
+          <include name="TG_3925_AgreeToContractFieldVisibleAndMandatory"/>
+          <include name="TG_3929_3922_3923_VerifyOrderSuccess"/>
+          <include name="setUp"/>
+          <include name="TG_3926_VerifySubmitClaimAndCancelButtonVisible"/>
+          <include name="TG_3924_VerifyEsignMandatoryField"/>
+          <include name="TG_3914_VerifyJobOrderHasHeadCountVisible"/>
+          <include name="TG_3918_3919_3920_VerifyNoOfEmployeeGreaterAcceptNumber"/>
+          <include name="TG_3917_VerifyUserclicksClaimOrderItNavigatestoNewClaimOrder"/>
+          <include name="TG_3916_VerifyResumeRequiredCheckBoxIsUncheckedAndCancelButtonVisible"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- company.TG_4145_ClaimOrderForStaffing -->
+      <class name="company.TG_4325_ApproveClaimFromHiring">
+        <methods>
+          <include name="TG_3932_3933_HiringOpensSubmittedClaimAndVerifiedMessage"/>
+          <include name="Tag_EndToEndFlowClaimFromStaffing"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="Tag_EndToEndFlowNewOrderHiring"/>
+          <include name="TG_3936_ClickingSelectHeadCountModalSelectHeadCountOpen"/>
+          <include name="TG_3937_3938_ApproveCountShouldNotBeGreaterThanWorkersCountAndErrorMessage"/>
+          <include name="TG_3939_VerifyEmailSentSuccessfulWhenApproveCountIsLessOrEqual"/>
+          <include name="TG_3934_3935_HiringRoleClicksOnTheClaimsNavigatedtoClaimOrderFormAndSelectHeadCountButton"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- company.TG_4325_ApproveClaimFromHiring -->
+      <class name="timesheets.TG_4290_TimesheetCreation">
+        <methods>
+          <include name="Tag_VerifyHiringRoleShouldNotAbleToSelectFutureDateAndGetsPopup"/>
+          <include name="setUp"/>
+          <include name="Tag_VerifyHiringAdminAbleToViewEmployeesHaveBeenAssignedPleaseSubmitTheirTimesheets"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="iniExtentReport"/>
+          <include name="Tag_EndToEndFlowNewOrderHiring"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- timesheets.TG_4290_TimesheetCreation -->
+      <class name="blockCompany.TG_4779_Block_Company">
+        <methods>
+          <include name="verifyStaffingCompaniesList"/>
+          <include name="verifyBlockCompanyPopUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="clickBlockButton"/>
+          <include name="clickUnblockButton"/>
+          <include name="clickStaffingCompany"/>
+          <include name="LoginHiring"/>
+          <include name="setUp"/>
+          <include name="clickStaffingCompanies"/>
+          <include name="verifyUnblockCompanyPopUp"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- blockCompany.TG_4779_Block_Company -->
+      <class name="employees.TG_3963_AddNewEmployee">
+        <methods>
+          <include name="VerifyCreateNewEmployee"/>
+          <include name="setUp"/>
+          <include name="verifyDiscardAddNewForm"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="verifyMandatoryFields"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- employees.TG_3963_AddNewEmployee -->
+      <class name="company.TG_3634_NewCompanyCreationHiring">
+        <methods>
+          <include name="Tag_VerifyCompanyTypeAndCompanyNameAreAMandatoryFieldsHiring"/>
+          <include name="setUp"/>
+          <include name="verifyHiringCompanyIsListedOnListingPage"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="Tag_AddNewCompanyHiring"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- company.TG_3634_NewCompanyCreationHiring -->
+      <class name="users.AddNewUserTAG">
+        <methods>
+          <include name="VerifyMandatoryFields"/>
+          <include name="TG_234_PasswordSetup"/>
+          <include name="verifyCreateNewUser"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="iniExtentReport"/>
+          <include name="verifyNewlyCreatedUserIsListedOnlistingPage"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- users.AddNewUserTAG -->
+      <class name="company.TG_4355_EmployeeOnboarding">
+        <methods>
+          <include name="TG_4016_VerifyEmployeeOnboardingTitle"/>
+          <include name="TG_4021_VerifyClickingSaveButtonMovedToDraftStatus"/>
+          <include name="TG_4024_VerifyClickingSubmitButtonMovedToPendingStatusSuccessfully"/>
+          <include name="TG_4025_4014_VerifyEmployeeShouldOnboardedInListingFormWithSameFirstLastNameWithJobApplicantAcceptedStatus"/>
+          <include name="TG_4026_VerifyJobOfferListWithDraftStatus"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="loader"/>
+          <include name="closeSession"/>
+          <include name="TG_4015_Verify_SR_AbleToSeeATSOptionAndTwoSubOption"/>
+          <include name="TG_3955_VerifyMandatoryFirstnameVisibleAndAddValue"/>
+          <include name="TG_3957_VerifyMandatoryEmailVisibleAndAddValue"/>
+          <include name="TG_3954_VerifySaveButtonShowsPopUp"/>
+          <include name="setUp"/>
+          <include name="TG_3956_VerifyMandatoryLastnameVisibleAndAddValue"/>
+          <include name="TG_4018_4019_4020_VerifyEmployeeOnboardingTemplateVisibleAndMandatory"/>
+          <include name="TG_4017_VerifyAddEmployeeOnboardingNavigateToNewEmployeeOnboardingForm"/>
+          <include name="iniExtentReport"/>
+          <include name="TG_3958_4022_4023_VerifyDOB"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- company.TG_4355_EmployeeOnboarding -->
+      <class name="users.AddNewUserStaffing">
+        <methods>
+          <include name="setUp"/>
+          <include name="verifyCreateNewUser"/>
+          <include name="VerifyMandatoryFields"/>
+          <include name="TG_234_PasswordSetup"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="verifyNewlyCreatedUserIsListedOnlistingPage"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- users.AddNewUserStaffing -->
+      <class name="CRM.TG_5352_Lead_Creation">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="TG_5318_VerifyLeadIsCreated"/>
+          <include name="iniExtentReport"/>
+          <include name="TG_5303_VerifyNewLeadFormIsOpened"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- CRM.TG_5352_Lead_Creation -->
+      <class name="company.TG_4463_InvCreationStaffing">
+        <methods>
+          <include name="setUp"/>
+          <include name="TG_4311_MessageDisplayedOnTimesheetApproval"/>
+          <include name="TG_4312_CreateInvoiceNavigatesNewInvoice"/>
+          <include name="Tag_EndToEndFlowNewOrderHiring"/>
+          <include name="Tag_EndToEndFlowAssignEmployeeFromStaffing"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- company.TG_4463_InvCreationStaffing -->
+      <class name="jobOrder.TG_3861_OtherFieldHiring">
+        <methods>
+          <include name="Tag_VerifyAgreeContractFieldshouldcheckboxAndMandatory"/>
+          <include name="Tag_VerifyNoOfWorkersField"/>
+          <include name="setUp"/>
+          <include name="Tag_VerifyESignatureFieldShould"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- jobOrder.TG_3861_OtherFieldHiring -->
+      <class name="jobTitle_jobSite.TG_4863_JobSiteCreation">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="TG_4863_VerifyUserRedirectToJobSiteForm"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- jobTitle_jobSite.TG_4863_JobSiteCreation -->
+      <class name="company.TG_4419_AssignEmployeeFromStaffing">
+        <methods>
+          <include name="TG_3966_3974_VerifyCompanyFieldAutoPopulate"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="Tag_EndToEndFlowClaimApproveHiring"/>
+          <include name="TG_3967_68_69_VerifyEmployeePayRateVisibleAndAutoPopulate"/>
+          <include name="Tag_EndToEndFlowClaimFromStaffing"/>
+          <include name="Tag_EndToEndFlowNewOrderHiring"/>
+          <include name="TG_3965_ClickAssignEmployeeNavigatesToNewAssignEmployeeForm"/>
+          <include name="setUp"/>
+          <include name="TG_3970_VerifyDistanceRadiusVisibleAndEnter"/>
+          <include name="TG_3964_VerifyStaffingSeeClaimApprovedStatus"/>
+          <include name="TG_3975_VerifySaveButtonVisible"/>
+          <include name="Tag_CreateEmployeeFromStaffing"/>
+          <include name="TG_3971_VerifyShowAllEmployeesVisibleAndCheck"/>
+          <include name="TG_3972_VerifyEmployeeIDVisible"/>
+          <include name="TG_3973_EnterEmployeeID"/>
+          <include name="iniExtentReport"/>
+          <include name="TG_3977_ClickSaveButton"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- company.TG_4419_AssignEmployeeFromStaffing -->
+      <class name="directOrder.TG_5801_DirectOrderFullClaim">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="VerifyUserRedirectToNewOrderFormViaDirectOrder"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- directOrder.TG_5801_DirectOrderFullClaim -->
+      <class name="directOrder.TG_5803_DirectOrderDeny">
+        <methods>
+          <include name="setUp"/>
+          <include name="VerifyUserRedirectToNewOrderFormViaDirectOrder"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- directOrder.TG_5803_DirectOrderDeny -->
+      <class name="CRM.TG_5489_Hiring_Company_Creation_Via_TAG">
+        <methods>
+          <include name="TG_5466_VerifyLeadCreatedSuccessfully"/>
+          <include name="setUp"/>
+          <include name="TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- CRM.TG_5489_Hiring_Company_Creation_Via_TAG -->
+      <class name="jobOrder.TG_3859_NewOrderHiring">
+        <methods>
+          <include name="Tag_VerifyPopupForSaveWithoutMandatoryFields"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="Tag_VerifyFieldVisibleAndMandetory"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- jobOrder.TG_3859_NewOrderHiring -->
+      <class name="jobTitle_jobSite.TG_4862_JobTitleCreation">
+        <methods>
+          <include name="setUp"/>
+          <include name="VerifyMandatoryFieldsAndEnterData"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="VerifyUserRedirectToJobTitleForm"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- jobTitle_jobSite.TG_4862_JobTitleCreation -->
+      <class name="company.TG_4418_EmployeeOnboardingTemplate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="TG_4030_ClickingAddRowButton"/>
+          <include name="TG_4035_EnterDocument"/>
+          <include name="TG_4029_VerifyCompanyFieldMandatoryAndAutoPopulate"/>
+          <include name="closeSession"/>
+          <include name="TG_4031_ClickingEditButtonVerifyNewModal"/>
+          <include name="TG_4034_VerifyDocumentRequiredVisibleAndCheck"/>
+          <include name="TG_4027_ClickingSetupUnderATSOption"/>
+          <include name="setUp"/>
+          <include name="loader"/>
+          <include name="TG_4033_VerifyUserFeild"/>
+          <include name="TG_4028_ClickingAddEmployeeOnboardingTemplateNavigateToNewEmployeeOnboardingTemplateForm"/>
+          <include name="TG_4036_PdfAttached"/>
+          <include name="TG_4037_ClickSaveButton"/>
+          <include name="iniExtentReport"/>
+          <include name="TG_4032_VerifyActivityNameVisibleAndMandatory"/>
+          <include name="TG_4038_VerifyEntryOnEmployeeOnboardingTemplate"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- company.TG_4418_EmployeeOnboardingTemplate -->
+      <class name="jobOrder.TG_3847_VerifyFieldNewOrder">
+        <methods>
+          <include name="setUp"/>
+          <include name="Tag_VerifyEstimatedDailyHoursfieldVisible"/>
+          <include name="Tag_VerifyEstimatedDailyHoursFieldNotAcceptHoursMoreThan24"/>
+          <include name="Tag_VerifyCompanyFieldVisible"/>
+          <include name="Tag_VerifyNewOrderbuttonOnHomepage"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="iniExtentReport"/>
+          <include name="Tag_VerifyCategoryFieldVisibleAndJobTitleFieldVisible"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- jobOrder.TG_3847_VerifyFieldNewOrder -->
+      <class name="jobOrderStaffing.TG_3848_NewOrderStaffing">
+        <methods>
+          <include name="Tag_VerifyCompanyFieldShouldVisible"/>
+          <include name="Tag_VerifyClickingOnSaveButtonPopupShouldCreateJobOrderSuccessfullyAndJobOrderIdShouldCreated"/>
+          <include name="Tag_VerifyAgreeToContractFieldCheckboxShouldVisible"/>
+          <include name="Tag_VerifyPopupIfClickOnSaveWithoutEnteringMandatoryFields"/>
+          <include name="Tag_VerifyEstimatedDailyHoursFieldShouldVisible"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="Tag_VerifyStartDateFieldShouldVisible"/>
+          <include name="Tag_VerifyCategoryFieldShouldVisible"/>
+          <include name="Tag_VerifyPopupEmailSentSucessfully"/>
+          <include name="Tag_VerifyEndDateFieldShouldVisible"/>
+          <include name="Tag_VerifyClaimHasBeenApprovedPleaseAssignEmployees"/>
+          <include name="iniExtentReport"/>
+          <include name="Tag_VerifyAvailabilityFieldShouldDropdownField"/>
+          <include name="Tag_VerifyJobOrdersFieldShouldVisibleOnHomepageOfStaffingUnderShortcuts"/>
+          <include name="Tag_VerifyConfirmationPopupShouldHaveConfirmAndCancelButtons"/>
+          <include name="Tag_VerifyPopupForConfirmJobOrderDetails"/>
+          <include name="Tag_VerifyAddOrderButtonShouldVisibleOnHomepage"/>
+          <include name="Tag_VerifyEstimateDailyHoursFieldShouldNotAcceptHoursMoreThan24"/>
+          <include name="Tag_VerifyStartTimeFieldShouldVisible"/>
+          <include name="setUp"/>
+          <include name="Tag_VerifyNoOfWorkersFieldShouldVisible"/>
+          <include name="Tag_VerifyJobSiteFieldShouldVisible"/>
+          <include name="Tag_VerifyClickingCancelNothingShouldSave"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- jobOrderStaffing.TG_3848_NewOrderStaffing -->
+      <class name="company.TG_3634_NewCompanyCreationFromStaffing">
+        <methods>
+          <include name="setUp"/>
+          <include name="verifyStaffingCompanyIsListedOnListingPage"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="Tag_AddNewCompanyStaffing"/>
+          <include name="Tag_VerifyCompanyTypeAndCompanyNameAreAMandatoryFieldsStaffing"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- company.TG_3634_NewCompanyCreationFromStaffing -->
+      <class name="CRM.TG_5353_Contact_Creation">
+        <methods>
+          <include name="setUp"/>
+          <include name="TG_5326_VerifyCreatedContactOnListingForm"/>
+          <include name="TG_5322_VerifyContactCreationForm"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- CRM.TG_5353_Contact_Creation -->
+      <class name="jobOrder.TG_3864_SaveOrder">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="Tag_VerifyJobOrderIdAndPopupEmailSentSuccessfully"/>
+          <include name="Tag_VerifySaveAndCancelButton"/>
+          <include name="Tag_VerifyConfirmJobOrderDetails"/>
+          <include name="iniExtentReport"/>
+          <include name="Tag_VerifyClickingCancelNothingSave"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- jobOrder.TG_3864_SaveOrder -->
+      <class name="exclusiveJobOrder.TG_3847_ExclusiveNewOrder">
+        <methods>
+          <include name="Tag_VerifyStartTimeFieldShouldVisible"/>
+          <include name="Tag_VerifyPopupEmailSentSucessfully"/>
+          <include name="Tag_VerifyEndDateFieldShouldVisible"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="Tag_VerifyNewOrderbuttonOnHomepage"/>
+          <include name="Tag_VerifyClickingCancelNothingShouldSave"/>
+          <include name="Tag_VerifyNoOfWorkersFieldShouldVisible"/>
+          <include name="Tag_VerifyJobSiteFieldShouldVisible"/>
+          <include name="Tag_VerifyPopupForConfirmJobOrderDetails"/>
+          <include name="Tag_VerifyConfirmationPopupShouldHaveSaveAndCancelButtons"/>
+          <include name="setUp"/>
+          <include name="Tag_VerifyPopupIfClickOnSaveWithoutEnteringMandatoryFields"/>
+          <include name="Tag_VerifyEstimatedDailyHoursFieldShouldVisible"/>
+          <include name="Tag_VerifyCompanyFieldShouldVisible"/>
+          <include name="Tag_VerifyAvailabilityFieldShouldDropdownField"/>
+          <include name="Tag_VerifyEstimateDailyHoursFieldShouldNotAcceptHoursMoreThan24"/>
+          <include name="Tag_VerifyClickingOnSaveButtonPopupShouldCreateJobOrderSuccessfullyAndJobOrderIdShouldCreated"/>
+          <include name="Tag_VerifyAgreeToContractFieldCheckboxShouldVisible"/>
+          <include name="Tag_VerifyStartDateFieldShouldVisible"/>
+          <include name="iniExtentReport"/>
+          <include name="Tag_VerifyCategoryFieldShouldVisible"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- exclusiveJobOrder.TG_3847_ExclusiveNewOrder -->
+      <class name="jobOrder.TG_3651_VerifyFieldNewHiringOrder">
+        <methods>
+          <include name="setUp"/>
+          <include name="Tag_VerifyRateFieldAutomaticallyFetchedAndEditable"/>
+          <include name="Tag_VerifyAvailabilityFieldShouldBeDropdownField"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- jobOrder.TG_3651_VerifyFieldNewHiringOrder -->
+      <class name="directOrder.TG_5802_DirectOrderPartialClaim">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="VerifyUserRedirectToNewOrderFormViaDirectOrder"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- directOrder.TG_5802_DirectOrderPartialClaim -->
+      <class name="timesheets.TG_4423_TimesheetDeny">
+        <methods>
+          <include name="setUp"/>
+          <include name="Tag_VerifyTimesheetAvailableForApprovalPopup"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="iniExtentReport"/>
+          <include name="Tag_EndToEndFlowNewOrderHiring"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- timesheets.TG_4423_TimesheetDeny -->
+      <class name="favoriteCompany.TG_4778_FavoriteStaffingCompany">
+        <methods>
+          <include name="setUp"/>
+          <include name="clickStaffingCompanies"/>
+          <include name="clickHeartIcon"/>
+          <include name="verifyFavPopUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="verifyStaffingCompaniesList"/>
+          <include name="verifyRemoveFromFavorites"/>
+          <include name="LoginHiring"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- favoriteCompany.TG_4778_FavoriteStaffingCompany -->
+      <class name="timesheets.TG_4301_Timesheet_Approval">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="Tag_EndToEndFlowNewOrderHiring"/>
+          <include name="Tag_VerifyTimesheetAvailableForApprovalPopup"/>
+          <include name="Tag_VerifyUserShouldGetPopupIfTryToapproveFromActionsButton"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- timesheets.TG_4301_Timesheet_Approval -->
+      <class name="jobOrder.TG_3854_StartDateTimeField">
+        <methods>
+          <include name="Tag_VerifyJobSiteFieldShouldVisible"/>
+          <include name="Tag_VerifyStartTimeFieldNotAcceptPastTime"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="Tag_VerifyEndDateFieldVisibleAndNotAcceptPastDate"/>
+          <include name="Tag_VerifyStartTimeFieldShouldVisible"/>
+          <include name="iniExtentReport"/>
+          <include name="Tag_VerifyStartDateFieldVisibleAndNotAcceptPastDate"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- jobOrder.TG_3854_StartDateTimeField -->
+      <class name="exclusiveJobOrder.TG_4476_VerifyExclusiveNewOrder">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="Tag_VerifySameJobOrderCreatedForParentStaffingCompany"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- exclusiveJobOrder.TG_4476_VerifyExclusiveNewOrder -->
+      <class name="users.AddNewUserHiring">
+        <methods>
+          <include name="setUp"/>
+          <include name="verifyCreateNewUser"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="TG_234_PasswordSetup"/>
+          <include name="VerifyMandatoryFields"/>
+          <include name="iniExtentReport"/>
+          <include name="verifyNewlyCreatedUserIsListedOnlistingPage"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- users.AddNewUserHiring -->
+      <class name="CRM.TG_5748_Exclusive_Hiring_Company_Creation_Via_Staffing">
+        <methods>
+          <include name="setUp"/>
+          <include name="TG_5466_VerifyLeadCreatedSuccessfully"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully"/>
+          <include name="iniExtentReport"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- CRM.TG_5748_Exclusive_Hiring_Company_Creation_Via_Staffing -->
+      <class name="CRM.TG_5558_Staffing_Company_Creation_Via_TAG">
+        <methods>
+          <include name="setUp"/>
+          <include name="TG_5461_VerifyUserIsAbleToRouteToLeadFormSuccessfully"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="iniExtentReport"/>
+          <include name="TG_5466_VerifyLeadCreatedSuccessfully"/>
+          <include name="closeSuite"/>
+        </methods>
+      </class> <!-- CRM.TG_5558_Staffing_Company_Creation_Via_TAG -->
+    </classes>
+  </test> <!-- Regression Test Flows(failed) -->
+</suite> <!-- Failed suite [TAG Regression Suite] -->

@@ -1,0 +1,80 @@
+[INFO ] 2023-01-11 10:57:29.840 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Logging in
+[INFO ] 2023-01-11 10:57:32.530 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Entering Username
+[INFO ] 2023-01-11 10:57:32.530 [CRM.TG_5353_Contact_Creation] [enterUsername] - Entering new user's first name
+[INFO ] 2023-01-11 10:57:33.380 [CRM.TG_5353_Contact_Creation] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-01-11 10:57:33.380 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Username Entered Successfully
+[INFO ] 2023-01-11 10:57:33.380 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Entering Password
+[INFO ] 2023-01-11 10:57:33.380 [CRM.TG_5353_Contact_Creation] [enterPassword] - Entering new user's last name
+[INFO ] 2023-01-11 10:57:33.529 [CRM.TG_5353_Contact_Creation] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-01-11 10:57:33.530 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Password Entered Successfully
+[INFO ] 2023-01-11 10:57:33.530 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Clicking on Login Button
+[INFO ] 2023-01-11 10:57:33.530 [CRM.TG_5353_Contact_Creation] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-01-11 10:57:33.944 [CRM.TG_5353_Contact_Creation] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-01-11 10:57:33.949 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Verifying CRM Icon
+[INFO ] 2023-01-11 10:57:33.949 [CRM.TG_5353_Contact_Creation] [verifyCRMTextOnHomepage] - Check for CRM Icon on Homepage
+[INFO ] 2023-01-11 10:57:40.205 [CRM.TG_5353_Contact_Creation] [verifyCRMTextOnHomepage] - CRM Icon displayed successfully
+[INFO ] 2023-01-11 10:57:40.210 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - CRM Icon Clicked Successfully
+[INFO ] 2023-01-11 10:57:40.210 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Clicking on CRM Icon
+[INFO ] 2023-01-11 10:57:40.210 [CRM.TG_5353_Contact_Creation] [clickCRMIcon] - Clicking on CRM Button
+[INFO ] 2023-01-11 10:57:41.675 [CRM.TG_5353_Contact_Creation] [clickCRMIcon] - CRM Button clicked successfully
+[INFO ] 2023-01-11 10:57:41.675 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - CRM Icon Clicked Successfully
+[INFO ] 2023-01-11 10:57:43.681 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Clicking on Contact Icon
+[INFO ] 2023-01-11 10:57:43.681 [CRM.TG_5353_Contact_Creation] [clickContactIcon] - Clicking on Contact Button
+[INFO ] 2023-01-11 10:57:44.332 [CRM.TG_5353_Contact_Creation] [clickContactIcon] - Contact Button clicked successfully
+[INFO ] 2023-01-11 10:57:44.332 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Contact Icon Clicked Successfully
+[INFO ] 2023-01-11 10:57:46.338 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Verify Listing Form
+[INFO ] 2023-01-11 10:57:46.339 [CRM.TG_5353_Contact_Creation] [verifyContactListingForm] - Check for Contact Title
+[INFO ] 2023-01-11 10:57:46.396 [CRM.TG_5353_Contact_Creation] [verifyContactListingForm] - Contact Title displayed successfully
+[INFO ] 2023-01-11 10:57:46.397 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Listing Form verified successfully
+[INFO ] 2023-01-11 10:57:48.402 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Clicking on Add Contact Button
+[INFO ] 2023-01-11 10:57:48.403 [CRM.TG_5353_Contact_Creation] [clickAddContactButton] - Clicking on Contact Button
+[INFO ] 2023-01-11 10:57:49.058 [CRM.TG_5353_Contact_Creation] [clickAddContactButton] - Add Contact Button clicked successfully
+[INFO ] 2023-01-11 10:57:49.058 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Add Contact Button Clicked Successfully
+[INFO ] 2023-01-11 10:57:51.064 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Verifying the Contact Form Title
+[INFO ] 2023-01-11 10:57:51.065 [CRM.TG_5353_Contact_Creation] [verifyContactForm] - Check for New Contact Form
+[INFO ] 2023-01-11 10:57:51.133 [CRM.TG_5353_Contact_Creation] [verifyContactForm] - New Contact Form displayed successfully
+[INFO ] 2023-01-11 10:57:51.133 [CRM.TG_5353_Contact_Creation] [TG_5322_VerifyContactCreationForm] - Contact Form Title is Verified Successfully
+[INFO ] 2023-01-11 10:57:51.184 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Verify Mandatory Fields and Creation of Contact
+[INFO ] 2023-01-11 10:57:51.184 [CRM.TG_5353_Contact_Creation] [clickSaveButton] - Clicking on Contact Button
+[INFO ] 2023-01-11 10:57:51.631 [CRM.TG_5353_Contact_Creation] [clickSaveButton] - Add Contact Button clicked successfully
+[INFO ] 2023-01-11 10:57:53.638 [CRM.TG_5353_Contact_Creation] [verifyMandatoryFieldIsBlank] - Verifying the Mandatory Field Pop-Up Title
+[INFO ] 2023-01-11 10:57:53.701 [CRM.TG_5353_Contact_Creation] [verifyMandatoryFieldIsBlank] - Mandatory Field Pop-Up Title displayed Successfully
+[INFO ] 2023-01-11 10:57:55.707 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Closing the Pop-up
+[INFO ] 2023-01-11 10:57:55.708 [CRM.TG_5353_Contact_Creation] [closeBlankMandatoryFieldDialogBox] - Clicking on Close Pop-Up Icon
+[INFO ] 2023-01-11 10:57:55.806 [CRM.TG_5353_Contact_Creation] [closeBlankMandatoryFieldDialogBox] - Close Pop-Up Icon Clicked Successfully
+[INFO ] 2023-01-11 10:57:55.807 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Pop-up closed Successfully
+[INFO ] 2023-01-11 10:57:57.812 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Closing the Pop-up
+[INFO ] 2023-01-11 10:57:57.815 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Entering Contact Name
+[INFO ] 2023-01-11 10:57:57.816 [CRM.TG_5353_Contact_Creation] [enterContactName] - Entering Contact Name
+[INFO ] 2023-01-11 10:57:57.962 [CRM.TG_5353_Contact_Creation] [enterContactName] - Contact Name Entered Successfully
+[INFO ] 2023-01-11 10:57:57.963 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Contact Name Entered Succesfully
+[INFO ] 2023-01-11 10:57:59.966 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Entering Email
+[INFO ] 2023-01-11 10:57:59.967 [CRM.TG_5353_Contact_Creation] [enterEmail] - Entering Email
+[INFO ] 2023-01-11 10:58:00.141 [CRM.TG_5353_Contact_Creation] [enterEmail] - Email Entered Successfully
+[INFO ] 2023-01-11 10:58:00.142 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Email Entered Successfully
+[INFO ] 2023-01-11 10:58:02.146 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Entering Phone Number
+[INFO ] 2023-01-11 10:58:02.146 [CRM.TG_5353_Contact_Creation] [enterPhoneNumber] - Entering Phone Number
+[INFO ] 2023-01-11 10:58:02.314 [CRM.TG_5353_Contact_Creation] [enterPhoneNumber] - Phone Number Entered Successfully
+[INFO ] 2023-01-11 10:58:02.316 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Phone Number Entered Successfully
+[INFO ] 2023-01-11 10:58:04.321 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Entering Lead
+[INFO ] 2023-01-11 10:58:04.323 [CRM.TG_5353_Contact_Creation] [enterLead] - Entering Lead
+[INFO ] 2023-01-11 10:58:04.433 [CRM.TG_5353_Contact_Creation] [enterLead] - Lead Entered Successfully
+[INFO ] 2023-01-11 10:58:04.434 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Lead Entered Successfully
+[INFO ] 2023-01-11 10:58:04.434 [CRM.TG_5353_Contact_Creation] [selectSearchOnMapsCheckbox] - Selecting search on Maps checkbox
+[INFO ] 2023-01-11 10:58:06.748 [CRM.TG_5353_Contact_Creation] [selectSearchOnMapsCheckbox] - Search on maps checkbox selected
+[INFO ] 2023-01-11 10:58:06.749 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Selecting the Search on Maps Checkbox
+[INFO ] 2023-01-11 10:58:08.754 [CRM.TG_5353_Contact_Creation] [enterEmployeeAddressOnMaps] - Etering employee address on maps
+[INFO ] 2023-01-11 10:58:10.039 [CRM.TG_5353_Contact_Creation] [enterEmployeeAddressOnMaps] - Employee entered successfully
+[INFO ] 2023-01-11 10:58:10.039 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Search on Maps Checkbox selected Successfully
+[INFO ] 2023-01-11 10:58:12.045 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Clicking on Save Button
+[INFO ] 2023-01-11 10:58:12.046 [CRM.TG_5353_Contact_Creation] [clickSaveButton] - Clicking on Contact Button
+[INFO ] 2023-01-11 10:58:12.200 [CRM.TG_5353_Contact_Creation] [clickSaveButton] - Add Contact Button clicked successfully
+[INFO ] 2023-01-11 10:58:12.200 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Save Button Clicked Successfully
+[INFO ] 2023-01-11 10:58:15.209 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Clicking Contact Link
+[INFO ] 2023-01-11 10:58:15.214 [CRM.TG_5353_Contact_Creation] [clickContactLinkforListingForm] - Click on Contact for Listing form
+[INFO ] 2023-01-11 10:58:15.431 [CRM.TG_5353_Contact_Creation] [clickContactLinkforListingForm] - Contact for Listing form clicked Successfully
+[INFO ] 2023-01-11 10:58:15.431 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Contact Link Clicked Successfully
+[INFO ] 2023-01-11 10:58:15.431 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Verify Created Contact
+[INFO ] 2023-01-11 10:58:15.431 [CRM.TG_5353_Contact_Creation] [verifyCreatedContact] - Check for Created Contact
+[INFO ] 2023-01-11 10:58:15.510 [CRM.TG_5353_Contact_Creation] [verifyCreatedContact] - Created Contact displayed successfully
+[INFO ] 2023-01-11 10:58:15.510 [CRM.TG_5353_Contact_Creation] [TG_5326_VerifyCreatedContactOnListingForm] - Created Contact Verified Successfully

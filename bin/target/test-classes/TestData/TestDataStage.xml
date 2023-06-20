@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TestCases>
+
+	<TG_234_Login>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+	</TG_234_Login>
+
+	<TG_AddNewCompanyHiring_3634>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>ankit_tag@yopmail.com</username>
+		<password>Tester@1234</password>
+		<companyType>Hiring</companyType>
+		<tagCharges>3</tagCharges>
+		<companyName>Automation</companyName>
+		<contactName>Automation</contactName>
+		<url2>https://stage-new.tepguru.co/app/company</url2>
+	</TG_AddNewCompanyHiring_3634>
+
+	<TG_AddNewCompanyStaffing>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>ankit_tag@yopmail.com</username>
+		<password>Tester@1234</password>
+		<companyType>Staffing</companyType>
+		<tagCharges>3</tagCharges>
+		<companyName>Automation</companyName>
+		<contactName>Automation</contactName>
+		<url2>https://stage-new.tempuru.co/app/company</url2>
+	</TG_AddNewCompanyStaffing>
+
+	<TG_AddNewUserTAG>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>ankit_tag@yopmail.com</username>
+		<password>Tester@1234</password>
+		<companyType>TAG</companyType>
+		<userlLastName>AutomationL</userlLastName>
+		<userFirstName>AutomationF</userFirstName>
+		<userEmail>automation</userEmail>
+		<companyName>TAG</companyName>
+		<role>TAG Admin</role>
+	</TG_AddNewUserTAG>
+
+	<TG_AddNewUserHiring>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>ankit_tag@yopmail.com</username>
+		<password>Tester@1234</password>
+		<companyType>Hiring</companyType>
+		<userlLastName>AutomationL</userlLastName>
+		<userFirstName>AutomationF</userFirstName>
+		<userEmail>automation</userEmail>
+		<companyName>Automation 74250</companyName>
+		<role>Hiring Admin</role>
+	</TG_AddNewUserHiring>
+
+	<TG_AddNewUserStaffing>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>ankit_tag@yopmail.com</username>
+		<password>Tester@1234</password>
+		<companyType>Staffing</companyType>
+		<userlLastName>AutomationL</userlLastName>
+		<userFirstName>AutomationF</userFirstName>
+		<userEmail>automation</userEmail>
+		<companyName>Automation 74251</companyName>
+		<role>Staffing Admin</role>
+	</TG_AddNewUserStaffing>
+
+	<TG_MandatoryDataNewOrderHiringPage>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+		<estimatedDailyHours>10</estimatedDailyHours>
+		<startTime>10:10</startTime>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<noOfWorkers>15</noOfWorkers>
+		<eSignature>Tom</eSignature>
+	</TG_MandatoryDataNewOrderHiringPage>
+
+	<TG_MandatoryDataNewOrderStaffingPage>
+		<url>https://stage-new.tempguru.co/login#login</url>
+		<usernameHiring>genpact_hiring@yopmail.com</usernameHiring>
+		<passwordHiring>Tester@1234</passwordHiring>
+		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+		<passwordStaffing>Tester@1234</passwordStaffing>
+		<estDailyHours>8</estDailyHours>
+		<startDate>04-10-2025</startDate>
+		<enddate>05-10-2025</enddate>
+		<startTime>20:10</startTime>
+		<availability>Mon-Fri</availability>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<category>Administrative/Clerical</category>
+		<noOfWorker>3</noOfWorker>
+		<eSignature>Hiring Admin</eSignature>
+		<noOfEmployeesClaim>1</noOfEmployeesClaim>
+		<employeePayRate>5</employeePayRate>
+		<eSignatureClaim>Tom</eSignatureClaim>
+		<alphabetValue>ABCD</alphabetValue>
+		<specialCharacterValue>@$*</specialCharacterValue>
+	</TG_MandatoryDataNewOrderStaffingPage>
+
+
+	<TG_MandatoryDataNewOrderHiringPage>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+		<estimatedDailyHours>10</estimatedDailyHours>
+		<startTime>10:10</startTime>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<noOfWorkers>15</noOfWorkers>
+		<eSignature>Tom</eSignature>
+	</TG_MandatoryDataNewOrderHiringPage>
+
+
+	<TG_MandatoryDataNewOrderHiringPage>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+		<estimatedDailyHours>10</estimatedDailyHours>
+		<startTime>10:10</startTime>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<noOfWorkers>15</noOfWorkers>
+		<eSignature>Tom</eSignature>
+	</TG_MandatoryDataNewOrderHiringPage>
+
+
+	<TG_MandatoryDataApproveClaimFromHiringPage>
+		<url>https://stage-new.tempguru.co/login#login</url>
+		<username>genpact_hiring@yopmail.com </username>
+		<password>Tester@1234</password>
+		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+		<passwordStaffing>Tester@1234</passwordStaffing>
+		<estDailyHours>8</estDailyHours>
+		<startDate>04-10-2025</startDate>
+		<enddate>05-10-2025</enddate>
+		<startTime>20:10</startTime>
+		<availability>Mon-Fri</availability>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<category>Administrative/Clerical</category>
+		<noOfWorker>3</noOfWorker>
+		<eSignature>Hiring Admin</eSignature>
+		<noOfEmployeesClaim>1</noOfEmployeesClaim>
+		<employeePayRate>5</employeePayRate>
+		<eSignatureClaim>Tom</eSignatureClaim>
+		<alphabetValue>ABCD</alphabetValue>
+		<specialCharacterValue>@$*</specialCharacterValue>
+		<approveCount>1</approveCount>
+		<approveCount1>2</approveCount1>
+	</TG_MandatoryDataApproveClaimFromHiringPage>
+
+	<TG_DeleteJobOrderHiring>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>ankit_tag@yopmail.com</username>
+		<password>Tester@1234</password>
+	</TG_DeleteJobOrderHiring>
+
+	<TG_EmployeeOnboarding>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>maruti_staffing@yopmail.com</username>
+		<password>Tester@1234</password>
+		<firstname>AutomationF</firstname>
+		<lastname>AutomationL</lastname>
+		<email>Automation.emp</email>
+		<employeeonboardingtemplate>HR-EMP-ONT-00010</employeeonboardingtemplate>
+		<dateOfBirth>01-01-2020</dateOfBirth>
+		<data1>Job Applicant List</data1>
+		<data2>Job Offer List</data2>
+		<currentYearDOB>01-01-2023</currentYearDOB>
+	</TG_EmployeeOnboarding>
+
+	<TG_3859_Hiring_Job_Order>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+	</TG_3859_Hiring_Job_Order>
+
+	<TG_3847_Verify_Field_Job_Order>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+		<estimatedHours>32</estimatedHours>
+	</TG_3847_Verify_Field_Job_Order>
+
+	<TG_3854_Start_Date_Time_Field>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+		<startDate>10-04-2021</startDate>
+		<endDate>10-05-2021</endDate>
+		<startTime>01:20</startTime>
+	</TG_3854_Start_Date_Time_Field>
+
+	<TG_3861_Other_Field_Hiring_page>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+		<eSignName>Admin</eSignName>
+	</TG_3861_Other_Field_Hiring_page>
+
+	<TG_3864_SaveOrder>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+		<estDailyHours>8</estDailyHours>
+		<startDate>04-10-2025</startDate>
+		<enddate>05-10-2025</enddate>
+		<startTime>20:10</startTime>
+		<availability>Mon-Fri</availability>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<category>Administrative/Clerical</category>
+		<noOfWorker>1</noOfWorker>
+		<eSignature>Hiring Admin</eSignature>
+	</TG_3864_SaveOrder>
+
+
+	<TG_DeleteJobOrderHiring>
+
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>ankit_tag@yopmail.com</username>
+		<password>Tester@1234</password>
+	</TG_DeleteJobOrderHiring>
+
+	<TG_3851_Verify_Field>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+	</TG_3851_Verify_Field>
+
+
+	<TG_3847_Verify_Feild_Job_Order>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+		<estimatedHours>32</estimatedHours>
+
+	</TG_3847_Verify_Feild_Job_Order>
+
+	<TG_3851_Verify_Feild>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+	</TG_3851_Verify_Feild>
+
+	<TG_3854_Start_Date_Time_Feild>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+		<startDate>10-04-2025</startDate>
+		<endDate>10-05-2025</endDate>
+		<startTime>01:20</startTime>
+	</TG_3854_Start_Date_Time_Feild>
+
+	<TG_3861_Other_Feild_Hiring_page>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+		<eSignName>Admin</eSignName>
+	</TG_3861_Other_Feild_Hiring_page>
+
+
+	<TG_UserPasswordSetupHiring>
+		<url>https://yopmail.com/</url>
+		<email>himanshu.rana1432@yopmail.com</email>
+		<password>Test@123</password>
+	</TG_UserPasswordSetupHiring>
+
+	<TG_UserPasswordSetupStafing>
+		<url>https://yopmail.com/</url>
+		<email>himanshu.rana1432@yopmail.com</email>
+		<password>Test@123</password>
+	</TG_UserPasswordSetupStafing>
+
+	<TG_UserPasswordSetupTAG>
+		<url>https://yopmail.com/</url>
+		<email>himanshu.rana1432@yopmail.com</email>
+		<password>Test@123</password>
+	</TG_UserPasswordSetupTAG>
+
+
+	<TG_NewOrderStaffing>
+
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<email>maruti_staffing@yopmail.com</email>
+		<password>Tester@1234</password>
+		<startDate>12-04-2025</startDate>
+		<endDate>12-05-2025</endDate>
+		<startTime>10:20</startTime>
+		<estimatedHours>32</estimatedHours>
+		<estHours>10</estHours>
+		<time>20:10</time>
+	</TG_NewOrderStaffing>
+
+	<TG_ExclusiveNewOrder>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<email>exclusive_maruti@yopmail.com</email>
+		<password>Tester@1234</password>
+		<startDate>12-04-2025</startDate>
+		<endDate>12-05-2025</endDate>
+		<startTime>10:20</startTime>
+		<estimatedHours>32</estimatedHours>
+		<estHours>10</estHours>
+		<time>20:10</time>
+		<eSignature>admin</eSignature>
+	</TG_ExclusiveNewOrder>
+
+	<TG_VerifyExclusiveNewOrder>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<email>maruti_staffing@yopmail.com</email>
+		<password>Tester@1234</password>
+	</TG_VerifyExclusiveNewOrder>
+
+
+	<TG_3963_AddNewEmployee>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>maruti_staffing@yopmail.com</username>
+		<password>Tester@1234</password>
+		<companyName>maruti suzuki</companyName>
+		<firstName>AutomationF</firstName>
+		<lastName>AutomationE</lastName>
+		<DOB>08-08-1991</DOB>
+		<email>automation.employee</email>
+		<address>New York, NY 10020, USA</address>
+	</TG_3963_AddNewEmployee>
+	>
+	<TG_DeleteJobOrderHiring>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>ankit_tag@yopmail.com</username>
+		<password>Tester@1234</password>
+	</TG_DeleteJobOrderHiring>
+
+
+	<TG_EmployeeOnboardingTemplate>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>maruti_staffing@yopmail.com</username>
+		<password>Tester@1234</password>
+		<templateName>Automation.emp</templateName>
+		<activityname>Automation</activityname>
+		<userField>amit_user2@yopmail.com</userField>
+		<document>W4</document>
+		<pdf>./src/test/resources/Uploads/SamplePdf.pdf</pdf>
+	</TG_EmployeeOnboardingTemplate>
+
+	<TG_AssignEmployeeStaffing>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<usernameHiring>genpact_hiring@yopmail.com</usernameHiring>
+		<passwordHiring>Tester@1234</passwordHiring>
+		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+		<passwordStaffing>Tester@1234</passwordStaffing>
+		<estDailyHours>8</estDailyHours>
+		<startDate>04-10-2025</startDate>
+		<enddate>05-10-2025</enddate>
+		<startTime>20:10</startTime>
+		<availability>Mon-Fri</availability>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<category>Administrative/Clerical</category>
+		<noOfWorker>3</noOfWorker>
+		<eSignature>Hiring Admin</eSignature>
+		<noOfEmployeesClaim>1</noOfEmployeesClaim>
+		<employeePayRate>5</employeePayRate>
+		<eSignatureClaim>Tom</eSignatureClaim>
+		<alphabetValue>ABCD</alphabetValue>
+		<specialCharacterValue>@$*</specialCharacterValue>
+		<approveCount>1</approveCount>
+		<miles>50 miles</miles>
+		<companyName>maruti suzuki</companyName>
+		<empFirstName>AutomationF</empFirstName>
+		<empLastName>AutomationE</empLastName>
+		<empDOB>08-08-1991</empDOB>
+		<empEmail>automation.employee</empEmail>
+		<empAddress>New York, NY 10020, USA</empAddress>
+	</TG_AssignEmployeeStaffing>
+
+	<TG_InvoiceCreationStaffing>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<usernameHiring>genpact_hiring@yopmail.com</usernameHiring>
+		<passwordHiring>Tester@1234</passwordHiring>
+		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+		<passwordStaffing>Tester@1234</passwordStaffing>
+		<estDailyHours>8</estDailyHours>
+		<startDate>04-10-2025</startDate>
+		<enddate>05-10-2025</enddate>
+		<startTime>20:10</startTime>
+		<availability>Mon-Fri</availability>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<category>Administrative/Clerical</category>
+		<noOfWorker>3</noOfWorker>
+		<eSignature>Hiring Admin</eSignature>
+		<noOfEmployeesClaim>1</noOfEmployeesClaim>
+		<employeePayRate>5</employeePayRate>
+		<eSignatureClaim>Tom</eSignatureClaim>
+		<alphabetValue>ABCD</alphabetValue>
+		<specialCharacterValue>@$*</specialCharacterValue>
+		<approveCount>1</approveCount>
+		<miles>50 miles</miles>
+		<companyName>maruti suzuki</companyName>
+		<empFirstName>AutomationF</empFirstName>
+		<empLastName>AutomationE</empLastName>
+		<empDOB>08-08-1991</empDOB>
+		<empEmail>automation.employee</empEmail>
+		<empAddress>New York, NY 10020, USA</empAddress>
+		<dateTimeSheet>12-09-2025</dateTimeSheet>
+		<startTimeTimeSheet>09:30</startTimeTimeSheet>
+		<endTimeTimeSheet>21:30</endTimeTimeSheet>
+	</TG_InvoiceCreationStaffing>
+
+
+	<TG_EndToEndFlow>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<usernameHiring>genpact_hiring@yopmail.com</usernameHiring>
+		<passwordHiring>Tester@1234</passwordHiring>
+		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+		<passwordStaffing>Tester@1234</passwordStaffing>
+		<estDailyHours>8</estDailyHours>
+		<startDate>04-10-2025</startDate>
+		<enddate>05-10-2025</enddate>
+		<startTime>20:10</startTime>
+		<availability>Mon-Fri</availability>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<category>Administrative/Clerical</category>
+		<noOfWorker>3</noOfWorker>
+		<eSignature>Hiring Admin</eSignature>
+		<noOfEmployeesClaim>1</noOfEmployeesClaim>
+		<employeePayRate>5</employeePayRate>
+		<eSignatureClaim>Tom</eSignatureClaim>
+		<alphabetValue>ABCD</alphabetValue>
+		<specialCharacterValue>@$*</specialCharacterValue>
+		<dateTimeSheet>12-09-2025</dateTimeSheet>
+		<startTimeTimeSheet>09:30</startTimeTimeSheet>
+		<endTimeTimeSheet>21:30</endTimeTimeSheet>
+		<miles>50 miles</miles>
+		<companyName>maruti suzuki</companyName>
+		<empFirstName>AutomationF</empFirstName>
+		<empLastName>AutomationE</empLastName>
+		<empDOB>08-08-1991</empDOB>
+		<empEmail>automation.employee</empEmail>
+		<empAddress>New York, NY 10020, USA</empAddress>
+		<employeeId>HR-EMP-205658</employeeId>
+		<approveCount>1</approveCount>
+	</TG_EndToEndFlow>
+
+
+	<TG_TimesheetCreation>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<usernameHiring>genpact_hiring@yopmail.com</usernameHiring>
+		<passwordHiring>Tester@1234</passwordHiring>
+		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+		<passwordStaffing>Tester@1234</passwordStaffing>
+		<estDailyHours>8</estDailyHours>
+		<startDate>04-10-2025</startDate>
+		<enddate>05-10-2025</enddate>
+		<startTime>20:10</startTime>
+		<availability>Mon-Fri</availability>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<category>Administrative/Clerical</category>
+		<noOfWorker>3</noOfWorker>
+		<eSignature>Hiring Admin</eSignature>
+		<noOfEmployeesClaim>1</noOfEmployeesClaim>
+		<employeePayRate>5</employeePayRate>
+		<eSignatureClaim>Tom</eSignatureClaim>
+		<alphabetValue>ABCD</alphabetValue>
+		<specialCharacterValue>@$*</specialCharacterValue>
+		<dateTimeSheet>12-09-2025</dateTimeSheet>
+		<startTimeTimeSheet>09:30</startTimeTimeSheet>
+		<endTimeTimeSheet>21:30</endTimeTimeSheet>
+		<miles>50 miles</miles>
+		<companyName>maruti suzuki</companyName>
+		<empFirstName>AutomationF</empFirstName>
+		<empLastName>AutomationE</empLastName>
+		<empDOB>08-08-1991</empDOB>
+		<empEmail>automation.employee</empEmail>
+		<empAddress>New York, NY 10020, USA</empAddress>
+		<employeeId>HR-EMP-205658</employeeId>
+		<approveCount>1</approveCount>
+	</TG_TimesheetCreation>
+
+
+	<TG_TimesheetApproval>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<usernameHiring>genpact_hiring@yopmail.com</usernameHiring>
+		<passwordHiring>Tester@1234</passwordHiring>
+		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+		<passwordStaffing>Tester@1234</passwordStaffing>
+		<estDailyHours>8</estDailyHours>
+		<startDate>04-10-2025</startDate>
+		<enddate>05-10-2025</enddate>
+		<startTime>20:10</startTime>
+		<availability>Mon-Fri</availability>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<category>Administrative/Clerical</category>
+		<noOfWorker>3</noOfWorker>
+		<eSignature>Hiring Admin</eSignature>
+		<noOfEmployeesClaim>1</noOfEmployeesClaim>
+		<employeePayRate>5</employeePayRate>
+		<eSignatureClaim>Tom</eSignatureClaim>
+		<alphabetValue>ABCD</alphabetValue>
+		<specialCharacterValue>@$*</specialCharacterValue>
+		<dateTimeSheet>12-09-2025</dateTimeSheet>
+		<startTimeTimeSheet>09:30</startTimeTimeSheet>
+		<endTimeTimeSheet>21:30</endTimeTimeSheet>
+		<miles>50 miles</miles>
+		<companyName>maruti suzuki</companyName>
+		<empFirstName>AutomationF</empFirstName>
+		<empLastName>AutomationE</empLastName>
+		<empDOB>08-08-1991</empDOB>
+		<empEmail>automation.employee</empEmail>
+		<empAddress>New York, NY 10020, USA</empAddress>
+		<employeeId>HR-EMP-205658</employeeId>
+		<approveCount>1</approveCount>
+	</TG_TimesheetApproval>
+
+
+	<TG_4862_JobTitleCreation>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+		<jobTitleList>Job Title List</jobTitleList>
+		<industry>IT</industry>
+		<rate>20</rate>
+		<title>Automation Tester</title>
+		<description>Automate Manual Testing through Script.</description>
+	</TG_4862_JobTitleCreation>
+
+	<TG_4779_Block_Company>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>nissan_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+	</TG_4779_Block_Company>
+
+
+	<TG_4778_FavoriteStaffingCompany>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+	</TG_4778_FavoriteStaffingCompany>
+
+	<TG_TimesheetDeny>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<usernameHiring>genpact_hiring@yopmail.com</usernameHiring>
+		<passwordHiring>Tester@1234</passwordHiring>
+		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+		<passwordStaffing>Tester@1234</passwordStaffing>
+		<estDailyHours>8</estDailyHours>
+		<startDate>04-10-2025</startDate>
+		<enddate>05-10-2025</enddate>
+		<startTime>20:10</startTime>
+		<availability>Mon-Fri</availability>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<category>Administrative/Clerical</category>
+		<noOfWorker>3</noOfWorker>
+		<eSignature>Hiring Admin</eSignature>
+		<noOfEmployeesClaim>1</noOfEmployeesClaim>
+		<employeePayRate>5</employeePayRate>
+		<eSignatureClaim>Tom</eSignatureClaim>
+		<alphabetValue>ABCD</alphabetValue>
+		<specialCharacterValue>@$*</specialCharacterValue>
+		<dateTimeSheet>12-09-2025</dateTimeSheet>
+		<startTimeTimeSheet>09:30</startTimeTimeSheet>
+		<endTimeTimeSheet>21:30</endTimeTimeSheet>
+		<miles>50 miles</miles>
+		<companyName>maruti suzuki</companyName>
+		<empFirstName>AutomationF</empFirstName>
+		<empLastName>AutomationE</empLastName>
+		<empDOB>08-08-1991</empDOB>
+		<empEmail>automation.employee</empEmail>
+		<empAddress>New York, NY 10020, USA</empAddress>
+		<employeeId>HR-EMP-205658</employeeId>
+		<approveCount>1</approveCount>
+	</TG_TimesheetDeny>
+
+	<TG_5353_Contact_Creation>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>maruti_staffing@yopmail.com</username>
+		<password>Tester@1234</password>
+		<contactName>John Doe</contactName>
+		<email>Automation</email>
+		<phoneNumber>+919876543211</phoneNumber>
+		<lead>CRM-LEAD-2022-00113</lead>
+		<address>New York, NY 10020, USA</address>
+	</TG_5353_Contact_Creation>
+	
+	<TG_5352_Lead_Creation>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>maruti_staffing@yopmail.com</username>
+		<password>Tester@1234</password>
+		<firstName>John</firstName>
+		<lastName>Doe</lastName>
+		<companyName>Automation</companyName>
+		<email>Automation</email>
+		<phoneNumber>+919876543211</phoneNumber>
+		<address>New York, NY 10020, USA</address>
+		<notes>Hey there!!. This is a New Lead</notes>
+		<startDate>01-25-2023</startDate>
+		<endDate>01-30-2023</endDate>
+		<title>Accountant</title>
+		<sign>Staffing Admin</sign>
+	</TG_5352_Lead_Creation>
+	
+	<TG_5489_Hiring_Company_Creation_Via_TAG>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>ankit_tag@yopmail.com</username>
+		<password>Tester@1234</password>
+		<firstName>John</firstName>
+		<lastName>Doe</lastName>
+		<companyType>Hiring</companyType>
+		<companyName>Automation</companyName>
+		<email>Automation</email>
+		<phoneNumber>+919876543211</phoneNumber>
+		<address>New York, NY 10020, USA</address>
+		<notes>Hey there!!. This is a New Lead</notes>
+		<startDate>01-25-2023</startDate>
+		<endDate>01-30-2023</endDate>
+		<title>.Net developer</title>
+		<sign>TAG Admin</sign>
+	</TG_5489_Hiring_Company_Creation_Via_TAG>
+	
+	<TG_5558_Staffing_Company_Creation_Via_TAG>
+		<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>ankit_tag@yopmail.com</username>
+		<password>Tester@1234</password>
+		<firstName>John</firstName>
+		<lastName>Doe</lastName>
+		<companyType>Staffing</companyType>
+		<companyName>Automation</companyName>
+		<email>Automation</email>
+		<phoneNumber>+919876543211</phoneNumber>
+		<address>New York, NY 10020, USA</address>
+		<notes>Hey there!!. This is a New Lead</notes>
+		<startDate>01-25-2023</startDate>
+		<endDate>01-30-2023</endDate>
+		<industry>Administrative/Clerical</industry>
+		<sign>TAG Admin</sign>
+	</TG_5558_Staffing_Company_Creation_Via_TAG>
+	
+	<TG_5748_Exclusive_Hiring_Company_Creation_Via_Staffing>
+	<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>maruti_staffing@yopmail.com</username>
+		<password>Tester@1234</password>
+		<firstName>John</firstName>
+		<lastName>Doe</lastName>
+		<companyName>Automation</companyName>
+		<email>Automation</email>
+		<phoneNumber>+919876543211</phoneNumber>
+		<address>New York, NY 10020, USA</address>
+		<notes>Hey there!!. This is a New Lead</notes>
+		<startDate>01-25-2023</startDate>
+		<endDate>01-30-2023</endDate>
+		<title>Administrative Service</title>
+		<sign>Staffing Admin</sign>
+		</TG_5748_Exclusive_Hiring_Company_Creation_Via_Staffing>
+		
+	<TG_5803_automate_direct_order_deny_order>
+		<url>https://stage-new.tempguru.co/login#login</url>
+		<usernameHiring>genpact_hiring@yopmail.com</usernameHiring>
+		<passwordHiring>Tester@1234</passwordHiring>
+		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+		<passwordStaffing>Tester@1234</passwordStaffing>
+		<estDailyHours>8</estDailyHours>
+		<startDate>05-10-2024</startDate>
+		<enddate>06-10-2024</enddate>
+		<startTime>20:10</startTime>
+		<availability>Mon-Fri</availability>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<category>Administrative/Clerical</category>
+		<noOfWorker>3</noOfWorker>
+		<eSignature>Hiring Admin</eSignature>
+		<usernameStaffing2>deloitte_staffing@yopmail.com</usernameStaffing2>
+		<passwordStaffing2>Tester@1234</passwordStaffing2>
+	</TG_5803_automate_direct_order_deny_order>
+		
+	<TG_5802_automate_direct_order_partial_claim>
+		<url>https://stage-new.tempguru.co/login#login</url>
+		<usernameHiring>genpact_hiring@yopmail.com</usernameHiring>
+		<passwordHiring>Tester@1234</passwordHiring>
+		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+		<passwordStaffing>Tester@1234</passwordStaffing>
+		<estDailyHours>8</estDailyHours>
+		<startDate>05-10-2024</startDate>
+		<enddate>06-10-2024</enddate>
+		<startTime>20:10</startTime>
+		<availability>Mon-Fri</availability>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<category>Administrative/Clerical</category>
+		<noOfWorker>3</noOfWorker>
+		<eSignature>Hiring Admin</eSignature>
+		<usernameStaffing2>deloitte_staffing@yopmail.com</usernameStaffing2>
+		<passwordStaffing2>Tester@1234</passwordStaffing2>
+		<noOfEmployeesClaim>1</noOfEmployeesClaim>
+		<eSignature1>Staffing Admin</eSignature1>
+	</TG_5802_automate_direct_order_partial_claim>
+	
+
+	<TG_4863_JobSiteCreation>
+	<url>https://stage-new.tempguru.co/login#logins</url>
+		<username>genpact_hiring@yopmail.com</username>
+		<password>Tester@1234</password>
+		<companyType>Hiring</companyType>
+		<userlLastName>AutomationL</userlLastName>
+		<userFirstName>AutomationF</userFirstName>
+		<userEmail>automation</userEmail>
+		<companyName>Automation 74250</companyName>
+		<role>Hiring Admin</role>
+		<address>New York, NY 10020, USA</address>
+		<title>Automation Tester</title>
+		<mobile>+919876543211</mobile>
+	</TG_4863_JobSiteCreation>
+
+	<TG_5801_automate_direct_order_full_claim>
+		<url>https://stage-new.tempguru.co/login#login</url>
+		<usernameHiring>genpact_hiring@yopmail.com</usernameHiring>
+		<passwordHiring>Tester@1234</passwordHiring>
+		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+		<passwordStaffing>Tester@1234</passwordStaffing>
+		<estDailyHours>8</estDailyHours>
+		<startDate>05-10-2024</startDate>
+		<enddate>06-10-2024</enddate>
+		<startTime>20:10</startTime>
+		<availability>Mon-Fri</availability>
+		<jobSite>New York, NY 10020, USA</jobSite>
+		<jobTitle>Administrative Service</jobTitle>
+		<category>Administrative/Clerical</category>
+		<noOfWorker>3</noOfWorker>
+		<eSignature>Hiring Admin</eSignature>
+		<usernameStaffing2>deloitte_staffing@yopmail.com</usernameStaffing2>
+		<passwordStaffing2>Tester@1234</passwordStaffing2>
+		<noOfEmployeesClaim>3</noOfEmployeesClaim>
+		<eSignature1>Staffing Admin</eSignature1>
+	</TG_5801_automate_direct_order_full_claim>
+
+	<TG_6129_repeat_open_order>
+ 		<url>https://stage-new.tempguru.co/login#login</url>
+ 		<usernameHiring>genpact_hiring@yopmail.com</usernameHiring>
+ 		<passwordHiring>Tester@1234</passwordHiring>
+ 		<startDate>05-10-2024</startDate>
+		<enddate>06-10-2024</enddate>
+ 		<availability>Mon-Fri</availability>
+ 		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+ 		<passwordStaffing>Tester@1234</passwordStaffing>
+ 	</TG_6129_repeat_open_order>
+
+	<TG_6130_repeat_direct_order>
+		<url>https://stage-new.tempguru.co/login#login</url>
+ 		<usernameHiring>genpact_hiring@yopmail.com</usernameHiring>
+ 		<passwordHiring>Tester@1234</passwordHiring>
+ 		<staffCompany>maruti suzuki</staffCompany>
+ 		<startDate>05-10-2024</startDate>
+		<enddate>06-10-2024</enddate>
+ 		<availability>Mon-Fri</availability>
+ 		<usernameStaffing>maruti_staffing@yopmail.com</usernameStaffing>
+ 		<passwordStaffing>Tester@1234</passwordStaffing>
+	</TG_6130_repeat_direct_order>
+</TestCases>

@@ -1,0 +1,156 @@
+[INFO ] 2023-04-26 15:16:45.916 [jobOrder.TG_6130_RepeatDirectOrder] [enterUsername] - Entering new user's first name
+[INFO ] 2023-04-26 15:16:47.722 [jobOrder.TG_6130_RepeatDirectOrder] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-04-26 15:16:47.724 [jobOrder.TG_6130_RepeatDirectOrder] [enterPassword] - Entering new user's last name
+[INFO ] 2023-04-26 15:16:47.970 [jobOrder.TG_6130_RepeatDirectOrder] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-04-26 15:16:47.970 [jobOrder.TG_6130_RepeatDirectOrder] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-04-26 15:16:48.415 [jobOrder.TG_6130_RepeatDirectOrder] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-04-26 15:16:51.425 [jobOrder.TG_6130_RepeatDirectOrder] [clickOrdersMenuOnHiringHomePage] - Clicking Order menu present on the Hiring homepage
+[INFO ] 2023-04-26 15:17:02.591 [jobOrder.TG_6130_RepeatDirectOrder] [clickOrdersMenuOnHiringHomePage] - Order menu present on the Hiring hompage clicked successfully.
+[INFO ] 2023-04-26 15:17:12.608 [jobOrder.TG_6130_RepeatDirectOrder] [clickCompletedOrdersTab] - Clicking on the Completed Orders Tab 
+[INFO ] 2023-04-26 15:17:12.901 [jobOrder.TG_6130_RepeatDirectOrder] [clickCompletedOrdersTab] - Completed Tab Clicked Successfully
+[INFO ] 2023-04-26 15:17:27.913 [jobOrder.TG_6130_RepeatDirectOrder] [clickCompletedOrder] - Clicking on the Completed Order 
+[INFO ] 2023-04-26 15:17:30.278 [jobOrder.TG_6130_RepeatDirectOrder] [clickCompletedOrder] - Completed Order Clicked Successfully
+[INFO ] 2023-04-26 15:17:30.281 [jobOrder.TG_6130_RepeatDirectOrder] [getJobSiteText] - Getting Job site text
+[INFO ] 2023-04-26 15:17:32.346 [jobOrder.TG_6130_RepeatDirectOrder] [getJobSiteText] - Got the text successfully
+[INFO ] 2023-04-26 15:17:32.347 [jobOrder.TG_6130_RepeatDirectOrder] [getJobTitleText] - Getting Job Title text
+[INFO ] 2023-04-26 15:17:32.471 [jobOrder.TG_6130_RepeatDirectOrder] [getJobTitleText] - Got the text successfully
+[INFO ] 2023-04-26 15:17:32.471 [jobOrder.TG_6130_RepeatDirectOrder] [getJobIndustryText] - Getting Job Industry text
+[INFO ] 2023-04-26 15:17:32.594 [jobOrder.TG_6130_RepeatDirectOrder] [getJobIndustryText] - Got the text successfully
+[INFO ] 2023-04-26 15:17:32.594 [jobOrder.TG_6130_RepeatDirectOrder] [getESignature] - Getting ESignature Value
+[INFO ] 2023-04-26 15:17:32.748 [jobOrder.TG_6130_RepeatDirectOrder] [getESignature] - Got the text successfully
+[INFO ] 2023-04-26 15:17:34.758 [jobOrder.TG_6130_RepeatDirectOrder] [clickRepeatOrderButton] - Clicking on the Repeat Order Button
+[INFO ] 2023-04-26 15:17:35.070 [jobOrder.TG_6130_RepeatDirectOrder] [clickRepeatOrderButton] - Repeat Order Button Clicked Successfully
+[INFO ] 2023-04-26 15:17:35.070 [jobOrder.TG_6130_RepeatDirectOrder] [clickDirectOrderCheckbox] - Clicking on the Direct Order Checkbox
+[INFO ] 2023-04-26 15:17:35.442 [jobOrder.TG_6130_RepeatDirectOrder] [clickDirectOrderCheckbox] - Direct Order Checkbox Clicked Successfully
+[INFO ] 2023-04-26 15:17:35.443 [jobOrder.TG_6130_RepeatDirectOrder] [selectStaffingCompany] - Entering Staffing Company
+[INFO ] 2023-04-26 15:17:36.108 [jobOrder.TG_6130_RepeatDirectOrder] [selectStaffingCompany] - Staffing Company entered successfully
+[INFO ] 2023-04-26 15:17:36.108 [jobOrder.TG_6130_RepeatDirectOrder] [clickProceedButton] - Clicking on the Proceed Button
+[INFO ] 2023-04-26 15:17:36.501 [jobOrder.TG_6130_RepeatDirectOrder] [clickProceedButton] - Proceed Button Clicked Successfully
+[INFO ] 2023-04-26 15:17:36.502 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobSiteTextIsPresent] - Verifying same Job Site present
+[INFO ] 2023-04-26 15:17:36.882 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobSiteTextIsPresent] - Same job site is present
+[INFO ] 2023-04-26 15:17:36.886 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobTitleTextIsPresent] - Verifying same Job Title present
+[INFO ] 2023-04-26 15:17:36.943 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobTitleTextIsPresent] - Same job Title is present
+[INFO ] 2023-04-26 15:17:36.944 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobIndustryTextIsPresent] - Verifying same Job Industry present
+[INFO ] 2023-04-26 15:17:37.673 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobIndustryTextIsPresent] - Same job Industry is present
+[INFO ] 2023-04-26 15:17:37.673 [jobOrder.TG_6130_RepeatDirectOrder] [verifyESignatureTextIsPresent] - Verifying same Esignature present
+[INFO ] 2023-04-26 15:17:37.720 [jobOrder.TG_6130_RepeatDirectOrder] [verifyESignatureTextIsPresent] - Same Esignature is present
+[INFO ] 2023-04-26 15:17:41.728 [jobOrder.TG_6130_RepeatDirectOrder] [enterStartDate] - Entering StartDate
+[INFO ] 2023-04-26 15:17:47.086 [jobOrder.TG_6130_RepeatDirectOrder] [enterStartDate] - StartDate entered successfully
+[INFO ] 2023-04-26 15:17:49.141 [jobOrder.TG_6130_RepeatDirectOrder] [enterEndDate] - Entering EndDate
+[INFO ] 2023-04-26 15:17:54.534 [jobOrder.TG_6130_RepeatDirectOrder] [enterEndDate] - EndDate entered successfully
+[INFO ] 2023-04-26 15:17:56.544 [jobOrder.TG_6130_RepeatDirectOrder] [enterAvailability] - Entering Availability
+[INFO ] 2023-04-26 15:17:56.846 [jobOrder.TG_6130_RepeatDirectOrder] [enterAvailability] - Availabilit entered successfully
+[INFO ] 2023-04-26 15:18:13.963 [jobOrder.TG_6130_RepeatDirectOrder] [getTextHiringId] - Job order link present on the home page clicked
+[INFO ] 2023-04-26 15:18:22.838 [jobOrder.TG_6130_RepeatDirectOrder] [getTextHiringId] - Verify Job Order Id and Email Successfully
+[INFO ] 2023-04-26 15:18:34.987 [jobOrder.TG_6130_RepeatDirectOrder] [enterUsername] - Entering new user's first name
+[INFO ] 2023-04-26 15:18:35.159 [jobOrder.TG_6130_RepeatDirectOrder] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-04-26 15:18:35.159 [jobOrder.TG_6130_RepeatDirectOrder] [enterPassword] - Entering new user's last name
+[INFO ] 2023-04-26 15:18:35.334 [jobOrder.TG_6130_RepeatDirectOrder] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-04-26 15:18:35.335 [jobOrder.TG_6130_RepeatDirectOrder] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-04-26 15:18:35.465 [jobOrder.TG_6130_RepeatDirectOrder] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-04-26 15:18:35.465 [jobOrder.TG_6130_RepeatDirectOrder] [clickJobOrderHomePage] - Clicking Job orders menu present on the staffing homepage navigates to joborder listing form 
+[INFO ] 2023-04-26 15:18:46.124 [jobOrder.TG_6130_RepeatDirectOrder] [clickJobOrderHomePage] - All job orders menu present on the staffing hompage clicked successfully and navigates to joborder listing form  .
+[INFO ] 2023-04-26 15:18:48.141 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobOrderPage] - Job order form is displayed
+[INFO ] 2023-04-26 15:18:48.256 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobOrderPage] - Job orderform is displayed successfully
+[INFO ] 2023-04-26 15:18:58.267 [jobOrder.TG_6130_RepeatDirectOrder] [selectParticularJobOrderFromListing] - Selecting Particular Joborder on the listing
+[INFO ] 2023-04-26 15:19:08.473 [jobOrder.TG_6130_RepeatDirectOrder] [selectParticularJobOrderFromListing] - Particular Joborder on the listing selected successfully
+[INFO ] 2023-04-26 15:19:32.466 [jobOrder.TG_6130_RepeatDirectOrder] [enterUsername] - Entering new user's first name
+[INFO ] 2023-04-26 15:19:32.592 [jobOrder.TG_6130_RepeatDirectOrder] [enterUsername] - User's first name entered successfully
+[INFO ] 2023-04-26 15:19:32.593 [jobOrder.TG_6130_RepeatDirectOrder] [enterPassword] - Entering new user's last name
+[INFO ] 2023-04-26 15:19:32.721 [jobOrder.TG_6130_RepeatDirectOrder] [enterPassword] - User's last name entered successfully
+[INFO ] 2023-04-26 15:19:32.721 [jobOrder.TG_6130_RepeatDirectOrder] [clickLoginButton] - Clicking on Login Button
+[INFO ] 2023-04-26 15:19:32.812 [jobOrder.TG_6130_RepeatDirectOrder] [clickLoginButton] - Close Pop Up clicked successfully
+[INFO ] 2023-04-26 15:19:39.829 [jobOrder.TG_6130_RepeatDirectOrder] [clickOrdersMenuOnHiringHomePage] - Clicking Order menu present on the Hiring homepage
+[INFO ] 2023-04-26 15:19:40.546 [jobOrder.TG_6130_RepeatDirectOrder] [clickOrdersMenuOnHiringHomePage] - Order menu present on the Hiring hompage clicked successfully.
+[INFO ] 2023-04-26 15:19:58.778 [jobOrder.TG_6130_RepeatDirectOrder] [clickDeleteJobOrderButton] - Clicking on delete button present on Job Order detials page
+[INFO ] 2023-04-26 15:19:58.878 [jobOrder.TG_6130_RepeatDirectOrder] [clickDeleteJobOrderButton] - Delete button present on Job Order detials page clicked
+[INFO ] 2023-04-26 15:20:02.097 [jobOrder.TG_6130_RepeatDirectOrder] [clickAcceptDeleteJobOrderRequestButton] - Clicking on confirm deletion button
+[INFO ] 2023-04-26 15:20:02.218 [jobOrder.TG_6130_RepeatDirectOrder] [clickAcceptDeleteJobOrderRequestButton] - Confirm deletion button clicked
+[INFO ] 2023-04-26 15:20:02.219 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobOrderDeleted] - Verifying that job order deleted via pop-up
+[INFO ] 2023-04-26 15:20:02.683 [jobOrder.TG_6130_RepeatDirectOrder] [verifyJobOrderDeleted] - Verified that order deleted successfully
+[DEBUG] 2023-04-26 15:20:02.833 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:02.841 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:02.844 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:02.845 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+[DEBUG] 2023-04-26 15:20:02.845 [freemarker.cache] [debug] - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/spark.spa.ftl"
+[DEBUG] 2023-04-26 15:20:02.903 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:02.904 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:02.904 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:02.908 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+[DEBUG] 2023-04-26 15:20:02.909 [freemarker.cache] [debug] - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-variables.ftl"
+[DEBUG] 2023-04-26 15:20:03.036 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.038 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.038 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.041 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.041 [freemarker.cache] [debug] - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-macros.ftl"
+[DEBUG] 2023-04-26 15:20:03.057 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.057 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.058 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.059 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.059 [freemarker.cache] [debug] - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attributes.ftl"
+[DEBUG] 2023-04-26 15:20:03.062 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.063 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.063 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.064 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.064 [freemarker.cache] [debug] - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/log.ftl"
+[DEBUG] 2023-04-26 15:20:03.067 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.068 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.069 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.069 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.069 [freemarker.cache] [debug] - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/recurse_nodes.ftl"
+[DEBUG] 2023-04-26 15:20:03.076 [freemarker.cache] [debug] - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+[DEBUG] 2023-04-26 15:20:03.076 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.077 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.077 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.077 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/macros/attr-common.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.077 [freemarker.cache] [debug] - Loading template for "spark/macros/attr-common.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/macros/attr-common.ftl"
+[DEBUG] 2023-04-26 15:20:03.091 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.091 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.091 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.092 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.092 [freemarker.cache] [debug] - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/head.ftl"
+[DEBUG] 2023-04-26 15:20:03.097 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.097 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.097 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.099 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.099 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-css.ftl"
+[DEBUG] 2023-04-26 15:20:03.100 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.100 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.100 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.101 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.101 [freemarker.cache] [debug] - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/navbar.ftl"
+[DEBUG] 2023-04-26 15:20:03.107 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.108 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.110 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.110 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.110 [freemarker.cache] [debug] - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/sidenav.ftl"
+[DEBUG] 2023-04-26 15:20:03.147 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.148 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.150 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.152 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.152 [freemarker.cache] [debug] - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+[DEBUG] 2023-04-26 15:20:03.229 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/category.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.230 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.230 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.230 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/category.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.230 [freemarker.cache] [debug] - Loading template for "spark/partials/category.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/category.ftl"
+[DEBUG] 2023-04-26 15:20:03.240 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.240 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.241 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.241 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.241 [freemarker.cache] [debug] - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/test.ftl"
+[DEBUG] 2023-04-26 15:20:03.254 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.255 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.255 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.255 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.255 [freemarker.cache] [debug] - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/standard-content.ftl"
+[DEBUG] 2023-04-26 15:20:03.273 [freemarker.cache] [debug] - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.274 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.274 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.274 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.274 [freemarker.cache] [debug] - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/spark/partials/scripts.ftl"
+[DEBUG] 2023-04-26 15:20:03.275 [freemarker.cache] [debug] - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+[DEBUG] 2023-04-26 15:20:03.276 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.276 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+[DEBUG] 2023-04-26 15:20:03.276 [freemarker.cache] [debug] - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+[DEBUG] 2023-04-26 15:20:03.276 [freemarker.cache] [debug] - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/amandeep.singh/.m2/repository/com/aventstack/extentreports/5.0.7/extentreports-5.0.7.jar!/com/aventstack/extentreports/templates/commons/commons-inject-js.ftl"
